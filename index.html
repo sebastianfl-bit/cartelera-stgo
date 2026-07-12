@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="es-CL">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Cartelera Santiago</title>
+<meta name="description" content="Toda la cartelera de cine de Santiago sobre un mismo eje horario.">
+<meta name="theme-color" content="#16183A">
+<link rel="manifest" href="manifest.json">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --tinta:#16183A;
+    --tinta-2:#1E2151;
+    --tinta-3:#2A2E66;
+    --hueso:#F2ECE0;
+    --hueso-60:rgba(242,236,224,.60);
+    --hueso-35:rgba(242,236,224,.35);
+    --hueso-14:rgba(242,236,224,.14);
+    --rojo:#FF4438;
+    --menta:#58D7B8;
+    --axis-h:calc(100% - 0px);
+    --gutter:clamp(14px,4vw,32px);
+    --track:44px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    background:var(--tinta);
+    color:var(--hueso);
+    font-family:"IBM Plex Sans",system-ui,sans-serif;
+    font-size:15px;line-height:1.45;
+    padding-bottom:80px;
+    background-image:radial-gradient(ellipse 90% 50% at 50% -10%, rgba(88,215,184,.10), transparent 70%);
+  }
+  .wrap{max-width:1080px;margin:0 auto;padding:0 var(--gutter)}
+
+  /* ---------- Cabecera ---------- */
+  header{padding:clamp(28px,6vw,56px) 0 18px}
+  h1{
+    font-family:"Bricolage Grotesque",sans-serif;
+    font-weight:800;font-size:clamp(38px,9vw,76px);
+    line-height:.92;letter-spacing:-.03em;
+    text-wrap:balance;
+  }
+  h1 em{font-style:normal;color:var(--menta)}
+  .lede{margin-top:12px;max-width:46ch;color:var(--hueso-60);font-size:15px}
+  .meta{
+    margin-top:14px;display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;
+    font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--hueso-35);
+    text-transform:uppercase;letter-spacing:.08em;
+  }
+  .badge-demo{
+    color:var(--tinta);background:var(--rojo);
+    padding:3px 8px;border-radius:2px;font-weight:600;letter-spacing:.06em;
+  }
+
+  /* ---------- Filtros ---------- */
+  .filtros{
+    display:flex;flex-wrap:wrap;gap:6px;
+    padding:16px 0 10px;
+  }
+  .grupo{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-right:10px}
+  .grupo-label{
+    font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--hueso-35);
+    text-transform:uppercase;letter-spacing:.1em;margin-right:2px;
+  }
+  .chip{
+    font:inherit;font-size:13px;
+    background:transparent;color:var(--hueso-60);
+    border:1px solid var(--hueso-14);border-radius:999px;
+    padding:5px 12px;cursor:pointer;
+    transition:background .12s,color .12s,border-color .12s;
+    white-space:nowrap;
+  }
+  .chip:hover{border-color:var(--hueso-35);color:var(--hueso)}
+  .chip[aria-pressed="true"]{background:var(--hueso);color:var(--tinta);border-color:var(--hueso);font-weight:600}
+  .chip:focus-visible,.pelicula:focus-visible,.hora:focus-visible{outline:2px solid var(--menta);outline-offset:2px}
+
+  /* ---------- Regla horaria (el eje compartido) ---------- */
+  .regla-sticky{
+    position:sticky;top:0;z-index:20;
+    background:linear-gradient(var(--tinta) 72%, rgba(22,24,58,0));
+    padding-top:8px;
+  }
+  .regla{
+    position:relative;height:26px;
+    margin-left:var(--track);
+    border-bottom:1px solid var(--hueso-14);
+  }
+  .tick{
+    position:absolute;bottom:0;transform:translateX(-50%);
+    font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--hueso-35);
+    padding-bottom:5px;
+  }
+  .tick::after{
+    content:"";position:absolute;left:50%;bottom:0;width:1px;height:4px;
+    background:var(--hueso-14);
+  }
+  .ahora-linea{
+    position:absolute;top:0;bottom:0;width:1px;background:var(--rojo);
+    z-index:5;pointer-events:none;
+  }
+  .ahora-linea::before{
+    content:"AHORA";position:absolute;top:-2px;left:4px;
+    font-family:"IBM Plex Mono",monospace;font-size:10px;font-weight:600;
+    letter-spacing:.1em;color:var(--rojo);
+  }
+
+  /* ---------- Lista de películas ---------- */
+  .lista{position:relative}
+  .pelicula{
+    display:block;width:100%;text-align:left;
+    background:transparent;border:0;border-bottom:1px solid var(--hueso-14);
+    color:inherit;font:inherit;cursor:pointer;
+    padding:18px 0 16px;
+  }
+  .pelicula:hover .titulo{color:var(--menta)}
+  .fila-top{display:flex;align-items:baseline;gap:12px;margin-bottom:10px}
+  .titulo{
+    font-family:"Bricolage Grotesque",sans-serif;
+    font-weight:700;font-size:clamp(19px,2.6vw,26px);
+    letter-spacing:-.015em;line-height:1.15;
+    transition:color .12s;
+  }
+  .datos{
+    margin-left:auto;flex-shrink:0;
+    font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--hueso-35);
+    letter-spacing:.06em;white-space:nowrap;
+  }
+  .sub{
+    font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--hueso-35);
+    letter-spacing:.05em;text-transform:uppercase;margin-bottom:10px;
+  }
+  .sub b{color:var(--menta);font-weight:600}
+  .sub .pasada{color:var(--hueso-35)}
+
+  /* Pista compacta: cada función es un punto sobre el eje */
+  .pista{
+    position:relative;height:22px;margin-left:var(--track);
+    border-left:1px solid var(--hueso-14);
+  }
+  .punto{
+    position:absolute;top:50%;width:7px;height:7px;border-radius:50%;
+    transform:translate(-50%,-50%);
+    background:var(--hueso-60);
+  }
+  .punto.arte{background:var(--menta)}
+  .punto.pasada{background:transparent;border:1px solid var(--hueso-14)}
+
+  /* ---------- Detalle expandido ---------- */
+  .detalle{
+    padding:4px 0 26px;
+  }
+  .cine-fila{
+    display:grid;grid-template-columns:var(--track) 1fr;
+    align-items:start;gap:0;
+    padding:12px 0;border-top:1px dashed var(--hueso-14);
+  }
+  .cine-fila:first-child{border-top:0}
+  .cine-marca{
+    font-family:"IBM Plex Mono",monospace;font-size:10px;font-weight:600;
+    letter-spacing:.08em;color:var(--hueso-35);
+    writing-mode:vertical-rl;transform:rotate(180deg);
+    height:100%;padding-right:8px;
+  }
+  .cine-info{min-width:0}
+  .cine-nombre{
+    font-weight:600;font-size:14px;margin-bottom:2px;
+    display:flex;align-items:center;gap:8px;flex-wrap:wrap;
+  }
+  .cine-nombre .arte-tag{
+    font-family:"IBM Plex Mono",monospace;font-size:9.5px;letter-spacing:.1em;
+    color:var(--menta);border:1px solid var(--menta);border-radius:2px;padding:1px 5px;
+  }
+  .cine-comuna{
+    font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--hueso-35);
+    letter-spacing:.05em;margin-bottom:10px;
+  }
+  .carril{position:relative;width:100%}
+  .hora{
+    position:absolute;
+    font-family:"IBM Plex Mono",monospace;font-size:12px;font-weight:600;
+    background:var(--tinta-2);color:var(--hueso);
+    border:1px solid var(--hueso-14);border-radius:3px;
+    padding:4px 6px;cursor:pointer;white-space:nowrap;
+    transition:background .12s,border-color .12s,transform .12s;
+  }
+  .hora:hover{background:var(--hueso);color:var(--tinta);border-color:var(--hueso);transform:translateY(-1px);z-index:3}
+  .hora .fmt{
+    display:block;font-size:9px;font-weight:400;letter-spacing:.06em;
+    color:var(--hueso-35);margin-top:1px;
+  }
+  .hora:hover .fmt{color:var(--tinta)}
+  .hora.pasada{opacity:.32;pointer-events:none}
+  .hora.pronto{border-color:var(--rojo);color:var(--rojo)}
+  .hora.pronto .fmt{color:var(--rojo)}
+
+  .vacio{
+    padding:56px 0;text-align:center;color:var(--hueso-35);
+    font-family:"IBM Plex Mono",monospace;font-size:13px;
+  }
+  .vacio b{display:block;color:var(--hueso);font-family:"Bricolage Grotesque",sans-serif;font-size:22px;margin-bottom:8px}
+
+  @media (max-width:640px){
+    :root{--track:0px}
+    .cine-marca{display:none}
+    .cine-fila{grid-template-columns:1fr}
+    .datos{display:none}
+  }
+  @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <h1>Cartelera<br><em>Santiago</em></h1>
+    <p class="lede">Todas las funciones del día sobre un mismo eje horario. Escanea hacia abajo y encuentra la película que alcanzas a ver.</p>
+    <div class="meta" id="meta"></div>
+  </header>
+
+  <div class="filtros" id="filtros"></div>
+
+  <div class="regla-sticky">
+    <div class="regla" id="regla"></div>
+  </div>
+
+  <main class="lista" id="lista"></main>
+
+</div>
+
+<script>
+const AXIS_INI = 11 * 60;   // 11:00
+const AXIS_FIN = 26 * 60;   // 02:00 del día siguiente
+const AXIS_SPAN = AXIS_FIN - AXIS_INI;
+
+let DATA = null;
+const estado = { dia:null, comunas:new Set(), tipos:new Set(), idiomas:new Set(), desdeAhora:true, abierta:null };
+
+/* Minutos desde medianoche del día de cartelera, permitiendo trasnoche (>24h) */
+function minutosEje(iso, fechaBase){
+  const d = new Date(iso);
+  const base = new Date(fechaBase + "T00:00:00");
+  return Math.round((d - base) / 60000);
+}
+function esHoy(){ return estado.dia === new Date().toLocaleDateString("en-CA",{timeZone:"America/Santiago"}); }
+function pct(min){
+  return Math.min(100, Math.max(0, ((min - AXIS_INI) / AXIS_SPAN) * 100));
+}
+function hhmm(min){
+  const h = Math.floor(min / 60) % 24, m = min % 60;
+  return String(h).padStart(2,"0") + ":" + String(m).padStart(2,"0");
+}
+/* Si estás mirando un día futuro, "ahora" no aplica: nada está pasado. */
+function ahoraMin(){
+  if (!esHoy()) return -Infinity;
+  const n = new Date();
+  const base = new Date(estado.dia + "T00:00:00");
+  return Math.round((n - base) / 60000);
+}
+
+async function cargar(){
+  const res = await fetch("data/cartelera.json", { cache:"no-cache" });
+  DATA = await res.json();
+  DATA.cineIdx = Object.fromEntries(DATA.cines.map(c => [c.id, c]));
+  DATA.dias = DATA.dias ?? [DATA.fecha];
+  estado.dia = DATA.dias[0];
+  pintarMeta();
+  pintarFiltros();
+  pintarRegla();
+  pintarLista();
+  setInterval(() => { pintarRegla(); pintarLista(); }, 60000);
+}
+
+function pintarMeta(){
+  const gen = new Date(DATA.generado);
+  const fecha = new Date(DATA.fecha + "T12:00:00")
+    .toLocaleDateString("es-CL", { weekday:"long", day:"numeric", month:"long" });
+  const n = DATA.peliculas.reduce((a,p) => a + p.funciones.length, 0);
+  document.getElementById("meta").innerHTML =
+    (DATA.demo ? '<span class="badge-demo">Datos de demostración</span>' : "") +
+    `<span>${fecha}</span><span>${DATA.peliculas.length} películas · ${n} funciones</span>` +
+    `<span>Actualizado ${gen.toLocaleTimeString("es-CL",{hour:"2-digit",minute:"2-digit"})}</span>`;
+}
+
+function grupoChips(label, items, set, key){
+  const cont = document.createElement("div");
+  cont.className = "grupo";
+  cont.innerHTML = `<span class="grupo-label">${label}</span>`;
+  items.forEach(([val, txt]) => {
+    const b = document.createElement("button");
+    b.className = "chip";
+    b.textContent = txt;
+    b.setAttribute("aria-pressed", set.has(val));
+    b.onclick = () => {
+      set.has(val) ? set.delete(val) : set.add(val);
+      b.setAttribute("aria-pressed", set.has(val));
+      pintarLista();
+    };
+    cont.appendChild(b);
+  });
+  return cont;
+}
+
+/* Selector de día: única opción activa a la vez. */
+function grupoDias(){
+  const cont = document.createElement("div");
+  cont.className = "grupo";
+  cont.innerHTML = `<span class="grupo-label">Día</span>`;
+  const hoy = new Date().toLocaleDateString("en-CA",{timeZone:"America/Santiago"});
+  DATA.dias.forEach((d, i) => {
+    const b = document.createElement("button");
+    b.className = "chip";
+    b.textContent = d === hoy ? "Hoy"
+      : i === 1 ? "Mañana"
+      : new Date(d + "T12:00:00").toLocaleDateString("es-CL",{weekday:"short", day:"numeric"});
+    b.setAttribute("aria-pressed", estado.dia === d);
+    b.onclick = () => {
+      estado.dia = d;
+      estado.abierta = null;
+      [...cont.querySelectorAll(".chip")].forEach(c => c.setAttribute("aria-pressed", false));
+      b.setAttribute("aria-pressed", true);
+      pintarRegla(); pintarLista();
+    };
+    cont.appendChild(b);
+  });
+  return cont;
+}
+
+function pintarFiltros(){
+  const cont = document.getElementById("filtros");
+  cont.appendChild(grupoDias());
+  const comunas = [...new Set(DATA.cines.map(c => c.comuna))].sort();
+  cont.appendChild(grupoChips("Comuna", comunas.map(c => [c, c]), estado.comunas));
+  cont.appendChild(grupoChips("Cine", [["cadena","Cadenas"],["arte","Cine arte"]], estado.tipos));
+  cont.appendChild(grupoChips("Idioma", [["SUB","Subtitulada"],["DOB","Doblada"]], estado.idiomas));
+
+  const g = document.createElement("div");
+  g.className = "grupo";
+  const b = document.createElement("button");
+  b.className = "chip";
+  b.textContent = "Solo lo que alcanzo";
+  b.setAttribute("aria-pressed", estado.desdeAhora);
+  b.onclick = () => {
+    estado.desdeAhora = !estado.desdeAhora;
+    b.setAttribute("aria-pressed", estado.desdeAhora);
+    pintarLista();
+  };
+  g.appendChild(b);
+  cont.appendChild(g);
+}
+
+function pintarRegla(){
+  const r = document.getElementById("regla");
+  r.innerHTML = "";
+  for (let h = 12; h <= 26; h += 2){
+    const t = document.createElement("span");
+    t.className = "tick";
+    t.style.left = pct(h * 60) + "%";
+    t.textContent = hhmm(h * 60);
+    r.appendChild(t);
+  }
+  const a = ahoraMin();
+  if (a >= AXIS_INI && a <= AXIS_FIN){
+    const l = document.createElement("div");
+    l.className = "ahora-linea";
+    l.style.left = pct(a) + "%";
+    r.appendChild(l);
+  }
+}
+
+function pasaFiltros(f){
+  const cine = DATA.cineIdx[f.cine];
+  if (!cine) return false;
+  if ((f.dia ?? DATA.fecha) !== estado.dia) return false;
+  if (estado.comunas.size && !estado.comunas.has(cine.comuna)) return false;
+  if (estado.tipos.size && !estado.tipos.has(cine.tipo)) return false;
+  if (estado.idiomas.size && !estado.idiomas.has(f.idioma)) return false;
+  return true;
+}
+
+function pintarLista(){
+  const lista = document.getElementById("lista");
+  const a = ahoraMin();
+
+  const items = DATA.peliculas.map(p => {
+    let fs = p.funciones.filter(pasaFiltros)
+      .map(f => ({ ...f, min: minutosEje(f.inicio, estado.dia) }));
+    if (estado.desdeAhora) fs = fs.filter(f => f.min >= a - 10);
+    fs.sort((x,y) => x.min - y.min);
+    return { ...p, fs };
+  }).filter(p => p.fs.length);
+
+  items.sort((x,y) => x.fs[0].min - y.fs[0].min || x.titulo.localeCompare(y.titulo,"es"));
+
+  lista.innerHTML = "";
+  if (!items.length){
+    lista.innerHTML = `<div class="vacio"><b>Nada que calce</b>No hay funciones con esos filtros. Suelta alguno o desactiva “Solo lo que alcanzo”.</div>`;
+    return;
+  }
+
+  items.forEach(p => {
+    const prox = p.fs.find(f => f.min >= a);
+    const art = document.createElement("article");
+
+    const btn = document.createElement("button");
+    btn.className = "pelicula";
+    btn.setAttribute("aria-expanded", estado.abierta === p.id);
+    btn.innerHTML = `
+      <div class="fila-top">
+        <span class="titulo">${p.titulo}</span>
+        <span class="datos">${p.duracion ? p.duracion + " min" : ""}${p.clasificacion && p.clasificacion !== "S/I" ? " · " + p.clasificacion : ""}</span>
+      </div>
+      <div class="sub">
+        ${prox ? `Próxima <b>${hhmm(prox.min)}</b> en ${DATA.cineIdx[prox.cine].nombre}`
+               : `<span class="pasada">Sin funciones por delante</span>`}
+        · ${p.fs.length} ${p.fs.length === 1 ? "función" : "funciones"}
+      </div>
+      <div class="pista"></div>`;
+
+    const pista = btn.querySelector(".pista");
+    p.fs.forEach(f => {
+      const d = document.createElement("span");
+      const cine = DATA.cineIdx[f.cine];
+      d.className = "punto" + (cine.tipo === "arte" ? " arte" : "") + (f.min < a ? " pasada" : "");
+      d.style.left = pct(f.min) + "%";
+      d.title = `${hhmm(f.min)} — ${cine.nombre}`;
+      pista.appendChild(d);
+    });
+
+    btn.onclick = () => {
+      estado.abierta = estado.abierta === p.id ? null : p.id;
+      pintarLista();
+    };
+    art.appendChild(btn);
+
+    if (estado.abierta === p.id) art.appendChild(pintarDetalle(p, a));
+    lista.appendChild(art);
+  });
+}
+
+function pintarDetalle(p, a){
+  const det = document.createElement("div");
+  det.className = "detalle";
+
+  const porCine = {};
+  p.fs.forEach(f => (porCine[f.cine] ||= []).push(f));
+
+  Object.entries(porCine)
+    .sort((x,y) => x[1][0].min - y[1][0].min)
+    .forEach(([cineId, fs]) => {
+      const cine = DATA.cineIdx[cineId];
+      const fila = document.createElement("div");
+      fila.className = "cine-fila";
+      fila.innerHTML = `
+        <div class="cine-marca">${cine.cadena}</div>
+        <div class="cine-info">
+          <div class="cine-nombre">${cine.nombre}${cine.tipo === "arte" ? '<span class="arte-tag">CINE ARTE</span>' : ""}</div>
+          <div class="cine-comuna">${cine.comuna}</div>
+          <div class="carril"></div>
+        </div>`;
+
+      const carril = fila.querySelector(".carril");
+      fs.forEach(f => {
+        const b = document.createElement("button");
+        b.className = "hora" + (f.min < a ? " pasada" : "") + (f.min >= a && f.min < a + 45 ? " pronto" : "");
+        const extra = [f.formato, ...(f.atributos ?? []), f.idioma !== "S/I" ? f.idioma : null]
+          .filter(Boolean).join(" ");
+        b.innerHTML = `${hhmm(f.min)}<span class="fmt">${extra}</span>`;
+        b.style.left = pct(f.min) + "%";
+        if (f.sala) b.title = f.sala;
+        if (f.url) b.onclick = e => { e.stopPropagation(); window.open(f.url, "_blank", "noopener"); };
+        else b.onclick = e => e.stopPropagation();
+        carril.appendChild(b);
+      });
+      det.appendChild(fila);
+      requestAnimationFrame(() => acomodarCarril(carril));
+    });
+
+  return det;
+}
+
+/* Evita que las funciones cercanas se pisen: las reparte en carriles apilados. */
+function acomodarCarril(carril){
+  const chips = [...carril.children];
+  const W = carril.clientWidth || 1;
+  const H = chips[0]?.offsetHeight || 34;
+  const finCarril = [];   // borde derecho ocupado por carril
+
+  chips.forEach(chip => {
+    const left = (parseFloat(chip.style.left) / 100) * W;
+    const w = chip.offsetWidth;
+    // No dejar que el chip se salga por la derecha
+    const x = Math.min(left, W - w);
+    let carrilIdx = 0;
+    while (finCarril[carrilIdx] != null && x < finCarril[carrilIdx] + 6) carrilIdx++;
+    finCarril[carrilIdx] = x + w;
+    chip.style.left = ((x / W) * 100) + "%";
+    chip.style.top = (carrilIdx * (H + 6)) + "px";
+  });
+  carril.style.height = (finCarril.length * (H + 6)) + "px";
+}
+
+window.addEventListener("resize", () => { if (estado.abierta) pintarLista(); });
+cargar();
+
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+</script>
+</body>
+</html>

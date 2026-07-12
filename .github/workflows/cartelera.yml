@@ -1,0 +1,39 @@
+name: Actualizar cartelera
+
+on:
+  schedule:
+    # 07:00 y 12:00 hora de Chile (UTC-4). Temprano a propósito: Cinemark va borrando
+    # las funciones ya pasadas, así que un scrape nocturno deja el día casi vacío.
+    - cron: "0 11,16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - run: npm ci
+
+      - name: Construir cartelera
+        run: node scripts/scrape.mjs
+
+      - name: Publicar si cambió
+        run: |
+          if git diff --quiet data/cartelera.json; then
+            echo "Sin cambios."
+            exit 0
+          fi
+          git config user.name  "cartelera-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/cartelera.json
+          git commit -m "cartelera $(date -u +%F' '%H:%M) UTC"
+          git push
