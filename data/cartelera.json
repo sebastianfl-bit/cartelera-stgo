@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-12T23:53:52.430Z",
+  "generado": "2026-07-12T23:55:56.345Z",
   "fecha": "2026-07-12",
   "dias": [
     "2026-07-12",
@@ -5753,18 +5753,6 @@
       "genero": null,
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015081.jpg",
       "funciones": [
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-12",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-12T19:55:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
         {
           "cine": "cinemark-mallplaza-vespucio",
           "dia": "2026-07-12",
