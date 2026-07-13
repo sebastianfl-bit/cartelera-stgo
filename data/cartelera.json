@@ -1,11 +1,11 @@
 {
-  "generado": "2026-07-13T02:07:24.338Z",
-  "fecha": "2026-07-12",
+  "generado": "2026-07-13T13:12:45.341Z",
+  "fecha": "2026-07-13",
   "dias": [
-    "2026-07-12",
     "2026-07-13",
     "2026-07-14",
-    "2026-07-15"
+    "2026-07-15",
+    "2026-07-16"
   ],
   "fallidos": [
     "Cine Arte Normandie",
@@ -150,99 +150,6 @@
       "genero": null,
       "poster": "https://cdn.cinemark.cl/content/posters/HO00014963.jpg",
       "funciones": [
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T20:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T21:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T21:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T21:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T21:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-07-12",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T22:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T22:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-12",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-12",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
         {
           "cine": "cinemark-mallplaza-tobalaba",
           "dia": "2026-07-13",
@@ -4601,76 +4508,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015170.jpg",
       "funciones": [
         {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T21:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T21:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T21:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T21:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-12",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-12",
-          "sala": "Sala 10",
-          "formato": "XD",
-          "atributos": [
-            "XD",
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-12",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-13",
           "sala": "Sala 12",
@@ -8296,60 +8133,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015081.jpg",
       "funciones": [
         {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T20:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T21:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T21:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T21:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-12",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-07-12",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-13",
           "sala": "Sala 3",
@@ -11114,153 +10897,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015036.jpg",
       "funciones": [
         {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T21:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T21:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T21:35:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-12T21:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T21:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T22:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-12",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-07-12",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-07-12",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-07-12T22:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-07-12",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-12",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-07-12",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-07-12T22:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-12",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-12",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-13",
           "sala": "Sala 6",
@@ -12711,18 +12347,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015029.jpg",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-12",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-dia-de-la-revelacion/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-alto-las-condes",
           "dia": "2026-07-13",
           "sala": "Sala 8",
@@ -13202,6 +12826,340 @@
       ]
     },
     {
+      "id": "la-odisea",
+      "titulo": "La Odisea",
+      "duracion": 172,
+      "clasificacion": "S/I",
+      "genero": "ACCION",
+      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001834?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "funciones": [
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-16T12:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T13:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T13:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-16T13:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-16T13:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-16T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T14:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-16T14:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-16T14:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-16T14:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T15:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T15:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T16:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T16:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-16T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-16T17:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-16T18:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-16T18:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T18:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-16T18:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T18:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T20:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T20:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T20:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T20:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-16T21:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-16T21:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-16T21:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T21:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T21:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-07-16",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "SUB",
+          "inicio": "2026-07-16T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        }
+      ]
+    },
+    {
       "id": "obsesion",
       "titulo": "Obsesión",
       "duracion": 109,
@@ -13209,42 +13167,6 @@
       "genero": null,
       "poster": "https://cdn.cinemark.cl/content/posters/HO00014838.jpg",
       "funciones": [
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-12T21:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/obsesion"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T22:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/obsesion"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-07-12",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/obsesion/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-12T22:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/obsesion"
-        },
         {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-07-13",
@@ -13491,298 +13413,6 @@
       ]
     },
     {
-      "id": "scary-movie",
-      "titulo": "Scary Movie",
-      "duracion": 96,
-      "clasificacion": "+14",
-      "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00014946.jpg",
-      "funciones": [
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T21:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T22:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-12T22:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-12",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-12",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-12",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-13",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-13T13:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-13",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-13T18:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-13",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-13T20:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-13",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-13T21:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-07-13",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-13T21:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-13",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-13T22:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-13",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-13T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-13",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-13T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-14",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-14T13:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-14",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-14T18:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-14",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-14T20:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-14",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-14T21:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-07-14",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-14T21:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-14",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-14T22:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-14",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-14T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-14",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-14T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-15",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-15T13:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-15",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-15T18:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-15",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-15T20:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-15",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-15T21:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-07-15",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-15T21:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-15",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-15T22:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-15",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-15T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-15",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-15T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
-        }
-      ]
-    },
-    {
       "id": "supergirl",
       "titulo": "Supergirl",
       "duracion": 108,
@@ -13790,27 +13420,6 @@
       "genero": null,
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015004.jpg",
       "funciones": [
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-12",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/supergirl/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-12",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-12T22:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/supergirl/compra-entradas/entradas"
-        },
         {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-07-13",
@@ -14048,6 +13657,241 @@
       ]
     },
     {
+      "id": "scary-movie",
+      "titulo": "Scary Movie",
+      "duracion": 96,
+      "clasificacion": "+14",
+      "genero": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00014946.jpg",
+      "funciones": [
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-13",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-13T13:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-13",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-13T18:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-07-13",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-13T20:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-13",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-13T21:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-07-13",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-13T21:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-07-13",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-13T22:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-13",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-13T22:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-07-13",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-13T22:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-14",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-14T13:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-14",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-14T18:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-07-14",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-14T20:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-14",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-14T21:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-07-14",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-14T21:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-07-14",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-14T22:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-14",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-14T22:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-07-14",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-14T22:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-15",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-15T13:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-15",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-15T18:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-07-15",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-15T20:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-15",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-15T21:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-07-15",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-15T21:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-07-15",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-15T22:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-15",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-15T22:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-07-15",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-15T22:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
+        }
+      ]
+    },
+    {
       "id": "backrooms",
       "titulo": "Backrooms",
       "duracion": 110,
@@ -14055,15 +13899,6 @@
       "genero": null,
       "poster": "https://cdn.cinemark.cl/content/posters/HO00014919.jpg",
       "funciones": [
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-07-12",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-07-12T22:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/backrooms"
-        },
         {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-13",
