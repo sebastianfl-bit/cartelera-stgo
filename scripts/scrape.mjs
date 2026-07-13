@@ -26,6 +26,10 @@ const CINES = [
   { id: "cinemark-mid-mall-maipu",     nombre: "Cinemark Mid Mall Maipú",     cadena: "Cinemark", tipo: "cadena", comuna: "Maipú",        slug: "cinemark-mid-mall-maipu" },
   { id: "cinemark-gran-avenida",       nombre: "Cinemark Gran Avenida",       cadena: "Cinemark", tipo: "cadena", comuna: "San Miguel",   slug: "cinemark-gran-avenida" },
 
+  // Cineplanet se autodescubre: un solo request trae todas sus sedes.
+  // Esta entrada dispara el adaptador; las sedes reales se agregan solas.
+  { id: "__cineplanet__", nombre: "Cineplanet (todas las sedes)", cadena: "Cineplanet", tipo: "cadena", comuna: "—", virtual: true },
+
   { id: "normandie",         nombre: "Cine Arte Normandie", cadena: "Normandie", tipo: "arte", comuna: "Santiago Centro" },
   { id: "cineteca-nacional", nombre: "Cineteca Nacional",   cadena: "Cineteca",  tipo: "arte", comuna: "Santiago Centro" },
   { id: "cine-uc",           nombre: "Cine UC",             cadena: "Cine UC",   tipo: "arte", comuna: "Santiago Centro" },
@@ -145,6 +149,138 @@ function parseDuracionISO(v) {
   return (parseInt(m[1] || 0, 10) * 60) + parseInt(m[2] || 0, 10);
 }
 
+
+/* ================================================================== */
+/* CINEPLANET                                                          */
+/* ================================================================== */
+/**
+ * SPA pura (React): no hay nada que scrapear en el HTML. Pero detrás hay una
+ * API JSON limpia, protegida por Azure API Management. Tres endpoints:
+ *
+ *   cinemascache  → catálogo de cines (ID, nombre, comuna, lat/lng)
+ *   moviescache   → catálogo de películas, con cinemas[].dates[].sessions[]
+ *   sessioncache  → detalle de cada sesión (hora, formato, IDIOMA)
+ *
+ * Se necesitan DOS credenciales:
+ *   1. ocp-apim-subscription-key → hardcodeada en su bundle JS (pública por diseño).
+ *   2. cookie channel-token      → JWT que la home emite por Set-Cookie a cualquiera.
+ *      Sin login. Expira en ~1 hora, así que se pide fresca en cada corrida.
+ *
+ * Ventaja sobre Cinemark: acá SÍ viene el idioma (SUB/DOB), la fecha viene bien
+ * formada, y un solo request trae TODOS los cines de Chile (no hay que iterar sedes).
+ */
+const CP_API = "https://www.cineplanet.cl/v3/api/cache";
+const CP_KEY_FALLBACK = "c6f97c336b60469189a010a5836fe891";
+
+async function cineplanetDatos() {
+  // La home nos regala el channel-token vía Set-Cookie. Sin login.
+  const home = await fetch("https://www.cineplanet.cl/", { headers: { "User-Agent": UA } });
+  const setCookie = home.headers.getSetCookie?.() ?? [];
+  const token = setCookie.join(";").match(/channel-token=([^;]+)/)?.[1];
+  if (!token) throw new Error("La home no entregó channel-token. ¿Cambió el flujo de auth?");
+
+  const key = await keyCineplanet(await home.text());
+  const headers = {
+    "User-Agent": UA,
+    "Accept": "application/json",
+    "ocp-apim-subscription-key": key,
+    "Cookie": `channel-token=${token}`,
+  };
+
+  const [cines, pelis, sesiones] = await Promise.all([
+    getJSON(`${CP_API}/cinemascache`, headers),
+    getJSON(`${CP_API}/moviescache`, headers),
+    getJSON(`${CP_API}/sessioncache`, headers),
+  ]);
+  return { cines: cines.cinemas ?? [], pelis: pelis.movies ?? [], sesiones: sesiones.sessions ?? [] };
+}
+
+/** La subscription key vive en el bundle. Extraerla evita morir en silencio si la rotan. */
+async function keyCineplanet(homeHtml) {
+  try {
+    const bundle = homeHtml.match(/\/main\.[a-f0-9]+\.js/)?.[0];
+    if (!bundle) return CP_KEY_FALLBACK;
+    const js = await getHTML("https://www.cineplanet.cl" + bundle);
+    return js.match(/[a-f0-9]{32}/)?.[0] ?? CP_KEY_FALLBACK;
+  } catch {
+    return CP_KEY_FALLBACK;
+  }
+}
+
+/** Cineplanet se resuelve de una sola pasada: devuelve funciones de TODAS sus sedes. */
+async function cineplanet() {
+  const { cines, pelis, sesiones } = await cineplanetDatos();
+
+  // Solo cines de Santiago (la API trae todo Chile: Copiapó, Temuco, etc.)
+  const idxCine = new Map();
+  for (const c of cines) {
+    if (!esSantiago(c.city)) continue;
+    idxCine.set(c.ID, {
+      id: `cineplanet-${c.formattedCinemaName}`,
+      nombre: c.name,
+      cadena: "Cineplanet",
+      tipo: "cadena",
+      comuna: c.city,
+      lat: parseFloat(c.latitude) || undefined,
+      lng: parseFloat(c.longitude) || undefined,
+    });
+  }
+  // Registrar las sedes descubiertas para que el frontend sepa de ellas.
+  for (const c of idxCine.values()) if (!CINES.some(x => x.id === c.id)) CINES.push(c);
+
+  const idxSesion = new Map(sesiones.map(s => [s.id, s]));
+  const out = [];
+
+  for (const p of pelis) {
+    for (const c of p.cinemas ?? []) {
+      const cine = idxCine.get(c.cinemaId);
+      if (!cine) continue;                          // fuera de Santiago
+      for (const d of c.dates ?? []) {
+        for (const sid of d.sessions ?? []) {
+          const s = idxSesion.get(sid);
+          if (!s?.showtime) continue;
+          out.push({
+            cineId: cine.id,
+            titulo: limpiarTitulo(p.title),
+            duracion: p.runTime || 0,
+            clasificacion: p.ratingDescription && p.ratingDescription !== "TBC" ? p.ratingDescription : "S/I",
+            genero: p.genre || null,
+            poster: p.posterUrl || null,
+            sala: null,                             // la API no expone el número de sala
+            formato: formatoCineplanet(s.formats),
+            atributos: [],
+            idioma: idiomaCineplanet(s.languages),
+            inicio: s.showtime,                     // ya viene con offset chileno correcto
+            url: p.movieDetailsUrl ? `https://www.cineplanet.cl/pelicula/${p.movieDetailsUrl}` : null,
+          });
+        }
+      }
+    }
+  }
+  return out;
+}
+
+/** "CONV" es sala convencional, no un formato. Lo ignoramos. */
+function formatoCineplanet(formats = []) {
+  const f = formats.map(x => String(x).toUpperCase());
+  for (const especial of ["IMAX", "4DX", "XTREME", "PRIME"]) if (f.includes(especial)) return especial;
+  return f.includes("3D") ? "3D" : "2D";
+}
+
+/** "SUBTITULAD" / "DOBLADA" → SUB / DOB */
+function idiomaCineplanet(languages = []) {
+  const l = languages.join(" ").toUpperCase();
+  if (l.includes("DOBLAD")) return "DOB";
+  if (l.includes("SUBTITUL")) return "SUB";
+  return "S/I";
+}
+
+/** La API trae todo Chile. Nos quedamos con la RM. */
+function esSantiago(city) {
+  return /santiago|providencia|las condes|maip|florida|nunoa|ñuñoa|quilicura|puente alto|san bernardo|estacion central|estación central|vitacura|la reina|penalolen|peñalolén|huechuraba|independencia|recoleta|renca|cerrillos|san miguel|la cisterna|quilin|quilín/i
+    .test(String(city ?? ""));
+}
+
 /* ================================================================== */
 /* CINE ARTE — pendientes (HTML plano, ajusta los selectores)          */
 /* ================================================================== */
@@ -175,6 +311,7 @@ async function cineuc()   { throw new Error("Adaptador pendiente"); }
 
 const ADAPTADORES = {
   Cinemark: cinemark,
+  Cineplanet: cineplanet,
   Normandie: normandie,
   Cineteca: cineteca,
   "Cine UC": cineuc,
@@ -190,6 +327,12 @@ async function getHTML(url) {
   const r = await fetch(url, { headers: { "User-Agent": UA } });
   if (!r.ok) throw new Error(`HTTP ${r.status} en ${url}`);
   return r.text();
+}
+
+async function getJSON(url, headers = {}) {
+  const r = await fetch(url, { headers: { "User-Agent": UA, ...headers } });
+  if (!r.ok) throw new Error(`HTTP ${r.status} en ${url}`);
+  return r.json();
 }
 
 function num(v) {
@@ -320,7 +463,7 @@ async function main() {
     fecha: HOY,
     dias,
     fallidos: fallidos.length ? fallidos : undefined,
-    cines: CINES.map(({ slug: _s, ...c }) => c),
+    cines: CINES.filter(c => !c.virtual).map(({ slug: _s, virtual: _v, ...c }) => c),
     peliculas,
   };
 
