@@ -10,6 +10,7 @@
 
 import { writeFile, mkdir } from "node:fs/promises";
 import * as cheerio from "cheerio";
+import { scrapeCinepolis } from "./cinepolis.mjs";
 
 const TZ = "America/Santiago";
 const HOY = fechaChile();
@@ -29,6 +30,9 @@ const CINES = [
   // Cineplanet se autodescubre: un solo request trae todas sus sedes.
   // Esta entrada dispara el adaptador; las sedes reales se agregan solas.
   { id: "__cineplanet__", nombre: "Cineplanet (todas las sedes)", cadena: "Cineplanet", tipo: "cadena", comuna: "—", virtual: true },
+
+  // Cinépolis también se autodescubre (Playwright + GraphQL).
+  { id: "__cinepolis__", nombre: "Cinépolis (todas las sedes)", cadena: "Cinépolis", tipo: "cadena", comuna: "—", virtual: true },
 
   { id: "normandie",         nombre: "Cine Arte Normandie", cadena: "Normandie", tipo: "arte", comuna: "Santiago Centro" },
   { id: "cineteca-nacional", nombre: "Cineteca Nacional",   cadena: "Cineteca",  tipo: "arte", comuna: "Santiago Centro" },
@@ -281,29 +285,108 @@ function esSantiago(city) {
     .test(String(city ?? ""));
 }
 
+
+/* ================================================================== */
+/* CINÉPOLIS / CINEHOYTS  (son la misma cadena: Cinépolis compró Cinehoyts) */
+/* ================================================================== */
+/**
+ * Vive en scripts/cinepolis.mjs porque necesita Playwright: su API está detrás
+ * de Cloudflare, que bloquea por fingerprint TLS y no se puede esquivar con fetch.
+ *
+ * Es el adaptador más frágil de los tres. Puede fallar en GitHub Actions aunque
+ * funcione en local, porque Cloudflare desconfía más de las IPs de datacenter.
+ * Si falla, devuelve [] y el resto de la cartelera se publica igual.
+ */
+async function cinepolis() {
+  // EXPERIMENTAL Y DESACTIVADO. La API de Cinépolis ignora el parámetro de cine en
+  // el reenvío: solo devuelve la cartelera del cine cargado por interacción real.
+  // Scrapear las 23 sedes exigiría emular clicks en el selector de la SPA, algo
+  // frágil que además difícilmente sobrevive en GitHub Actions (Cloudflare + IP de
+  // datacenter). El mecanismo quedó demostrado; activar con CINEPOLIS=1 para probar.
+  if (!process.env.CINEPOLIS) return [];
+  const { cines, funciones } = await scrapeCinepolis({ limpiarTitulo });
+  for (const c of cines) if (!CINES.some(x => x.id === c.id)) CINES.push(c);
+  // datetime viene sin offset ("2026-07-29T20:30:00"): le estampamos el de Chile.
+  return funciones.map(f => ({ ...f, inicio: estampar(f.inicio) }));
+}
+
+/** "2026-07-29T20:30:00" → "2026-07-29T20:30:00-04:00" */
+function estampar(v) {
+  if (!v) return null;
+  if (/[+-]\d{2}:\d{2}$/.test(v)) return v;          // ya trae offset
+  const m = String(v).match(/^(\d{4}-\d{2}-\d{2})T(\d{2}):(\d{2})/);
+  if (!m) return null;
+  return `${m[1]}T${m[2]}:${m[3]}:00${offsetChile(m[1])}`;
+}
+
 /* ================================================================== */
 /* CINE ARTE — pendientes (HTML plano, ajusta los selectores)          */
 /* ================================================================== */
 async function normandie(cine) {
-  const html = await getHTML("https://REEMPLAZAR/cartelera");
+  const html = await getHTML("https://normandie.cl/cartelera/");
   const $ = cheerio.load(html);
   const out = [];
-  $(".pelicula").each((_, el) => {
-    const titulo = $(el).find("h2").first().text().trim();
-    $(el).find(".horario").each((__, h) => {
-      const hora = $(h).text().match(/\d{1,2}:\d{2}/)?.[0];
-      if (!titulo || !hora) return;
-      out.push({
-        cineId: cine.id, titulo: limpiarTitulo(titulo),
-        duracion: num($(el).find(".duracion").text()) ?? 0,
-        clasificacion: "S/I", genero: null, poster: null,
-        sala: "Sala 1", formato: "2D", atributos: [],
-        idioma: normIdioma($(h).text()),
-        inicio: horaSuelta(HOY, hora), url: null,
-      });
-    });
+  const DIAS = ["domingo", "lunes", "martes", "miercoles", "jueves", "viernes", "sabado"];
+
+  $(".contenedorcartelera").each((_, cont) => {
+    // El encabezado da mes y año: "Semana desde el jueves 9 al miércoles 15 de julio"
+    const encabezado = $(cont).find(".titulocartelera").text();
+    const { mes, anio } = mesAnioDesde(encabezado);
+
+    // Cada sección es un día: clase .jueves/.viernes/... y un <h5> "Jueves 9"
+    for (const dia of DIAS) {
+      const sec = $(cont).find(`.${dia}`);
+      if (!sec.length) continue;
+
+      const h5 = sec.find("h5").text();               // "Jueves 9"
+      const numDia = parseInt(h5.match(/\d+/)?.[0] ?? "", 10);
+      if (!numDia) continue;
+      const fecha = armarFecha(anio, mes, numDia);      // YYYY-MM-DD
+
+      // El contenido mezcla texto ("15:00 hrs.") y <a> (título). Recorremos el HTML.
+      // Patrón: una hora, seguida de un <strong><a>título</a>.
+      const htmlSec = sec.html() ?? "";
+      const trozos = htmlSec.split(/<hr\s*\/?>/i);
+      for (const trozo of trozos) {
+        const hora = trozo.match(/(\d{1,2}):(\d{2})\s*hrs?/i);
+        if (!hora) continue;
+        const $t = cheerio.load(trozo);
+        const a = $t("a").first();
+        const titulo = a.text().trim() || $t("strong").first().text().trim();
+        if (!titulo) continue;
+        out.push({
+          cineId: cine.id,
+          titulo: limpiarTitulo(titulo),
+          duracion: 0,
+          clasificacion: "S/I",
+          genero: "Cine arte",
+          poster: null,
+          sala: null,
+          formato: "2D",
+          atributos: [],
+          idioma: "SUB",                                // cine arte: subtitulado por defecto
+          inicio: `${fecha}T${hora[1].padStart(2,"0")}:${hora[2]}:00${offsetChile(fecha)}`,
+          url: a.attr("href") || null,
+        });
+      }
+    }
   });
   return out;
+}
+
+const MESES = { enero:1, febrero:2, marzo:3, abril:4, mayo:5, junio:6, julio:7,
+  agosto:8, septiembre:9, setiembre:9, octubre:10, noviembre:11, diciembre:12 };
+
+function mesAnioDesde(texto) {
+  const t = texto.toLowerCase();
+  const mes = Object.keys(MESES).find(m => t.includes(m));
+  const anio = t.match(/20\d{2}/)?.[0];
+  return { mes: mes ? MESES[mes] : (new Date().getMonth() + 1),
+           anio: anio ? parseInt(anio, 10) : new Date().getFullYear() };
+}
+
+function armarFecha(anio, mes, dia) {
+  return `${anio}-${String(mes).padStart(2,"0")}-${String(dia).padStart(2,"0")}`;
 }
 
 async function cineteca() { throw new Error("Adaptador pendiente"); }
@@ -312,6 +395,7 @@ async function cineuc()   { throw new Error("Adaptador pendiente"); }
 const ADAPTADORES = {
   Cinemark: cinemark,
   Cineplanet: cineplanet,
+  "Cinépolis": cinepolis,
   Normandie: normandie,
   Cineteca: cineteca,
   "Cine UC": cineuc,
