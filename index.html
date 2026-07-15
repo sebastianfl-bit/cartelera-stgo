@@ -58,6 +58,37 @@
   }
 
   /* ---------- Filtros ---------- */
+  .buscador{
+    position:relative;display:flex;align-items:center;
+    margin-top:18px;
+  }
+  .buscador .lupa{
+    position:absolute;left:14px;width:18px;height:18px;
+    fill:none;stroke:var(--hueso-35);stroke-width:2;stroke-linecap:round;
+    pointer-events:none;
+  }
+  #q{
+    width:100%;font:inherit;font-size:16px;
+    background:var(--tinta-2);color:var(--hueso);
+    border:1px solid var(--hueso-14);border-radius:10px;
+    padding:12px 40px 12px 42px;
+    transition:border-color .12s,background .12s;
+    -webkit-appearance:none;appearance:none;
+  }
+  #q::placeholder{color:var(--hueso-35)}
+  #q:focus{outline:none;border-color:var(--menta);background:var(--tinta)}
+  #q::-webkit-search-cancel-button{-webkit-appearance:none;appearance:none}
+  .q-clear{
+    position:absolute;right:10px;
+    background:var(--hueso-14);color:var(--hueso);
+    border:0;border-radius:50%;width:24px;height:24px;
+    font-size:18px;line-height:1;cursor:pointer;
+    display:flex;align-items:center;justify-content:center;
+    transition:background .12s;
+  }
+  .q-clear:hover{background:var(--hueso-35);color:var(--tinta)}
+  .resaltado{background:var(--menta);color:var(--tinta);border-radius:2px;padding:0 1px}
+
   .filtros{
     display:flex;flex-wrap:wrap;gap:6px;
     padding:16px 0 10px;
@@ -80,6 +111,8 @@
   .chip:focus-visible,.pelicula:focus-visible,.hora:focus-visible{outline:2px solid var(--menta);outline-offset:2px}
 
   /* ---------- Regla horaria (el eje compartido) ---------- */
+  body.buscando .regla-sticky{ display:none; }
+  body.buscando #grupo-dia{ display:none; }
   .regla-sticky{
     position:sticky;top:0;z-index:20;
     background:linear-gradient(var(--tinta) 72%, rgba(22,24,58,0));
@@ -151,6 +184,13 @@
   .punto.pasada{background:transparent;border:1px solid var(--hueso-14)}
 
   /* ---------- Detalle expandido ---------- */
+  .dia-header{
+    font-family:"IBM Plex Mono",monospace;font-size:12px;font-weight:600;
+    letter-spacing:.08em;text-transform:uppercase;color:var(--menta);
+    padding:14px 0 6px;margin-left:var(--track);
+    border-bottom:1px solid var(--hueso-14);margin-bottom:6px;
+  }
+  .dia-header:first-child{padding-top:4px}
   .detalle{
     padding:4px 0 26px;
   }
@@ -222,6 +262,12 @@
     <div class="meta" id="meta"></div>
   </header>
 
+  <div class="buscador">
+    <svg class="lupa" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="21" y2="21"/></svg>
+    <input type="search" id="q" placeholder="Buscar película…" autocomplete="off" spellcheck="false" aria-label="Buscar película">
+    <button id="q-clear" class="q-clear" aria-label="Limpiar búsqueda" hidden>&times;</button>
+  </div>
+
   <div class="filtros" id="filtros"></div>
 
   <div class="regla-sticky">
@@ -238,7 +284,12 @@ const AXIS_FIN = 26 * 60;   // 02:00 del día siguiente
 const AXIS_SPAN = AXIS_FIN - AXIS_INI;
 
 let DATA = null;
-const estado = { dia:null, comunas:new Set(), tipos:new Set(), idiomas:new Set(), desdeAhora:true, abierta:null };
+const estado = { dia:null, q:"", comunas:new Set(), tipos:new Set(), idiomas:new Set(), desdeAhora:true, abierta:null };
+
+/* Normaliza para búsqueda: sin acentos, minúsculas. "Estación"→"estacion" */
+function norm(t){
+  return String(t ?? "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+}
 
 /* Minutos desde medianoche del día de cartelera, permitiendo trasnoche (>24h) */
 function minutosEje(iso, fechaBase){
@@ -270,6 +321,7 @@ async function cargar(){
   estado.dia = DATA.dias[0];
   pintarMeta();
   pintarFiltros();
+  cablearBuscador();
   pintarRegla();
   pintarLista();
   setInterval(() => { pintarRegla(); pintarLista(); }, 60000);
@@ -305,10 +357,68 @@ function grupoChips(label, items, set, key){
   return cont;
 }
 
+/* Resumen legible de en qué días hay funciones. "Hoy, mañana y sáb 19" */
+function resumenDias(fs){
+  const hoy = new Date().toLocaleDateString("en-CA",{timeZone:"America/Santiago"});
+  const dias = [...new Set(fs.map(f => f.dia))].sort();
+  const etiqueta = d => {
+    if (d === hoy) return "hoy";
+    const dObj = new Date(d + "T12:00:00");
+    const diff = Math.round((new Date(d+"T00:00:00") - new Date(hoy+"T00:00:00")) / 86400000);
+    if (diff === 1) return "mañana";
+    return dObj.toLocaleDateString("es-CL",{weekday:"short", day:"numeric"});
+  };
+  const nombres = dias.map(etiqueta);
+  if (nombres.length === 1) return `<b>${cap(nombres[0])}</b>`;
+  if (nombres.length === 2) return `<b>${cap(nombres[0])}</b> y <b>${nombres[1]}</b>`;
+  return `<b>${cap(nombres[0])}</b>, ` + nombres.slice(1,-1).map(n=>`<b>${n}</b>`).join(", ") + ` y <b>${nombres.at(-1)}</b>`;
+}
+function cap(s){ return s.charAt(0).toUpperCase() + s.slice(1); }
+
+/* Envuelve en <mark> la parte del título que coincide con la búsqueda. */
+function resaltar(titulo, q){
+  if (!q) return escapeHTML(titulo);
+  const nt = norm(titulo), nq = norm(q);
+  const i = nt.indexOf(nq);
+  if (i < 0) return escapeHTML(titulo);
+  // Usamos los índices sobre el string normalizado, que preserva longitud 1:1.
+  return escapeHTML(titulo.slice(0, i))
+    + '<mark class="resaltado">' + escapeHTML(titulo.slice(i, i + q.length)) + '</mark>'
+    + escapeHTML(titulo.slice(i + q.length));
+}
+function escapeHTML(t){
+  return String(t).replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+}
+
+/* Buscador en vivo: filtra por título mientras se escribe. */
+function cablearBuscador(){
+  const input = document.getElementById("q");
+  const clear = document.getElementById("q-clear");
+  let t = null;
+  input.addEventListener("input", () => {
+    estado.q = input.value.trim();
+    clear.hidden = !estado.q;
+    document.body.classList.toggle("buscando", !!estado.q);
+    clearTimeout(t);
+    t = setTimeout(pintarLista, 120);   // debounce leve
+  });
+  clear.addEventListener("click", () => {
+    input.value = ""; estado.q = ""; clear.hidden = true;
+    document.body.classList.remove("buscando");
+    input.focus(); pintarLista();
+  });
+  // "/" enfoca el buscador (atajo de teclado)
+  document.addEventListener("keydown", e => {
+    if (e.key === "/" && document.activeElement !== input){ e.preventDefault(); input.focus(); }
+    if (e.key === "Escape" && document.activeElement === input && estado.q){ clear.click(); }
+  });
+}
+
 /* Selector de día: única opción activa a la vez. */
 function grupoDias(){
   const cont = document.createElement("div");
   cont.className = "grupo";
+  cont.id = "grupo-dia";
   cont.innerHTML = `<span class="grupo-label">Día</span>`;
   const hoy = new Date().toLocaleDateString("en-CA",{timeZone:"America/Santiago"});
   DATA.dias.forEach((d, i) => {
@@ -375,7 +485,8 @@ function pintarRegla(){
 function pasaFiltros(f){
   const cine = DATA.cineIdx[f.cine];
   if (!cine) return false;
-  if ((f.dia ?? DATA.fecha) !== estado.dia) return false;
+  // Con búsqueda activa ignoramos el día: se busca en toda la semana.
+  if (!estado.q && (f.dia ?? DATA.fecha) !== estado.dia) return false;
   if (estado.comunas.size && !estado.comunas.has(cine.comuna)) return false;
   if (estado.tipos.size && !estado.tipos.has(cine.tipo)) return false;
   if (estado.idiomas.size && !estado.idiomas.has(f.idioma)) return false;
@@ -386,19 +497,39 @@ function pintarLista(){
   const lista = document.getElementById("lista");
   const a = ahoraMin();
 
-  const items = DATA.peliculas.map(p => {
-    let fs = p.funciones.filter(pasaFiltros)
-      .map(f => ({ ...f, min: minutosEje(f.inicio, estado.dia) }));
-    if (estado.desdeAhora) fs = fs.filter(f => f.min >= a - 10);
-    fs.sort((x,y) => x.min - y.min);
-    return { ...p, fs };
-  }).filter(p => p.fs.length);
+  const q = norm(estado.q);
+  const buscando = !!estado.q;
+  const hoyStr = new Date().toLocaleDateString("en-CA",{timeZone:"America/Santiago"});
 
-  items.sort((x,y) => x.fs[0].min - y.fs[0].min || x.titulo.localeCompare(y.titulo,"es"));
+  const items = DATA.peliculas
+    .filter(p => !q || norm(p.titulo).includes(q))
+    .map(p => {
+      let fs = p.funciones.filter(pasaFiltros).map(f => {
+        const dia = f.dia ?? DATA.fecha;
+        // En búsqueda, el eje se mide contra el día propio de la función.
+        return { ...f, dia, min: minutosEje(f.inicio, dia) };
+      });
+      if (buscando){
+        // Solo descartar funciones realmente pasadas (de hoy y antes de ahora).
+        fs = fs.filter(f => f.dia > hoyStr || (f.dia === hoyStr && f.min >= a - 10));
+        fs.sort((x,y) => x.dia.localeCompare(y.dia) || x.min - y.min);
+      } else {
+        if (estado.desdeAhora) fs = fs.filter(f => f.min >= a - 10);
+        fs.sort((x,y) => x.min - y.min);
+      }
+      return { ...p, fs };
+    }).filter(p => p.fs.length);
+
+  if (buscando)
+    items.sort((x,y) => x.fs[0].dia.localeCompare(y.fs[0].dia) || x.fs[0].min - y.fs[0].min || x.titulo.localeCompare(y.titulo,"es"));
+  else
+    items.sort((x,y) => x.fs[0].min - y.fs[0].min || x.titulo.localeCompare(y.titulo,"es"));
 
   lista.innerHTML = "";
   if (!items.length){
-    lista.innerHTML = `<div class="vacio"><b>Nada que calce</b>No hay funciones con esos filtros. Suelta alguno o desactiva “Solo lo que alcanzo”.</div>`;
+    lista.innerHTML = estado.q
+      ? `<div class="vacio"><b>Sin resultados</b>Ninguna película coincide con “${estado.q}”. Prueba otro nombre o revisa otro día.</div>`
+      : `<div class="vacio"><b>Nada que calce</b>No hay funciones con esos filtros. Suelta alguno o desactiva “Solo lo que alcanzo”.</div>`;
     return;
   }
 
@@ -411,25 +542,28 @@ function pintarLista(){
     btn.setAttribute("aria-expanded", estado.abierta === p.id);
     btn.innerHTML = `
       <div class="fila-top">
-        <span class="titulo">${p.titulo}</span>
+        <span class="titulo">${resaltar(p.titulo, estado.q)}</span>
         <span class="datos">${p.duracion ? p.duracion + " min" : ""}${p.clasificacion && p.clasificacion !== "S/I" ? " · " + p.clasificacion : ""}</span>
       </div>
       <div class="sub">
-        ${prox ? `Próxima <b>${hhmm(prox.min)}</b> en ${DATA.cineIdx[prox.cine].nombre}`
-               : `<span class="pasada">Sin funciones por delante</span>`}
+        ${buscando ? resumenDias(p.fs)
+          : (prox ? `Próxima <b>${hhmm(prox.min)}</b> en ${DATA.cineIdx[prox.cine].nombre}`
+                  : `<span class="pasada">Sin funciones por delante</span>`)}
         · ${p.fs.length} ${p.fs.length === 1 ? "función" : "funciones"}
       </div>
-      <div class="pista"></div>`;
+      ${buscando ? "" : '<div class="pista"></div>'}`;
 
-    const pista = btn.querySelector(".pista");
-    p.fs.forEach(f => {
-      const d = document.createElement("span");
-      const cine = DATA.cineIdx[f.cine];
-      d.className = "punto" + (cine.tipo === "arte" ? " arte" : "") + (f.min < a ? " pasada" : "");
-      d.style.left = pct(f.min) + "%";
-      d.title = `${hhmm(f.min)} — ${cine.nombre}`;
-      pista.appendChild(d);
-    });
+    if (!buscando){
+      const pista = btn.querySelector(".pista");
+      p.fs.forEach(f => {
+        const d = document.createElement("span");
+        const cine = DATA.cineIdx[f.cine];
+        d.className = "punto" + (cine.tipo === "arte" ? " arte" : "") + (f.min < a ? " pasada" : "");
+        d.style.left = pct(f.min) + "%";
+        d.title = `${hhmm(f.min)} — ${cine.nombre}`;
+        pista.appendChild(d);
+      });
+    }
 
     btn.onclick = () => {
       estado.abierta = estado.abierta === p.id ? null : p.id;
@@ -446,8 +580,33 @@ function pintarDetalle(p, a){
   const det = document.createElement("div");
   det.className = "detalle";
 
+  if (estado.q){
+    // En búsqueda: agrupar por día, con encabezado, y dentro por cine.
+    const hoy = new Date().toLocaleDateString("en-CA",{timeZone:"America/Santiago"});
+    const porDia = {};
+    p.fs.forEach(f => (porDia[f.dia] ||= []).push(f));
+    Object.keys(porDia).sort().forEach(dia => {
+      const h = document.createElement("div");
+      h.className = "dia-header";
+      const dObj = new Date(dia + "T12:00:00");
+      const diff = Math.round((new Date(dia+"T00:00:00") - new Date(hoy+"T00:00:00")) / 86400000);
+      const etq = dia === hoy ? "Hoy" : diff === 1 ? "Mañana"
+        : dObj.toLocaleDateString("es-CL",{weekday:"long", day:"numeric", month:"long"});
+      h.textContent = etq.charAt(0).toUpperCase() + etq.slice(1);
+      det.appendChild(h);
+      pintarCinesDelDia(det, porDia[dia], a);
+    });
+  } else {
+    pintarCinesDelDia(det, p.fs, a);
+  }
+
+  return det;
+}
+
+/* Dibuja las filas por cine para un conjunto de funciones (de un mismo día). */
+function pintarCinesDelDia(det, funciones, a){
   const porCine = {};
-  p.fs.forEach(f => (porCine[f.cine] ||= []).push(f));
+  funciones.forEach(f => (porCine[f.cine] ||= []).push(f));
 
   Object.entries(porCine)
     .sort((x,y) => x[1][0].min - y[1][0].min)
@@ -466,7 +625,9 @@ function pintarDetalle(p, a){
       const carril = fila.querySelector(".carril");
       fs.forEach(f => {
         const b = document.createElement("button");
-        b.className = "hora" + (f.min < a ? " pasada" : "") + (f.min >= a && f.min < a + 45 ? " pronto" : "");
+        // El resaltado de "pasada/pronto" solo aplica al día de hoy.
+        const esHoy = f.dia === new Date().toLocaleDateString("en-CA",{timeZone:"America/Santiago"});
+        b.className = "hora" + (esHoy && f.min < a ? " pasada" : "") + (esHoy && f.min >= a && f.min < a + 45 ? " pronto" : "");
         const extra = [f.formato, ...(f.atributos ?? []), f.idioma !== "S/I" ? f.idioma : null]
           .filter(Boolean).join(" ");
         b.innerHTML = `${hhmm(f.min)}<span class="fmt">${extra}</span>`;
@@ -479,8 +640,6 @@ function pintarDetalle(p, a){
       det.appendChild(fila);
       requestAnimationFrame(() => acomodarCarril(carril));
     });
-
-  return det;
 }
 
 /* Evita que las funciones cercanas se pisen: las reparte en carriles apilados. */
