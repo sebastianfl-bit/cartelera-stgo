@@ -389,8 +389,55 @@ function armarFecha(anio, mes, dia) {
   return `${anio}-${String(mes).padStart(2,"0")}-${String(dia).padStart(2,"0")}`;
 }
 
-async function cineteca() { throw new Error("Adaptador pendiente"); }
-async function cineuc()   { throw new Error("Adaptador pendiente"); }
+async function cineteca(cine) {
+  const html = await getHTML("https://cinetecanacional.gob.cl/cartelera/");
+  const $ = cheerio.load(html);
+  const out = [];
+
+  // MEC (Modern Events Calendar). Cada día es un contenedor con data-mec-cell="YYYYMMDD".
+  // Dentro, cada función es un <article> con hora, título y link.
+  $("[data-mec-cell]").each((_, celda) => {
+    const cell = $(celda).attr("data-mec-cell");
+    const m = String(cell).match(/^(\d{4})(\d{2})(\d{2})$/);
+    if (!m) return;
+    const fecha = `${m[1]}-${m[2]}-${m[3]}`;
+
+    $(celda).find("article").each((__, art) => {
+      const hora = $(art).find(".mec-event-time").text().match(/(\d{1,2}):(\d{2})/);
+      const a = $(art).find(".mec-event-title a").first();
+      const titulo = a.text().trim();
+      if (!hora || !titulo) return;
+
+      const sala = $(art).find(".mec-event-loc-place").text().trim() || null;
+      out.push({
+        cineId: cine.id,
+        titulo: limpiarTitulo(titulo),
+        duracion: 0,
+        clasificacion: "S/I",
+        genero: "Cine arte",
+        poster: $(art).find("img").attr("src") || null,
+        sala,
+        formato: "2D",
+        atributos: [],
+        idioma: "SUB",
+        inicio: `${fecha}T${hora[1].padStart(2,"0")}:${hora[2]}:00${offsetChile(fecha)}`,
+        url: a.attr("href") || null,
+      });
+    });
+  });
+  return out;
+}
+
+async function cineuc() {
+  // PENDIENTE. El Cine UC no tiene cartelera scrapeable de forma simple:
+  //  - Su sitio (extension.uc.cl) está tras un WAF que responde 403 a bots.
+  //  - Su venta está en portaldisc.com/cartelera/cineuc, una SPA/PHP que carga
+  //    los eventos por AJAX dinámico (no hay JSON ni endpoint visible en el HTML).
+  //  - Además es UNA sala que opera por ciclos/festivales, no cartelera continua.
+  // Costo/beneficio malo. Si algún día se retoma: DevTools → Network en portaldisc,
+  // cazar la llamada que trae los eventos, replicarla. Por ahora devuelve vacío.
+  return [];
+}
 
 const ADAPTADORES = {
   Cinemark: cinemark,

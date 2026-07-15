@@ -11,11 +11,11 @@ Sin backend. Un GitHub Action scrapea, commitea un JSON, y la página lo lee.
 | Cine | Estado | Cómo salen los datos |
 |---|---|---|
 | Cinemark (9 sedes) | ✅ | schema.org embebido en el flight de Next App Router |
-| Cineplanet | ⬜ | por hacer |
-| Cinehoyts | ⬜ | por hacer |
-| Normandie | ⬜ | HTML plano, cheerio |
-| Cineteca Nacional | ⬜ | HTML plano, cheerio |
-| Cine UC | ⬜ | HTML plano, cheerio |
+| Cineplanet (5 sedes) | ✅ | API JSON (Azure APIM); token vía cookie, trae idioma |
+| Normandie | ✅ | HTML WordPress, grilla semanal por día (cheerio) |
+| Cineteca Nacional | ✅ | HTML WordPress, plugin MEC calendar (cheerio) |
+| Cinépolis / Cinehoyts | ⚠️ congelado | GraphQL tras Cloudflare; la API ignora el filtro de cine en reenvío. Requiere Playwright + emular clicks. Activar con `CINEPOLIS=1` |
+| Cine UC | ⬜ pendiente | portaldisc (AJAX oculto) + WAF. Sala en modo festival; costo/beneficio malo |
 
 ## Correr local
 
@@ -53,6 +53,18 @@ el eje llega hasta las 26:00.
 **Una sede sin funciones no es un error.** Devuelve `[]` y el build sigue. Solo
 revienta si desaparece el flight de Next, que significaría que el sitio cambió y
 el parser quedó obsoleto.
+
+## Cinépolis: por qué está congelado
+
+Su API GraphQL (`api-g.cinepolis.com`) está tras Cloudflare, que bloquea por
+fingerprint TLS: `fetch`/`curl` reciben 403 sin importar los headers. Sólo pasa un
+Chrome real (Playwright). Pero incluso desde el navegador, la API **ignora el
+parámetro `cinemas`** al reenviar la query: siempre devuelve la cartelera del cine
+cargado por interacción real. Scrapear las 23 sedes exigiría emular clicks en el
+selector de cine de la SPA y esperar cada re-render, algo lento y frágil que además
+difícilmente sobrevive en GitHub Actions (Cloudflare desconfía de IPs de datacenter).
+El adaptador quedó en `scripts/cinepolis.mjs`, funcional para un cine, activable con
+`CINEPOLIS=1`. Congelado a propósito.
 
 ## Agregar un cine nuevo
 
