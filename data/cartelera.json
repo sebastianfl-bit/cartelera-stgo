@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-18T11:46:39.333Z",
+  "generado": "2026-07-18T16:46:03.379Z",
   "fecha": "2026-07-18",
   "dias": [
     "2026-07-18",
@@ -146,85 +146,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015111.jpg",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-18",
-          "sala": "Sala 10",
-          "formato": "XD",
-          "atributos": [
-            "XD",
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-18T10:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-07-18",
-          "sala": "Sala 7",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-18T10:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-07-18",
-          "sala": "Sala 3",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-18T10:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-18",
-          "sala": "Sala 7",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-18T10:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-07-18",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T11:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-18",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T12:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-18",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-18T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-07-18",
           "sala": null,
@@ -271,6 +192,18 @@
           "dia": "2026-07-18",
           "sala": "Sala 4",
           "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T13:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 6",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
           "idioma": "S/I",
           "inicio": "2026-07-18T13:10:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
@@ -475,6 +408,15 @@
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-07-18",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T14:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-07-18",
           "sala": null,
@@ -518,6 +460,15 @@
           "idioma": "DOB",
           "inicio": "2026-07-18T15:30:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T15:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -586,6 +537,18 @@
           ],
           "idioma": "S/I",
           "inicio": "2026-07-18T16:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 6",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T16:50:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
@@ -812,6 +775,15 @@
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-07-18",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T18:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-07-18",
           "sala": null,
@@ -881,6 +853,15 @@
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T19:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-norte",
           "dia": "2026-07-18",
           "sala": "Sala 1",
@@ -922,6 +903,15 @@
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
+          "inicio": "2026-07-18T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
           "inicio": "2026-07-18T19:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
@@ -969,6 +959,18 @@
           "dia": "2026-07-18",
           "sala": "Sala 4",
           "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 6",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
           "idioma": "S/I",
           "inicio": "2026-07-18T20:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
@@ -1077,6 +1079,15 @@
           "atributos": [
             "PREMIER"
           ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T21:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 9",
+          "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-07-18T21:00:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
@@ -1218,6 +1229,15 @@
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-07-18",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T22:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-07-18",
           "sala": null,
@@ -1234,6 +1254,18 @@
           "idioma": "SUB",
           "inicio": "2026-07-18T22:30:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 11",
+          "formato": "IMAX",
+          "atributos": [
+            "IMAX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T10:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -1279,6 +1311,15 @@
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-07-19T11:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T12:10:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
@@ -1361,6 +1402,18 @@
           "dia": "2026-07-19",
           "sala": "Sala 4",
           "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T13:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 6",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
           "idioma": "S/I",
           "inicio": "2026-07-19T13:10:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
@@ -1454,6 +1507,18 @@
           "dia": "2026-07-19",
           "sala": "Sala 7",
           "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T14:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 11",
+          "formato": "IMAX",
+          "atributos": [
+            "IMAX"
+          ],
           "idioma": "S/I",
           "inicio": "2026-07-19T14:10:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
@@ -1571,15 +1636,6 @@
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
-          "cine": "normandie",
-          "dia": "2026-07-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-19T15:00:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=c2isfkm"
-        },
-        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-07-19",
           "sala": null,
@@ -1605,6 +1661,15 @@
           "idioma": "DOB",
           "inicio": "2026-07-19T15:30:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T15:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -1685,6 +1750,18 @@
           ],
           "idioma": "S/I",
           "inicio": "2026-07-19T16:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 6",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T16:50:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
@@ -1800,6 +1877,18 @@
           "dia": "2026-07-19",
           "sala": "Sala 7",
           "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T17:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 11",
+          "formato": "IMAX",
+          "atributos": [
+            "IMAX"
+          ],
           "idioma": "S/I",
           "inicio": "2026-07-19T17:50:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
@@ -1968,6 +2057,15 @@
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T19:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-norte",
           "dia": "2026-07-19",
           "sala": "Sala 1",
@@ -2009,6 +2107,15 @@
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
+          "inicio": "2026-07-19T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
           "inicio": "2026-07-19T19:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
@@ -2068,6 +2175,18 @@
           "dia": "2026-07-19",
           "sala": "Sala 4",
           "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 6",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
           "idioma": "S/I",
           "inicio": "2026-07-19T20:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
@@ -2181,6 +2300,15 @@
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T21:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-07-19",
           "sala": null,
@@ -2233,6 +2361,18 @@
           "dia": "2026-07-19",
           "sala": "Sala 7",
           "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T21:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 11",
+          "formato": "IMAX",
+          "atributos": [
+            "IMAX"
+          ],
           "idioma": "S/I",
           "inicio": "2026-07-19T21:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
@@ -2675,6 +2815,15 @@
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-20T16:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinemark-alto-las-condes",
           "dia": "2026-07-20",
           "sala": "Sala 9",
@@ -2799,7 +2948,7 @@
           "dia": "2026-07-20",
           "sala": null,
           "formato": "2D",
-          "idioma": "DOB",
+          "idioma": "SUB",
           "inicio": "2026-07-20T17:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
@@ -2991,15 +3140,6 @@
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-20T19:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-07-20",
           "sala": null,
@@ -3085,6 +3225,15 @@
           "idioma": "S/I",
           "inicio": "2026-07-20T19:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-20T19:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cineplanet-cp-quilin",
@@ -3264,15 +3413,6 @@
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-20T21:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-07-20",
           "sala": null,
@@ -3301,6 +3441,15 @@
           "idioma": "S/I",
           "inicio": "2026-07-20T21:10:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-20T21:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -3737,15 +3886,6 @@
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
-          "cine": "normandie",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-21T15:00:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=anexynr"
-        },
-        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-07-21",
           "sala": null,
@@ -3797,6 +3937,15 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-07-21T15:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-21T16:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
@@ -3924,7 +4073,7 @@
           "dia": "2026-07-21",
           "sala": null,
           "formato": "2D",
-          "idioma": "DOB",
+          "idioma": "SUB",
           "inicio": "2026-07-21T17:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
@@ -4116,15 +4265,6 @@
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-21T19:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-07-21",
           "sala": null,
@@ -4210,6 +4350,15 @@
           "idioma": "S/I",
           "inicio": "2026-07-21T19:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-21T19:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cineplanet-cp-quilin",
@@ -4389,15 +4538,6 @@
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-21T21:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-07-21",
           "sala": null,
@@ -4426,6 +4566,15 @@
           "idioma": "S/I",
           "inicio": "2026-07-21T21:10:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-21T21:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -4568,54 +4717,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00014963.jpg",
       "funciones": [
         {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-07-18",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T10:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-18",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-18T11:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-07-18",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T11:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-18",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T11:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-07-18",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T11:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-07-18",
           "sala": null,
@@ -4623,15 +4724,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-18T11:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-18",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -4668,33 +4760,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-18T12:10:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-07-18",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-18",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-18",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -4790,6 +4855,15 @@
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T13:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-gran-avenida",
           "dia": "2026-07-18",
           "sala": "Sala 1",
@@ -4854,6 +4928,18 @@
           "idioma": "DOB",
           "inicio": "2026-07-18T13:50:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T14:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-quilin",
@@ -4926,6 +5012,18 @@
           "idioma": "DOB",
           "inicio": "2026-07-18T14:50:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 10",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T15:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -5021,6 +5119,15 @@
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T16:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-tobalaba",
           "dia": "2026-07-18",
           "sala": "Sala 1",
@@ -5076,6 +5183,18 @@
           "idioma": "DOB",
           "inicio": "2026-07-18T16:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T16:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -5145,6 +5264,18 @@
           "dia": "2026-07-18",
           "sala": "Sala 3",
           "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T17:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 10",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
           "idioma": "S/I",
           "inicio": "2026-07-18T17:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
@@ -5252,6 +5383,15 @@
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T18:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-18",
           "sala": "Sala 13",
@@ -5336,6 +5476,18 @@
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T19:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-18",
           "sala": "Sala 11",
@@ -5369,6 +5521,18 @@
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-07-18T19:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 10",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T20:00:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
@@ -5501,6 +5665,18 @@
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T21:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-07-18",
           "sala": null,
@@ -5516,6 +5692,18 @@
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-07-18T22:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 10",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T22:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
@@ -5573,6 +5761,15 @@
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-07-19T11:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T11:10:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
@@ -5675,6 +5872,18 @@
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 10",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T12:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-19",
           "sala": "Sala 13",
@@ -5709,15 +5918,6 @@
           "idioma": "S/I",
           "inicio": "2026-07-19T13:00:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-19T13:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -5765,6 +5965,24 @@
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-07-19T13:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-19T13:25:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T13:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
@@ -5832,6 +6050,18 @@
           "idioma": "DOB",
           "inicio": "2026-07-19T13:50:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T14:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-quilin",
@@ -5906,6 +6136,18 @@
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 10",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T15:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-19",
           "sala": "Sala 7",
@@ -5922,15 +6164,6 @@
           "idioma": "S/I",
           "inicio": "2026-07-19T15:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-19T15:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -5999,6 +6232,24 @@
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-19T15:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T16:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-tobalaba",
           "dia": "2026-07-19",
           "sala": "Sala 1",
@@ -6054,6 +6305,18 @@
           "idioma": "DOB",
           "inicio": "2026-07-19T16:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T16:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -6128,6 +6391,18 @@
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 10",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T17:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-norte",
           "dia": "2026-07-19",
           "sala": "Sala 3",
@@ -6153,15 +6428,6 @@
           "idioma": "S/I",
           "inicio": "2026-07-19T17:40:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-19T17:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -6200,6 +6466,15 @@
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-19T18:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-07-19",
           "sala": null,
@@ -6216,6 +6491,15 @@
           "atributos": [
             "PREMIER"
           ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T18:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 9",
+          "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-07-19T18:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
@@ -6305,6 +6589,18 @@
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T19:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-19",
           "sala": "Sala 11",
@@ -6341,13 +6637,16 @@
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-independencia",
+          "cine": "cinemark-mallplaza-vespucio",
           "dia": "2026-07-19",
-          "sala": null,
+          "sala": "Sala 10",
           "formato": "2D",
-          "idioma": "DOB",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
           "inicio": "2026-07-19T20:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -6393,6 +6692,15 @@
           "idioma": "S/I",
           "inicio": "2026-07-19T20:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-19T20:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
           "cine": "cineplanet-cp-alameda",
@@ -6479,6 +6787,18 @@
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T21:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-07-19",
           "sala": null,
@@ -6494,6 +6814,18 @@
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-07-19T22:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 10",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T22:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
@@ -6725,6 +7057,15 @@
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-20T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
           "cine": "cineplanet-cp-quilin",
           "dia": "2026-07-20",
           "sala": null,
@@ -6740,15 +7081,6 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-07-20T14:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-20T14:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
@@ -6968,6 +7300,15 @@
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-20T16:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
           "cine": "cineplanet-cp-quilin",
           "dia": "2026-07-20",
           "sala": null,
@@ -7013,15 +7354,6 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-07-20T16:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-20T16:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
@@ -7229,6 +7561,15 @@
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-20T18:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
           "cine": "cineplanet-cp-quilin",
           "dia": "2026-07-20",
           "sala": null,
@@ -7416,6 +7757,15 @@
           "idioma": "S/I",
           "inicio": "2026-07-20T21:00:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-20T21:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -7736,6 +8086,15 @@
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-21T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
           "cine": "cineplanet-cp-quilin",
           "dia": "2026-07-21",
           "sala": null,
@@ -7751,15 +8110,6 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-07-21T14:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-21T14:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
@@ -7979,6 +8329,15 @@
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-21T16:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
           "cine": "cineplanet-cp-quilin",
           "dia": "2026-07-21",
           "sala": null,
@@ -8024,15 +8383,6 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-07-21T16:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-21T16:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
@@ -8240,6 +8590,15 @@
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-21T18:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
           "cine": "cineplanet-cp-quilin",
           "dia": "2026-07-21",
           "sala": null,
@@ -8429,6 +8788,15 @@
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-21T21:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-21",
           "sala": "Sala 13",
@@ -8538,33 +8906,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00014892.jpg",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-18",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T10:35:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-18",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T11:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-18",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T11:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-07-18",
           "sala": null,
@@ -8572,75 +8913,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-18T11:10:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-07-18",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-18",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-18T11:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-18",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T11:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-07-18",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-18",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-07-18",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T12:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-07-18",
-          "sala": "Sala Cinemark Portal La Dehesa - 5",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-18T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-independencia",
@@ -8677,15 +8949,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-18T12:30:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-07-18",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -8835,6 +9098,15 @@
           "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 7",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T14:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-norte",
           "dia": "2026-07-18",
           "sala": "Sala 1",
@@ -8865,6 +9137,18 @@
           "cine": "cinemark-la-dehesa",
           "dia": "2026-07-18",
           "sala": "Sala Cinemark Portal La Dehesa - 5",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T15:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 3",
           "formato": "2D",
           "atributos": [
             "PREMIER"
@@ -9009,6 +9293,15 @@
           "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 7",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-norte",
           "dia": "2026-07-18",
           "sala": "Sala 1",
@@ -9043,6 +9336,18 @@
           "idioma": "DOB",
           "inicio": "2026-07-18T17:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T17:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mid-mall-maipu",
@@ -9153,6 +9458,15 @@
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 7",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T19:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-tobalaba",
           "dia": "2026-07-18",
           "sala": "Sala 6",
@@ -9169,6 +9483,18 @@
           "idioma": "DOB",
           "inicio": "2026-07-18T19:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T19:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -9252,6 +9578,15 @@
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 7",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T21:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-tobalaba",
           "dia": "2026-07-18",
           "sala": "Sala 6",
@@ -9327,6 +9662,15 @@
           "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 7",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T12:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-norte",
           "dia": "2026-07-19",
           "sala": "Sala 1",
@@ -9391,6 +9735,18 @@
           "idioma": "DOB",
           "inicio": "2026-07-19T12:30:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T12:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-tobalaba",
@@ -9549,6 +9905,15 @@
           "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 7",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T14:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-norte",
           "dia": "2026-07-19",
           "sala": "Sala 1",
@@ -9579,6 +9944,18 @@
           "cine": "cinemark-la-dehesa",
           "dia": "2026-07-19",
           "sala": "Sala Cinemark Portal La Dehesa - 5",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T15:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 3",
           "formato": "2D",
           "atributos": [
             "PREMIER"
@@ -9723,6 +10100,15 @@
           "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 7",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-norte",
           "dia": "2026-07-19",
           "sala": "Sala 1",
@@ -9766,6 +10152,18 @@
           "idioma": "DOB",
           "inicio": "2026-07-19T17:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T17:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mid-mall-maipu",
@@ -9876,6 +10274,15 @@
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 7",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T19:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-tobalaba",
           "dia": "2026-07-19",
           "sala": "Sala 6",
@@ -9901,6 +10308,18 @@
           "idioma": "DOB",
           "inicio": "2026-07-19T19:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T19:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -9973,6 +10392,15 @@
           "idioma": "DOB",
           "inicio": "2026-07-19T21:30:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 7",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T21:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -10064,7 +10492,7 @@
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
-          "inicio": "2026-07-20T13:20:00-04:00",
+          "inicio": "2026-07-20T13:10:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
@@ -10143,15 +10571,6 @@
           "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-20T14:25:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
           "cine": "cinemark-portal-nunoa",
           "dia": "2026-07-20",
           "sala": "Sala 2",
@@ -10185,6 +10604,15 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-07-20T14:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-20T14:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
@@ -10248,6 +10676,15 @@
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-20T15:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-20",
           "sala": "Sala 5",
@@ -10264,15 +10701,6 @@
           "idioma": "S/I",
           "inicio": "2026-07-20T15:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-20T15:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -10338,7 +10766,7 @@
           "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-independencia",
+          "cine": "cineplanet-cp-costanera",
           "dia": "2026-07-20",
           "sala": null,
           "formato": "2D",
@@ -10347,12 +10775,12 @@
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
-          "cine": "cineplanet-cp-costanera",
+          "cine": "cineplanet-cp-independencia",
           "dia": "2026-07-20",
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
-          "inicio": "2026-07-20T16:40:00-04:00",
+          "inicio": "2026-07-20T16:50:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
@@ -10431,6 +10859,15 @@
           "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-20T17:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-20",
           "sala": "Sala 5",
@@ -10438,15 +10875,6 @@
           "idioma": "S/I",
           "inicio": "2026-07-20T17:40:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-20T17:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
           "cine": "cineplanet-cp-alameda",
@@ -10512,7 +10940,7 @@
           "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-independencia",
+          "cine": "cineplanet-cp-costanera",
           "dia": "2026-07-20",
           "sala": null,
           "formato": "2D",
@@ -10521,12 +10949,12 @@
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
-          "cine": "cineplanet-cp-costanera",
+          "cine": "cineplanet-cp-independencia",
           "dia": "2026-07-20",
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
-          "inicio": "2026-07-20T18:50:00-04:00",
+          "inicio": "2026-07-20T19:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
@@ -10748,7 +11176,7 @@
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
-          "inicio": "2026-07-21T13:20:00-04:00",
+          "inicio": "2026-07-21T13:10:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
@@ -10827,15 +11255,6 @@
           "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-21T14:25:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
           "cine": "cinemark-portal-nunoa",
           "dia": "2026-07-21",
           "sala": "Sala 2",
@@ -10869,6 +11288,15 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-07-21T14:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-21T14:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
@@ -10932,6 +11360,15 @@
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-21T15:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-21",
           "sala": "Sala 5",
@@ -10948,15 +11385,6 @@
           "idioma": "S/I",
           "inicio": "2026-07-21T15:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-21T15:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -11022,7 +11450,7 @@
           "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-independencia",
+          "cine": "cineplanet-cp-costanera",
           "dia": "2026-07-21",
           "sala": null,
           "formato": "2D",
@@ -11031,12 +11459,12 @@
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
-          "cine": "cineplanet-cp-costanera",
+          "cine": "cineplanet-cp-independencia",
           "dia": "2026-07-21",
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
-          "inicio": "2026-07-21T16:40:00-04:00",
+          "inicio": "2026-07-21T16:50:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
@@ -11115,6 +11543,15 @@
           "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-21T17:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-21",
           "sala": "Sala 5",
@@ -11122,15 +11559,6 @@
           "idioma": "S/I",
           "inicio": "2026-07-21T17:40:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-21T17:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
           "cine": "cineplanet-cp-alameda",
@@ -11196,7 +11624,7 @@
           "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-independencia",
+          "cine": "cineplanet-cp-costanera",
           "dia": "2026-07-21",
           "sala": null,
           "formato": "2D",
@@ -11205,12 +11633,12 @@
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
-          "cine": "cineplanet-cp-costanera",
+          "cine": "cineplanet-cp-independencia",
           "dia": "2026-07-21",
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
-          "inicio": "2026-07-21T18:50:00-04:00",
+          "inicio": "2026-07-21T19:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
@@ -11371,45 +11799,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015171.jpg",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-18",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T10:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-07-18",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T11:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-07-18",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T11:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-07-18",
-          "sala": "Sala Cinemark Portal La Dehesa - 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-18T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-07-18",
           "sala": null,
@@ -11417,24 +11806,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-18T11:30:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-18",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T11:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-18",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T11:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-alameda",
@@ -11464,42 +11835,6 @@
           "url": "https://www.cineplanet.cl/pelicula/moana"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-18",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-07-18",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-07-18",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-18",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-07-18",
           "sala": null,
@@ -11507,6 +11842,18 @@
           "idioma": "DOB",
           "inicio": "2026-07-18T12:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/moana"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T13:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -11575,6 +11922,18 @@
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T14:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-quilin",
           "dia": "2026-07-18",
           "sala": null,
@@ -11629,6 +11988,15 @@
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T15:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-18",
           "sala": "Sala 12",
@@ -11653,6 +12021,18 @@
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-07-18T15:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T16:10:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
@@ -11743,6 +12123,18 @@
           "url": "https://www.cineplanet.cl/pelicula/moana"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T17:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-07-18",
           "sala": null,
@@ -11786,6 +12178,15 @@
           "idioma": "DOB",
           "inicio": "2026-07-18T18:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/moana"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T18:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -11839,6 +12240,18 @@
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-07-18T19:05:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T19:10:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
@@ -11932,6 +12345,15 @@
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T21:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-07-18",
           "sala": null,
@@ -12016,6 +12438,18 @@
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T11:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-07-19",
           "sala": null,
@@ -12070,6 +12504,15 @@
           "url": "https://www.cineplanet.cl/pelicula/moana"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T12:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-19",
           "sala": "Sala 12",
@@ -12112,6 +12555,18 @@
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-07-19T12:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T13:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
@@ -12181,6 +12636,18 @@
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T14:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-quilin",
           "dia": "2026-07-19",
           "sala": null,
@@ -12235,6 +12702,15 @@
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T15:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-19",
           "sala": "Sala 12",
@@ -12259,6 +12735,18 @@
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-07-19T15:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T16:10:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
@@ -12349,6 +12837,18 @@
           "url": "https://www.cineplanet.cl/pelicula/moana"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T17:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-07-19",
           "sala": null,
@@ -12392,6 +12892,15 @@
           "idioma": "DOB",
           "inicio": "2026-07-19T18:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/moana"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T18:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -12445,6 +12954,18 @@
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-07-19T19:05:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T19:10:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
@@ -12538,16 +13059,16 @@
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-alameda",
+          "cine": "cinemark-mallplaza-vespucio",
           "dia": "2026-07-19",
-          "sala": null,
+          "sala": "Sala 8",
           "formato": "2D",
-          "idioma": "DOB",
+          "idioma": "S/I",
           "inicio": "2026-07-19T21:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/moana"
+          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-independencia",
+          "cine": "cineplanet-cp-alameda",
           "dia": "2026-07-19",
           "sala": null,
           "formato": "2D",
@@ -12640,6 +13161,15 @@
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-20T13:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/moana"
+        },
+        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-07-20",
           "sala": null,
@@ -12659,15 +13189,6 @@
         },
         {
           "cine": "cineplanet-cp-alameda",
-          "dia": "2026-07-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-20T13:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
           "dia": "2026-07-20",
           "sala": null,
           "formato": "2D",
@@ -12712,6 +13233,15 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-07-20T14:05:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/moana"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-20T14:10:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/moana"
         },
         {
@@ -12829,15 +13359,6 @@
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-20T16:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
           "cine": "cinemark-portal-nunoa",
           "dia": "2026-07-20",
           "sala": "Sala 6",
@@ -12896,6 +13417,15 @@
           "idioma": "S/I",
           "inicio": "2026-07-20T16:40:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-20T16:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/moana"
         },
         {
           "cine": "cineplanet-cp-quilin",
@@ -13000,15 +13530,6 @@
           "url": "https://www.cineplanet.cl/pelicula/moana"
         },
         {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-20T18:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-20",
           "sala": "Sala 4",
@@ -13028,6 +13549,15 @@
           "idioma": "S/I",
           "inicio": "2026-07-20T19:10:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-20T19:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/moana"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -13138,15 +13668,6 @@
           "url": "https://www.cineplanet.cl/pelicula/moana"
         },
         {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-20T21:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-20",
           "sala": "Sala 4",
@@ -13231,6 +13752,15 @@
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-21T13:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/moana"
+        },
+        {
           "cine": "cinemark-portal-nunoa",
           "dia": "2026-07-21",
           "sala": "Sala 6",
@@ -13250,15 +13780,6 @@
         },
         {
           "cine": "cineplanet-cp-alameda",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-21T13:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
           "dia": "2026-07-21",
           "sala": null,
           "formato": "2D",
@@ -13303,6 +13824,15 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-07-21T14:05:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/moana"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-21T14:10:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/moana"
         },
         {
@@ -13420,15 +13950,6 @@
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-21T16:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
           "cine": "cinemark-portal-nunoa",
           "dia": "2026-07-21",
           "sala": "Sala 6",
@@ -13487,6 +14008,15 @@
           "idioma": "S/I",
           "inicio": "2026-07-21T16:40:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-21T16:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/moana"
         },
         {
           "cine": "cineplanet-cp-quilin",
@@ -13591,15 +14121,6 @@
           "url": "https://www.cineplanet.cl/pelicula/moana"
         },
         {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-21T18:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-21",
           "sala": "Sala 4",
@@ -13619,6 +14140,15 @@
           "idioma": "S/I",
           "inicio": "2026-07-21T19:10:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-21T19:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/moana"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -13729,15 +14259,6 @@
           "url": "https://www.cineplanet.cl/pelicula/moana"
         },
         {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-21T21:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-21",
           "sala": "Sala 4",
@@ -13774,18 +14295,6 @@
       "genero": null,
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015210.jpg",
       "funciones": [
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-18",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-18T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
-        },
         {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-18",
@@ -13845,6 +14354,18 @@
           "idioma": "DOB",
           "inicio": "2026-07-18T19:50:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T20:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -14039,12 +14560,33 @@
           "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-19T20:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-07-19",
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-07-19T20:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-19T21:10:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
         },
         {
@@ -14067,15 +14609,6 @@
         },
         {
           "cine": "cineplanet-cp-alameda",
-          "dia": "2026-07-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-19T22:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
           "dia": "2026-07-19",
           "sala": null,
           "formato": "2D",
@@ -14189,6 +14722,15 @@
           "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-20T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-20",
           "sala": "Sala 1",
@@ -14199,15 +14741,6 @@
           "idioma": "S/I",
           "inicio": "2026-07-20T19:50:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-20T19:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -14258,16 +14791,16 @@
           "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-alameda",
+          "cine": "cineplanet-cp-independencia",
           "dia": "2026-07-20",
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
-          "inicio": "2026-07-20T22:10:00-04:00",
+          "inicio": "2026-07-20T22:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
         },
         {
-          "cine": "cineplanet-cp-independencia",
+          "cine": "cineplanet-cp-alameda",
           "dia": "2026-07-20",
           "sala": null,
           "formato": "2D",
@@ -14381,6 +14914,15 @@
           "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-21T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-21",
           "sala": "Sala 1",
@@ -14391,15 +14933,6 @@
           "idioma": "S/I",
           "inicio": "2026-07-21T19:50:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-21T19:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -14450,16 +14983,16 @@
           "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-alameda",
+          "cine": "cineplanet-cp-independencia",
           "dia": "2026-07-21",
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
-          "inicio": "2026-07-21T22:10:00-04:00",
+          "inicio": "2026-07-21T22:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
         },
         {
-          "cine": "cineplanet-cp-independencia",
+          "cine": "cineplanet-cp-alameda",
           "dia": "2026-07-21",
           "sala": null,
           "formato": "2D",
@@ -14616,15 +15149,6 @@
           "url": "https://www.cinemark.cl/pelicula/obsesion/compra-entradas/entradas"
         },
         {
-          "cine": "normandie",
-          "dia": "2026-07-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-18T19:45:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=je43d092e3bb71a65d5b68d834924f358d6c8051"
-        },
-        {
           "cine": "cinemark-portal-nunoa",
           "dia": "2026-07-18",
           "sala": "Sala 3",
@@ -14674,6 +15198,18 @@
           "dia": "2026-07-18",
           "sala": "Sala 3",
           "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-18T22:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/obsesion/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
           "idioma": "S/I",
           "inicio": "2026-07-18T22:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/obsesion/compra-entradas/entradas"
@@ -14778,15 +15314,6 @@
           "url": "https://www.cinemark.cl/pelicula/obsesion/compra-entradas/entradas"
         },
         {
-          "cine": "normandie",
-          "dia": "2026-07-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-19T20:00:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=r15af9445685c7dc04f43fd8c7488d501da730e3"
-        },
-        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-07-19",
           "sala": null,
@@ -14827,6 +15354,18 @@
           "dia": "2026-07-19",
           "sala": "Sala 3",
           "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T22:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/obsesion/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
           "idioma": "S/I",
           "inicio": "2026-07-19T22:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/obsesion/compra-entradas/entradas"
@@ -15186,24 +15725,6 @@
           "sala": "Sala 6",
           "formato": "2D",
           "idioma": "S/I",
-          "inicio": "2026-07-18T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-dia-de-la-revelacion/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-18",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-dia-de-la-revelacion/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-18",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
           "inicio": "2026-07-18T15:00:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/el-dia-de-la-revelacion/compra-entradas/entradas"
         },
@@ -15292,6 +15813,18 @@
           "cine": "cinemark-la-dehesa",
           "dia": "2026-07-18",
           "sala": "Sala Cinemark Portal La Dehesa - 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-07-18T22:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-dia-de-la-revelacion/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-18",
+          "sala": "Sala 4",
           "formato": "2D",
           "atributos": [
             "PREMIER"
@@ -15413,6 +15946,18 @@
           "dia": "2026-07-19",
           "sala": "Sala 6",
           "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-07-19T22:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-dia-de-la-revelacion/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-07-19",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
           "idioma": "S/I",
           "inicio": "2026-07-19T22:00:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/el-dia-de-la-revelacion/compra-entradas/entradas"
@@ -15676,15 +16221,6 @@
       "genero": null,
       "poster": "https://cdn.cinemark.cl/content/posters/HO00014925.jpg",
       "funciones": [
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-18",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-18T10:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/backrooms/compra-entradas/entradas"
-        },
         {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-18",
@@ -16020,6 +16556,15 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00014946.jpg",
       "funciones": [
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-18T15:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-07-18",
           "sala": "Sala 1",
@@ -16030,6 +16575,15 @@
           "idioma": "S/I",
           "inicio": "2026-07-18T17:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-18T17:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -16077,6 +16631,24 @@
           "url": "https://www.cineplanet.cl/pelicula/scary-movie"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-19T12:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-19T15:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
+        },
+        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-07-19",
           "sala": null,
@@ -16098,6 +16670,15 @@
           "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-19T17:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
+        },
+        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-07-19",
           "sala": null,
@@ -16114,15 +16695,6 @@
           "idioma": "S/I",
           "inicio": "2026-07-19T22:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-19T22:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -16144,6 +16716,15 @@
           "idioma": "S/I",
           "inicio": "2026-07-20T17:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-20T21:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -16178,7 +16759,7 @@
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
-          "inicio": "2026-07-20T22:30:00-04:00",
+          "inicio": "2026-07-20T22:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/scary-movie"
         },
         {
@@ -16192,6 +16773,15 @@
           "idioma": "S/I",
           "inicio": "2026-07-21T17:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-21T21:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -16226,7 +16816,7 @@
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
-          "inicio": "2026-07-21T22:30:00-04:00",
+          "inicio": "2026-07-21T22:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/scary-movie"
         }
       ]
@@ -16401,177 +16991,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-21T13:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/supergirl"
-        }
-      ]
-    },
-    {
-      "id": "mil-pedazos",
-      "titulo": "Mil pedazos",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-07-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-19T18:10:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=h9ac0a123af1146444200d99765263df17e0ae92"
-        }
-      ]
-    },
-    {
-      "id": "la-rosa-purpura-del-cairo",
-      "titulo": "La rosa púrpura del Cairo",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-07-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-20T15:00:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=fad99e62a95f27760da32cfa196c4e8c1f7a466b"
-        }
-      ]
-    },
-    {
-      "id": "matapanki",
-      "titulo": "Matapanki",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-07-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-20T17:00:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=t166bc036b49daf5434ff04d49375c10aa1f4bf8"
-        }
-      ]
-    },
-    {
-      "id": "perfect-blue",
-      "titulo": "Perfect Blue",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-07-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-20T18:30:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=y4ceefe77b087afb7e16a19427be16ce02a52c3c"
-        }
-      ]
-    },
-    {
-      "id": "la-haine-el-odio",
-      "titulo": "La haine (El odio)",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-07-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-20T20:15:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=szibjnf"
-        }
-      ]
-    },
-    {
-      "id": "la-invitacion",
-      "titulo": "La invitación",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-21T18:10:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=emdqryb"
-        }
-      ]
-    },
-    {
-      "id": "psicopata-americano",
-      "titulo": "Psicópata americano",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-21T20:15:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=288jgwq"
-        }
-      ]
-    },
-    {
-      "id": "amelie",
-      "titulo": "Amélie",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-07-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-18T15:00:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=gc849aec4dc85310ba96b9d023c0ab8efd55cd6f"
-        }
-      ]
-    },
-    {
-      "id": "la-misteriosa-mirada-del-flamenco",
-      "titulo": "La misteriosa mirada del flamenco",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-07-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-18T17:40:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=pd2fe331f3bf8bff319052af8e16e4179293efa2"
         }
       ]
     },
