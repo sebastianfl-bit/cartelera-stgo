@@ -23,14 +23,20 @@ jobs:
 
       - run: npm ci
 
-      # Cinépolis necesita un Chrome real (Cloudflare bloquea por fingerprint TLS).
-      # Si esto falla, el adaptador de Cinépolis devuelve [] y el resto igual se publica.
-      - name: Instalar Chromium
+      # Cinépolis necesita un Chrome REAL en modo headed (Cloudflare detecta headless).
+      # Xvfb (--with-deps lo instala) da una pantalla virtual para correr headed sin
+      # monitor. Si aun así Cloudflare bloquea (por la IP de datacenter), el adaptador
+      # devuelve [] y el resto de la cartelera se publica igual.
+      - name: Instalar Chromium + Xvfb
         run: npx playwright install --with-deps chromium
         continue-on-error: true
 
+      # xvfb-run envuelve el scraper en una pantalla virtual → Playwright corre headed.
       - name: Construir cartelera
-        run: node scripts/scrape.mjs
+        run: xvfb-run --auto-servernum --server-args="-screen 0 1280x1024x24" node scripts/scrape.mjs
+        env:
+          HEADFUL: "1"          # fuerza headless:false; Xvfb le da la pantalla
+          DEBUG_CINEPOLIS: "1"  # deja rastro en el log para diagnosticar
 
       - name: Publicar si cambió
         run: |
