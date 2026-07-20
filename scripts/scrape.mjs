@@ -36,7 +36,8 @@ const CINES = [
 
   { id: "normandie",         nombre: "Cine Arte Normandie", cadena: "Normandie", tipo: "arte", comuna: "Santiago Centro" },
   { id: "cineteca-nacional", nombre: "Cineteca Nacional",   cadena: "Cineteca",  tipo: "arte", comuna: "Santiago Centro" },
-  { id: "cine-uc",           nombre: "Cine UC",             cadena: "Cine UC",   tipo: "arte", comuna: "Santiago Centro" },
+  { id: "cine-uc",           nombre: "Cine UC",             cadena: "Cine UC",     tipo: "arte", comuna: "Santiago Centro" },
+  { id: "el-biografo",       nombre: "El Biógrafo",         cadena: "El Biógrafo", tipo: "arte", comuna: "Santiago Centro" },
 ];
 
 const ALIAS = {
@@ -298,12 +299,13 @@ function esSantiago(city) {
  * Si falla, devuelve [] y el resto de la cartelera se publica igual.
  */
 async function cinepolis() {
-  // EXPERIMENTAL Y DESACTIVADO. La API de Cinépolis ignora el parámetro de cine en
-  // el reenvío: solo devuelve la cartelera del cine cargado por interacción real.
-  // Scrapear las 23 sedes exigiría emular clicks en el selector de la SPA, algo
-  // frágil que además difícilmente sobrevive en GitHub Actions (Cloudflare + IP de
-  // datacenter). El mecanismo quedó demostrado; activar con CINEPOLIS=1 para probar.
-  if (!process.env.CINEPOLIS) return [];
+  // Solo sector oriente (~6 sedes): Parque Arauco, Plaza Egaña, Los Trapenses,
+  // Casa Costanera, Los Dominicos, La Reina. Con las 23 sedes era inviable, pero
+  // acotado a oriente son pocas navegaciones. Usa Playwright (Cloudflare bloquea
+  // fetch por TLS) con reintentos. Puede fallar en el Action desde IPs de Azure;
+  // si falla, devuelve [] y el resto se publica igual.
+  // Desactivar del todo con CINEPOLIS_OFF=1; ampliar zona con CINEPOLIS_ZONA.
+  if (process.env.CINEPOLIS_OFF) return [];
   const { cines, funciones } = await scrapeCinepolis({ limpiarTitulo });
   for (const c of cines) if (!CINES.some(x => x.id === c.id)) CINES.push(c);
   // datetime viene sin offset ("2026-07-29T20:30:00"): le estampamos el de Chile.
@@ -446,7 +448,62 @@ const ADAPTADORES = {
   Normandie: normandie,
   Cineteca: cineteca,
   "Cine UC": cineuc,
+  "El Biógrafo": elbiografo,
 };
+
+async function elbiografo(cine) {
+  const html = await getHTML("https://elbiografo.cl/");
+  const $ = cheerio.load(html);
+  const out = [];
+
+  // WordPress con tarjetas .movie-info. No hay fecha en el HTML: es la cartelera
+  // del día actual con horarios fijos. Como el scraper corre a diario, la mantiene
+  // al día. Ignoramos .proximos-card (próximos estrenos, sin funciones aún).
+  const hoy = fechaChile();
+
+  $(".movie-info").each((_, el) => {
+    const titulo = $(el).find(".movie-title").first().text().trim();
+    if (!titulo) return;
+
+    // Una película puede listar varios horarios: recogemos todos los "HH:MM hrs".
+    const textoHoras = $(el).find(".movie-time").text();
+    const horas = [...textoHoras.matchAll(/(\d{1,2}):(\d{2})/g)];
+    if (!horas.length) return;
+
+    const version = $(el).find(".movie-version").first().text().trim();
+    const rating = $(el).find(".movie-rating").first().text().trim();
+    const meta = $(el).find(".movie-meta-bar").first().text();      // "2026 · 111 min · España · Drama"
+    const dur = meta.match(/(\d+)\s*min/);
+    const genero = meta.split("·").pop()?.trim() || "Cine arte";
+
+    for (const h of horas) {
+      out.push({
+        cineId: cine.id,
+        titulo: limpiarTitulo(titulo),
+        duracion: dur ? parseInt(dur[1], 10) : 0,
+        clasificacion: rating || "S/I",
+        genero,
+        poster: $(el).closest(".movie-poster, .movie-card, article").find("img").attr("src")
+             || $(el).find("img").attr("src") || null,
+        sala: null,
+        formato: "2D",
+        atributos: [],
+        idioma: idiomaBiografo(version),
+        inicio: `${hoy}T${h[1].padStart(2,"0")}:${h[2]}:00${offsetChile(hoy)}`,
+        url: "https://elbiografo.cl/cartelera/",
+      });
+    }
+  });
+  return out;
+}
+
+/** "Espanol"→DOB, "Subtitulada"→SUB. El Biógrafo es cine europeo: casi todo SUB. */
+function idiomaBiografo(v) {
+  const s = String(v ?? "").toUpperCase();
+  if (/ESPA[NÑ]OL|DOBLAD/.test(s)) return "DOB";
+  if (/SUBTITUL|SUB|VOSE/.test(s)) return "SUB";
+  return "SUB";
+}
 
 /* ================================================================== */
 /* Utilidades                                                          */

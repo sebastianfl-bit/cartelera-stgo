@@ -75,7 +75,12 @@ export async function scrapeCinepolis({ limpiarTitulo }) {
 
     const cines = extraerCines(res.Cities);
     const pelis = extraerPelis(res.Movies);
-    const santiago = cines.filter(c => /santiago/i.test(c.cityId) || /santiago/i.test(c.slug));
+    // SOLO Los Trapenses. La API de Cinépolis fija el cine por el estado de la
+    // navegación (Referer), y solo el cine de la URL semilla responde correcto;
+    // los demás devuelven la cartelera de Los Trapenses. Hasta resolver eso,
+    // publicamos únicamente el cine que sabemos correcto.
+    const SOLO = "cinepolis-paseo-los-trapenses-santiago-oriente";
+    const santiago = cines.filter(c => c.slug === SOLO);
     const idxPeli = new Map(pelis.map(p => [p.slug, p]));
     console.error(`   (debug) ${cines.length} cines Chile · ${santiago.length} en Santiago · ${pelis.length} películas`);
     if (!santiago.length) throw new Error("Ningún cine de Santiago en Cities.");
@@ -87,41 +92,53 @@ export async function scrapeCinepolis({ limpiarTitulo }) {
     const plantilla = req.Billboard;
     if (!plantilla) throw new Error("No se interceptó la plantilla de Billboard.");
 
+    const REINTENTOS = 3;
     for (const cine of santiago) {
-      const urlCine = `${HOME}?cinema=${encodeURIComponent(cine.slug)}`;
-      let data = null;
-      try {
-        // Navegar pone el Referer/estado correcto para este cine.
-        await page.goto(urlCine, { waitUntil: "domcontentloaded", timeout: 45000 });
-        // Ejecutar el fetch DENTRO de la página (indistinguible de Cloudflare),
-        // pidiendo explícitamente ESTE cine.
-        data = await fetchBillboard(page, plantilla, cine.slug);
-      } catch (e) {
-        if (process.env.DEBUG_CINEPOLIS) console.error(`   (debug) ${cine.nombre}: ${e.message.slice(0,60)}`);
-        continue;
-      }
+      let logrado = false;
+      for (let intento = 1; intento <= REINTENTOS && !logrado; intento++) {
+        try {
+          const urlCine = `${HOME}?cinema=${encodeURIComponent(cine.slug)}`;
+          await page.goto(urlCine, { waitUntil: "domcontentloaded", timeout: 60000 });
+          // Espera generosa: preferimos lentitud a fallo (Cloudflare/render lento).
+          await page.waitForTimeout(1500);
+          const data = await fetchBillboard(page, plantilla, cine.slug);
 
-      // Validar que la respuesta sea de este cine, no del anterior.
-      if (!billboardEsDe(data, cine.slug)) {
-        if (process.env.DEBUG_CINEPOLIS) {
-          const got = (data?.data?.billboardByCinema ?? data?.data?.billboard)?.schedules?.[0]?.cinemaId ?? "vacío";
-          console.error(`   (debug) ${cine.nombre}: respuesta de otro cine (${got})`);
+          if (!billboardEsDe(data, cine.slug)) {
+            // La respuesta llegó pero es de otro cine (o vacía): reintentar.
+            if (process.env.DEBUG_CINEPOLIS) {
+              const got = (data?.data?.billboardByCinema ?? data?.data?.billboard)?.schedules?.[0]?.cinemaId ?? "vacío";
+              console.error(`   (debug) ${cine.nombre} [${intento}/${REINTENTOS}]: respondió ${got}`);
+            }
+            await page.waitForTimeout(1500 * intento);   // backoff
+            continue;
+          }
+
+          const fs = aplanarBillboard(data, cine, idxPeli, limpiarTitulo);
+          if (fs.length) {
+            funciones.push(...fs);
+            cinesOk.push(cine);
+            logrado = true;
+            if (process.env.DEBUG_CINEPOLIS) console.error(`   (debug) ${cine.nombre}: ${fs.length} funciones`);
+          } else {
+            // Cine válido pero sin funciones en la ventana: no es error, no reintentar.
+            logrado = true;
+          }
+        } catch (e) {
+          if (process.env.DEBUG_CINEPOLIS) console.error(`   (debug) ${cine.nombre} [${intento}/${REINTENTOS}]: ${e.message.slice(0,50)}`);
+          await page.waitForTimeout(2000 * intento);
         }
-        continue;
-      }
-
-      const fs = aplanarBillboard(data, cine, idxPeli, limpiarTitulo);
-      if (fs.length) {
-        funciones.push(...fs);
-        cinesOk.push(cine);
-        if (process.env.DEBUG_CINEPOLIS) console.error(`   (debug) ${cine.nombre}: ${fs.length} funciones`);
       }
     }
+    console.error(`   (debug) Cinépolis oriente: ${cinesOk.length}/${santiago.length} cines con funciones`);
 
+    // Comunas reales de las sedes conocidas (la API solo da la zona).
+    const COMUNAS = {
+      "cinepolis-paseo-los-trapenses-santiago-oriente": "Lo Barnechea",
+    };
     return {
       cines: cinesOk.map(c => ({
         id: `cinepolis-${c.slug}`, nombre: c.nombre, cadena: "Cinépolis",
-        tipo: "cadena", comuna: zona(c.cityId),
+        tipo: "cadena", comuna: COMUNAS[c.slug] ?? zona(c.cityId),
       })),
       funciones,
     };
