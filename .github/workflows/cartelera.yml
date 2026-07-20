@@ -2,8 +2,6 @@ name: Actualizar cartelera
 
 on:
   schedule:
-    # 07:00 y 12:00 hora de Chile (UTC-4). Temprano a propósito: Cinemark va borrando
-    # las funciones ya pasadas, así que un scrape nocturno deja el día casi vacío.
     - cron: "0 11,16 * * *"
   workflow_dispatch:
 
@@ -23,20 +21,27 @@ jobs:
 
       - run: npm ci
 
-      # Cinépolis necesita un Chrome REAL en modo headed (Cloudflare detecta headless).
-      # Xvfb (--with-deps lo instala) da una pantalla virtual para correr headed sin
-      # monitor. Si aun así Cloudflare bloquea (por la IP de datacenter), el adaptador
-      # devuelve [] y el resto de la cartelera se publica igual.
-      - name: Instalar Chromium + Xvfb
-        run: npx playwright install --with-deps chromium
-        continue-on-error: true
+      # Xvfb explícito (a veces --with-deps no lo trae). Sin continue-on-error:
+      # si esto falla, queremos verlo, no que pase en silencio.
+      - name: Instalar Xvfb
+        run: sudo apt-get update && sudo apt-get install -y xvfb
 
-      # xvfb-run envuelve el scraper en una pantalla virtual → Playwright corre headed.
+      # Chromium + sus libs del sistema.
+      - name: Instalar Chromium
+        run: npx playwright install --with-deps chromium
+
+      # Diagnóstico: confirmar que las binarios existen antes de correr.
+      - name: Verificar instalación
+        run: |
+          which xvfb-run && echo "xvfb-run OK"
+          npx playwright --version
+
+      # xvfb-run da pantalla virtual → Playwright corre headed (Cloudflare detecta headless).
       - name: Construir cartelera
         run: xvfb-run --auto-servernum --server-args="-screen 0 1280x1024x24" node scripts/scrape.mjs
         env:
-          HEADFUL: "1"          # fuerza headless:false; Xvfb le da la pantalla
-          DEBUG_CINEPOLIS: "1"  # deja rastro en el log para diagnosticar
+          HEADFUL: "1"
+          DEBUG_CINEPOLIS: "1"
 
       - name: Publicar si cambió
         run: |
