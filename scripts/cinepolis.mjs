@@ -61,12 +61,25 @@ export async function scrapeCinepolis({ limpiarTitulo }) {
   });
 
   try {
-    // Primera carga: capturamos catálogo (Cities, Movies) y la plantilla de Billboard.
-    await page.goto(SEMILLA, { waitUntil: "domcontentloaded", timeout: 60000 });
-    await waitFor(() => res.Cities, 25000, "Cities");
-    await waitFor(() => res.Movies, 25000, "Movies");
+    // Primera carga con reintentos: capturar catálogo (Cities, Movies) y la
+    // plantilla de Billboard. La intercepción es intermitente y el runner es lento,
+    // así que reintentamos la carga completa hasta 3 veces antes de rendirnos.
+    let cargaOk = false;
+    for (let intento = 1; intento <= 3 && !cargaOk; intento++) {
+      try {
+        await page.goto(SEMILLA, { waitUntil: "domcontentloaded", timeout: 60000 });
+        await waitFor(() => res.Cities, 45000, "Cities");
+        await waitFor(() => res.Movies, 45000, "Movies");
+        cargaOk = true;
+      } catch (e) {
+        console.error(`   (debug) carga inicial intento ${intento}/3: ${e.message.slice(0,60)}`);
+        if (intento < 3) await page.waitForTimeout(3000 * intento);
+      }
+    }
+    if (!cargaOk) throw new Error("No se pudo cargar el catálogo tras 3 intentos.");
+
     await page.evaluate(() => window.scrollBy(0, 1200)).catch(() => {});
-    await waitFor(() => req.Billboard, 25000, "Billboard", false);
+    await waitFor(() => req.Billboard, 30000, "Billboard", false);
 
     if (process.env.DEBUG_CINEPOLIS) {
       const { writeFile } = await import("node:fs/promises");
