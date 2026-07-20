@@ -1,3 +1,11 @@
 node_modules/
 cinepolis-debug.json
 norm.html
+test-*.mjs
+*.html
+!index.html
+cinepolis-debug.json
+uc-check.mjs
+sondear.mjs
+explorar.mjs
+inspeccionar.mjs
