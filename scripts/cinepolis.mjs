@@ -130,7 +130,7 @@ async function parsearCine(html, sede, limpiarTitulo, sinopsisPorSlug, UA, hoy, 
         atributos: [],
         idioma,
         inicio: `${fechaActual}T${hora[1].padStart(2, "0")}:${hora[2]}:00${offsetChile(fechaActual)}`,
-        url: hrefPeli ? `${BASE}${hrefPeli}` : null,
+        url: `https://cinepolis.com/cl?cinema=${sede.slug}-santiago-oriente`,
       });
     });
   });
