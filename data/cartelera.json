@@ -1,14 +1,11 @@
 {
-  "generado": "2026-07-21T22:30:05.082Z",
+  "generado": "2026-07-21T22:37:49.928Z",
   "fecha": "2026-07-21",
   "dias": [
     "2026-07-21",
     "2026-07-22",
     "2026-07-23",
     "2026-07-24"
-  ],
-  "fallidos": [
-    "Cine Arte Normandie"
   ],
   "cines": [
     {
@@ -370,6 +367,15 @@
           "idioma": "SUB",
           "inicio": "2026-07-21T15:00:00-04:00",
           "url": "https://vamosalcine.tri.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "normandie",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-21T15:00:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=anexynr"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -3477,15 +3483,6 @@
           "url": "https://vamosalcine.tri.cl/pelicula/toy-story-5"
         },
         {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-07-21",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-21T18:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-07-21",
           "sala": null,
@@ -5505,15 +5502,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-21T17:55:00-04:00",
           "url": "https://vamosalcine.tri.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-07-21",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-21T18:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -8387,6 +8375,15 @@
           "url": "https://vamosalcine.tri.cl/pelicula/obsesion"
         },
         {
+          "cine": "normandie",
+          "dia": "2026-07-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-22T15:00:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=rac18fccbfe9d91451d38f4f88bacfb667cad680"
+        },
+        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-07-22",
           "sala": null,
@@ -8907,6 +8904,224 @@
       ]
     },
     {
+      "id": "la-invitacion",
+      "titulo": "La invitación",
+      "duracion": 106,
+      "clasificacion": "+14",
+      "genero": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_SX250.jpg",
+      "sinopsis": "Joe y Angela están en una situación de pareja muy delicada y esta noche podría ser cuando todo se termine de derrumbar. Sus vecinos de arriba llegan para cenar y todo lo que puede salir mal, sale aún peor.",
+      "funciones": [
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-21T11:00:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-21T12:20:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-21T16:30:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-21T16:35:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-21T16:45:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "normandie",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-21T18:10:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=emdqryb"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-21T19:15:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-21T19:25:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-21T19:35:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "el-biografo",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-21T20:15:00-04:00",
+          "url": "https://elbiografo.cl/cartelera/"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-21T21:15:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-21T21:30:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-casa-costanera",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-21T22:00:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-07-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-22T11:00:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-07-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-22T16:30:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-07-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-22T16:35:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-07-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-22T16:45:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-07-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-22T19:15:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-07-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-22T19:25:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "dia": "2026-07-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-22T19:35:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-07-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-22T21:15:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-07-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-22T21:30:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-casa-costanera",
+          "dia": "2026-07-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-22T22:00:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
+        }
+      ]
+    },
+    {
       "id": "backrooms",
       "titulo": "Backrooms",
       "duracion": 110,
@@ -9112,215 +9327,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-22T22:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/backrooms"
-        }
-      ]
-    },
-    {
-      "id": "la-invitacion",
-      "titulo": "La invitación",
-      "duracion": 106,
-      "clasificacion": "+14",
-      "genero": null,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_SX250.jpg",
-      "sinopsis": "Joe y Angela están en una situación de pareja muy delicada y esta noche podría ser cuando todo se termine de derrumbar. Sus vecinos de arriba llegan para cenar y todo lo que puede salir mal, sale aún peor.",
-      "funciones": [
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-21T11:00:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-21T12:20:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-21T16:30:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-21T16:35:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-21T16:45:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-21T19:15:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-21T19:25:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-21T19:35:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "el-biografo",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-21T20:15:00-04:00",
-          "url": "https://elbiografo.cl/cartelera/"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-21T21:15:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-21T21:30:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-casa-costanera",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-21T22:00:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-07-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-22T11:00:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-07-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-22T16:30:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-07-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-22T16:35:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-07-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-22T16:45:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-07-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-22T19:15:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-07-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-22T19:25:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
-          "dia": "2026-07-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-22T19:35:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-07-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-22T21:15:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-07-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-22T21:30:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-casa-costanera",
-          "dia": "2026-07-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-22T22:00:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/la-invitacion"
         }
       ]
     },
@@ -9662,6 +9668,44 @@
       ]
     },
     {
+      "id": "leviticus-ritual-de-sangre",
+      "titulo": "Leviticus Ritual De Sangre",
+      "duracion": 88,
+      "clasificacion": "S/I",
+      "genero": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjVkZjIxMzItMzYyMi00ODMwLWEwMWQtMjhhMTkwMGI5MWEyXkEyXkFqcGc@._V1_SX250.jpg",
+      "sinopsis": "Dos adolescentes deben escapar de un ente violento que adopta la forma de la persona que más desean: el uno al otro.",
+      "funciones": [
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-21T22:40:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/leviticus-ritual-de-sangre"
+        },
+        {
+          "cine": "normandie",
+          "dia": "2026-07-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-22T17:10:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=de067653b7c72b9857833903314b43a6803ff421"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-07-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-22T22:40:00-04:00",
+          "url": "https://vamosalcine.tri.cl/pelicula/leviticus-ritual-de-sangre"
+        }
+      ]
+    },
+    {
       "id": "el-afinador",
       "titulo": "El Afinador",
       "duracion": 109,
@@ -9716,35 +9760,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-22T22:20:00-04:00",
           "url": "https://vamosalcine.tri.cl/pelicula/en-el-camino"
-        }
-      ]
-    },
-    {
-      "id": "leviticus-ritual-de-sangre",
-      "titulo": "Leviticus Ritual De Sangre",
-      "duracion": 88,
-      "clasificacion": "S/I",
-      "genero": null,
-      "poster": "https://m.media-amazon.com/images/M/MV5BZjVkZjIxMzItMzYyMi00ODMwLWEwMWQtMjhhMTkwMGI5MWEyXkEyXkFqcGc@._V1_SX250.jpg",
-      "sinopsis": "Dos adolescentes deben escapar de un ente violento que adopta la forma de la persona que más desean: el uno al otro.",
-      "funciones": [
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-07-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-21T22:40:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/leviticus-ritual-de-sangre"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-07-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-07-22T22:40:00-04:00",
-          "url": "https://vamosalcine.tri.cl/pelicula/leviticus-ritual-de-sangre"
         }
       ]
     },
@@ -9852,6 +9867,46 @@
           "idioma": "SUB",
           "inicio": "2026-07-21T22:05:00-04:00",
           "url": "https://vamosalcine.tri.cl/pelicula/el-diablo-viste-a-la-moda-2"
+        }
+      ]
+    },
+    {
+      "id": "psicopata-americano",
+      "titulo": "Psicópata americano",
+      "duracion": 0,
+      "clasificacion": "S/I",
+      "genero": "Cine arte",
+      "poster": null,
+      "sinopsis": null,
+      "funciones": [
+        {
+          "cine": "normandie",
+          "dia": "2026-07-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-21T20:15:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=288jgwq"
+        }
+      ]
+    },
+    {
+      "id": "twin-peaks-con-el-diablo-en-el-cuerpo",
+      "titulo": "Twin Peaks: con el diablo en el cuerpo",
+      "duracion": 0,
+      "clasificacion": "S/I",
+      "genero": "Cine arte",
+      "poster": null,
+      "sinopsis": null,
+      "funciones": [
+        {
+          "cine": "normandie",
+          "dia": "2026-07-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-22T19:10:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=qmor3qn"
         }
       ]
     },
