@@ -21,27 +21,8 @@ jobs:
 
       - run: npm ci
 
-      # Xvfb explícito (a veces --with-deps no lo trae). Sin continue-on-error:
-      # si esto falla, queremos verlo, no que pase en silencio.
-      - name: Instalar Xvfb
-        run: sudo apt-get update && sudo apt-get install -y xvfb
-
-      # Chromium + sus libs del sistema.
-      - name: Instalar Chromium
-        run: npx playwright install --with-deps chromium
-
-      # Diagnóstico: confirmar que las binarios existen antes de correr.
-      - name: Verificar instalación
-        run: |
-          which xvfb-run && echo "xvfb-run OK"
-          npx playwright --version
-
-      # xvfb-run da pantalla virtual → Playwright corre headed (Cloudflare detecta headless).
       - name: Construir cartelera
-        run: xvfb-run --auto-servernum --server-args="-screen 0 1280x1024x24" node scripts/scrape.mjs
-        env:
-          HEADFUL: "1"
-          DEBUG_CINEPOLIS: "1"
+        run: node scripts/scrape.mjs
 
       - name: Publicar si cambió
         run: |

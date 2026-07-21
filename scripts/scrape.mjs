@@ -299,12 +299,8 @@ function esSantiago(city) {
  * Si falla, devuelve [] y el resto de la cartelera se publica igual.
  */
 async function cinepolis() {
-  // Solo sector oriente (~6 sedes): Parque Arauco, Plaza Egaña, Los Trapenses,
-  // Casa Costanera, Los Dominicos, La Reina. Con las 23 sedes era inviable, pero
-  // acotado a oriente son pocas navegaciones. Usa Playwright (Cloudflare bloquea
-  // fetch por TLS) con reintentos. Puede fallar en el Action desde IPs de Azure;
-  // si falla, devuelve [] y el resto se publica igual.
-  // Desactivar del todo con CINEPOLIS_OFF=1; ampliar zona con CINEPOLIS_ZONA.
+  // Lee Cinépolis desde vamosalcine.tri.cl (agregador), porque la API oficial
+  // está tras Cloudflare y es inservible para scraping. Fetch simple + cheerio.
   if (process.env.CINEPOLIS_OFF) return [];
   const { cines, funciones } = await scrapeCinepolis({ limpiarTitulo });
   for (const c of cines) if (!CINES.some(x => x.id === c.id)) CINES.push(c);

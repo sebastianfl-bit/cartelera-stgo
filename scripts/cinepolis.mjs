@@ -1,277 +1,145 @@
 /**
  * scripts/cinepolis.mjs — adaptador de Cinépolis / Cinehoyts
  *
- * ENFOQUE: NO adivinar. El sitio dispara sus propias queries GraphQL; nosotros
- * las INTERCEPTAMOS (texto exacto, headers exactos, URL exacta) y las REENVIAMOS
- * cambiando solo el cine. Así nunca peleamos con el esquema ni con CORS: usamos
- * literalmente el request que Cloudflare ya aprobó.
+ * FUENTE: vamosalcine.tri.cl (agregador de terceros), NO la API de Cinépolis.
  *
- * Por qué Playwright: api-g.cinepolis.com está tras Cloudflare, que bloquea por
- * fingerprint TLS. Un Chrome real es la única forma de pasar. Y como el reenvío
- * usa page.request (contexto del navegador), hereda TLS, cookies y origin válidos.
+ * Por qué: la API oficial de Cinépolis está tras Cloudflare (bloqueo por TLS) y
+ * además ignora el filtro de cine, devolviendo siempre la sede de la URL semilla.
+ * Peleamos mucho con Playwright + Xvfb y quedó frágil. Vamosalcine ya scrapea
+ * Cinépolis y publica la cartelera como HTML estático (Astro), con la sede real
+ * en la URL y JSON embebido por función. Un simple fetch + cheerio lo resuelve.
  *
- * Fragilidad: puede fallar en GitHub Actions (Cloudflare desconfía de IPs de
- * datacenter). Si falla, devuelve [] y el resto de la cartelera se publica igual.
+ * Trade-off: dependemos de que vamosalcine mantenga sus datos al día y no cambie
+ * su HTML. Aceptable para Cinépolis (que de otro modo no tendríamos). Para las
+ * demás cadenas seguimos usando sus fuentes directas.
+ *
+ * Estructura de vamosalcine.tri.cl/cine/<slug>:
+ *   .movie-block
+ *     .movie-title a         → título + /pelicula/<slug>
+ *     .format-group
+ *       .group-label         → "2D — SUB"
+ *       .time-pill[data-time] → horario, con JSON {time,language,format} en x-show
+ *
+ * OJO: el HTML muestra la cartelera del DÍA por defecto; el filtro de fecha es
+ * client-side (Alpine). Para varios días hay que pedir /cine/<slug>?date=YYYY-MM-DD.
  */
 
-const HOME = "https://cinepolis.com/cl";
-const SEMILLA = "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente";
+import * as cheerio from "cheerio";
 
+const BASE = "https://vamosalcine.tri.cl";
+
+// Sedes de Santiago en vamosalcine → id interno + comuna real.
+// (slugs tomados del índice /ciudad/santiago-*). Ampliar acá si quieres más zonas.
+const SEDES = [
+  { slug: "cinepolis-parque-arauco",                 nombre: "Cinépolis Parque Arauco",        comuna: "Las Condes" },
+  { slug: "cinepolis-mall-plaza-los-dominicos",      nombre: "Cinépolis Mall Plaza Los Dominicos", comuna: "Las Condes" },
+  { slug: "cinepolis-los-dominicos",                 nombre: "Cinépolis Los Dominicos",        comuna: "Las Condes" },
+  { slug: "cinepolis-la-reina",                      nombre: "Cinépolis La Reina",             comuna: "La Reina" },
+  { slug: "cinepolis-casa-costanera",                nombre: "Cinépolis Casa Costanera",       comuna: "Vitacura" },
+  { slug: "cinepolis-mallplaza-egana",               nombre: "Cinépolis Plaza Egaña",          comuna: "La Reina" },
+  { slug: "cinepolis-paseo-los-trapenses",           nombre: "Cinépolis Paseo Los Trapenses",  comuna: "Lo Barnechea" },
+];
+
+const DIAS_A_PEDIR = 4;   // hoy + 3
+
+/** Devuelve { cines, funciones } leyendo Cinépolis desde vamosalcine. */
 export async function scrapeCinepolis({ limpiarTitulo }) {
-  let chromium;
-  try { ({ chromium } = await import("playwright")); }
-  catch { throw new Error("Playwright no instalado (npm i playwright)"); }
+  const UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/126 Safari/537.36";
+  const hoy = fechaChile();
+  const dias = [];
+  for (let i = 0; i < DIAS_A_PEDIR; i++) dias.push(sumarDias(hoy, i));
 
-  const headless = !process.env.HEADFUL;
-  const browser = await chromium.launch({
-    headless,
-    args: ["--disable-blink-features=AutomationControlled", "--no-sandbox", "--disable-dev-shm-usage"],
-  });
-  const ctx = await browser.newContext({
-    locale: "es-CL",
-    timezoneId: "America/Santiago",
-    viewport: { width: 1366, height: 900 },
-    userAgent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
-  });
-  await ctx.addInitScript(() => {
-    Object.defineProperty(navigator, "webdriver", { get: () => undefined });
-  });
-  const page = await ctx.newPage();
+  const funciones = [];
+  const cinesOk = new Set();
 
-  // Guardamos el request COMPLETO de cada operación (no solo la respuesta):
-  // necesitamos su url, headers y body para poder reenviarlo.
-  const req = {};   // operationName -> { url, headers, postData }
-  const res = {};   // operationName -> [ {variables, data} ]
-  page.on("request", r => {
-    const u = r.url();
-    if (!u.includes("api-g.cinepolis.com")) return;
-    try {
-      const body = JSON.parse(r.postData() ?? "{}");
-      if (body.operationName) req[body.operationName] = { url: u, headers: r.headers(), postData: r.postData() };
-    } catch {}
-  });
-  page.on("response", async r => {
-    const u = r.url();
-    if (!u.includes("api-g.cinepolis.com")) return;
-    try {
-      const body = JSON.parse(r.request().postData() ?? "{}");
-      if (!body.operationName) return;
-      (res[body.operationName] ??= []).push({ variables: body.variables, data: await r.json() });
-    } catch {}
-  });
-
-  try {
-    // Primera carga con reintentos: capturar catálogo (Cities, Movies) y la
-    // plantilla de Billboard. La intercepción es intermitente y el runner es lento,
-    // así que reintentamos la carga completa hasta 3 veces antes de rendirnos.
-    let cargaOk = false;
-    for (let intento = 1; intento <= 3 && !cargaOk; intento++) {
+  for (const sede of SEDES) {
+    let algo = false;
+    for (const dia of dias) {
+      const url = `${BASE}/cine/${sede.slug}?date=${dia}`;
+      let html;
       try {
-        await page.goto(SEMILLA, { waitUntil: "domcontentloaded", timeout: 60000 });
-        await waitFor(() => res.Cities, 45000, "Cities");
-        await waitFor(() => res.Movies, 45000, "Movies");
-        cargaOk = true;
-      } catch (e) {
-        console.error(`   (debug) carga inicial intento ${intento}/3: ${e.message.slice(0,60)}`);
-        if (intento < 3) await page.waitForTimeout(3000 * intento);
-      }
+        const r = await fetch(url, { headers: { "User-Agent": UA } });
+        if (!r.ok) continue;
+        html = await r.text();
+      } catch { continue; }
+
+      const fs = parsearCine(html, sede, dia, limpiarTitulo);
+      if (fs.length) { funciones.push(...fs); algo = true; }
     }
-    if (!cargaOk) throw new Error("No se pudo cargar el catálogo tras 3 intentos.");
-
-    await page.evaluate(() => window.scrollBy(0, 1200)).catch(() => {});
-    await waitFor(() => req.Billboard, 30000, "Billboard", false);
-
+    if (algo) cinesOk.add(sede.slug);
     if (process.env.DEBUG_CINEPOLIS) {
-      const { writeFile } = await import("node:fs/promises");
-      await writeFile("cinepolis-debug.json", JSON.stringify({ req, res }, null, 2));
-    }
-
-    const cines = extraerCines(res.Cities);
-    const pelis = extraerPelis(res.Movies);
-    // SOLO Los Trapenses. La API de Cinépolis fija el cine por el estado de la
-    // navegación (Referer), y solo el cine de la URL semilla responde correcto;
-    // los demás devuelven la cartelera de Los Trapenses. Hasta resolver eso,
-    // publicamos únicamente el cine que sabemos correcto.
-    const SOLO = "cinepolis-paseo-los-trapenses-santiago-oriente";
-    const santiago = cines.filter(c => c.slug === SOLO);
-    const idxPeli = new Map(pelis.map(p => [p.slug, p]));
-    console.error(`   (debug) ${cines.length} cines Chile · ${santiago.length} en Santiago · ${pelis.length} películas`);
-    if (!santiago.length) throw new Error("Ningún cine de Santiago en Cities.");
-
-    const funciones = [];
-    const cinesOk = [];
-
-    // Plantilla del fetch: la sacamos del Billboard interceptado en la carga inicial.
-    const plantilla = req.Billboard;
-    if (!plantilla) throw new Error("No se interceptó la plantilla de Billboard.");
-
-    const REINTENTOS = 3;
-    for (const cine of santiago) {
-      let logrado = false;
-      for (let intento = 1; intento <= REINTENTOS && !logrado; intento++) {
-        try {
-          const urlCine = `${HOME}?cinema=${encodeURIComponent(cine.slug)}`;
-          await page.goto(urlCine, { waitUntil: "domcontentloaded", timeout: 60000 });
-          // Espera generosa: preferimos lentitud a fallo (Cloudflare/render lento).
-          await page.waitForTimeout(1500);
-          const data = await fetchBillboard(page, plantilla, cine.slug);
-
-          if (!billboardEsDe(data, cine.slug)) {
-            // La respuesta llegó pero es de otro cine (o vacía): reintentar.
-            if (process.env.DEBUG_CINEPOLIS) {
-              const got = (data?.data?.billboardByCinema ?? data?.data?.billboard)?.schedules?.[0]?.cinemaId ?? "vacío";
-              console.error(`   (debug) ${cine.nombre} [${intento}/${REINTENTOS}]: respondió ${got}`);
-            }
-            await page.waitForTimeout(1500 * intento);   // backoff
-            continue;
-          }
-
-          const fs = aplanarBillboard(data, cine, idxPeli, limpiarTitulo);
-          if (fs.length) {
-            funciones.push(...fs);
-            cinesOk.push(cine);
-            logrado = true;
-            if (process.env.DEBUG_CINEPOLIS) console.error(`   (debug) ${cine.nombre}: ${fs.length} funciones`);
-          } else {
-            // Cine válido pero sin funciones en la ventana: no es error, no reintentar.
-            logrado = true;
-          }
-        } catch (e) {
-          if (process.env.DEBUG_CINEPOLIS) console.error(`   (debug) ${cine.nombre} [${intento}/${REINTENTOS}]: ${e.message.slice(0,50)}`);
-          await page.waitForTimeout(2000 * intento);
-        }
-      }
-    }
-    console.error(`   (debug) Cinépolis oriente: ${cinesOk.length}/${santiago.length} cines con funciones`);
-
-    // Comunas reales de las sedes conocidas (la API solo da la zona).
-    const COMUNAS = {
-      "cinepolis-paseo-los-trapenses-santiago-oriente": "Lo Barnechea",
-    };
-    return {
-      cines: cinesOk.map(c => ({
-        id: `cinepolis-${c.slug}`, nombre: c.nombre, cadena: "Cinépolis",
-        tipo: "cadena", comuna: COMUNAS[c.slug] ?? zona(c.cityId),
-      })),
-      funciones,
-    };
-  } finally {
-    await browser.close();
-  }
-}
-
-/** Ejecuta el fetch de Billboard DENTRO de la página, pidiendo un cine específico. */
-async function fetchBillboard(page, plantilla, cinemaSlug) {
-  const body = JSON.parse(plantilla.postData);
-  body.variables = { ...body.variables, cinemas: cinemaSlug, movieId: "" };
-
-  const permitidos = ["content-type", "country-id", "language", "x-apikey", "accept"];
-  const headers = {};
-  for (const [k, v] of Object.entries(plantilla.headers)) {
-    if (permitidos.includes(k.toLowerCase())) headers[k] = v;
-  }
-
-  const r = await page.evaluate(async ({ url, headers, body }) => {
-    try {
-      const resp = await fetch(url, { method: "POST", headers, body, credentials: "include" });
-      return resp.ok ? { ok: true, json: await resp.json() } : { ok: false, status: resp.status };
-    } catch (e) { return { ok: false, error: String(e) }; }
-  }, { url: plantilla.url, headers, body: JSON.stringify(body) });
-
-  if (!r.ok) throw new Error(r.status ? `HTTP ${r.status}` : r.error);
-  return r.json;
-}
-
-/** billboard.schedules[].dates[].languages[].showtimes[] → funciones planas */
-function aplanarBillboard(json, cine, idxPeli, limpiarTitulo) {
-  const out = [];
-  const bb = json?.data?.billboardByCinema ?? json?.data?.billboard;
-  for (const s of bb?.schedules ?? []) {
-    const peli = idxPeli.get(s.movieId);
-    for (const d of s.dates ?? []) {
-      for (const l of d.languages ?? []) {
-        for (const st of l.showtimes ?? []) {
-          if (!st.datetime) continue;
-          out.push({
-            cineId: `cinepolis-${cine.slug}`,
-            titulo: limpiarTitulo(peli?.titulo ?? s.movieId),
-            duracion: peli?.duracion ?? 0,
-            clasificacion: peli?.clasificacion ?? "S/I",
-            genero: peli?.genero ?? null,
-            poster: peli?.poster ?? null,
-            sala: st.screen ? `Sala ${st.screen}` : null,
-            formato: (st.format?.name ?? "2D").toUpperCase().includes("3D") ? "3D" : "2D",
-            atributos: st.experience?.name && !/tradicional/i.test(st.experience.name)
-              ? [st.experience.name.toUpperCase()] : [],
-            idioma: idioma(l.language ?? l.displayLanguage),
-            inicio: st.datetime,                    // se le estampa offset en scrape.mjs
-            url: null,
-          });
-        }
-      }
+      const n = funciones.filter(f => f.cineId === `cinepolis-${sede.slug}`).length;
+      console.error(`   (debug) ${sede.nombre}: ${n} funciones`);
     }
   }
-  return out;
-}
 
-/** ¿La respuesta Billboard corresponde a este cine? */
-function billboardEsDe(json, slug) {
-  const bb = json?.data?.billboardByCinema ?? json?.data?.billboard;
-  const sch = bb?.schedules ?? [];
-  return sch.length > 0 && sch[0].cinemaId === slug;
-}
-
-/** Espera a que llegue una Billboard cuyo cinemaId sea EXACTAMENTE este cine. */
-async function waitForBillboardDe(res, slug, ms) {
-  const hasta = Date.now() + ms;
-  while (Date.now() < hasta) {
-    if ((res.Billboard ?? []).some(b => billboardEsDe(b.data, slug))) return true;
-    await new Promise(r => setTimeout(r, 300));
-  }
-  return false;
-}
-
-function extraerCines(capturas) {
-  const edges = capturas?.[0]?.data?.data?.cities?.edges ?? [];
-  const out = [];
-  for (const e of edges) {
-    for (const c of e.node?.cinemas ?? []) {
-      if (c.id && c.name) out.push({ slug: c.id, nombre: c.name, cityId: c.cityId ?? e.node.id ?? "" });
-    }
-  }
-  return out;
-}
-
-function extraerPelis(capturas) {
-  const edges = capturas?.[0]?.data?.data?.movies?.edges ?? [];
-  return edges.map(e => e.node).filter(n => n?.id).map(n => ({
-    slug: n.id,
-    titulo: n.name ?? n.originalName ?? n.id,
-    duracion: parseInt(String(n.length ?? "").replace(/\D/g, ""), 10) || 0,
-    clasificacion: n.rating ?? "S/I",
-    genero: Array.isArray(n.genre) ? n.genre[0] : (n.genre ?? null),
-    poster: n.poster ?? n.image ?? null,
+  const cines = SEDES.filter(s => cinesOk.has(s.slug)).map(s => ({
+    id: `cinepolis-${s.slug}`, nombre: s.nombre, cadena: "Cinépolis",
+    tipo: "cadena", comuna: s.comuna,
   }));
+  return { cines, funciones };
 }
 
-/** "santiago-oriente" → "Santiago Oriente" (Cinépolis usa zonas, no comunas) */
-function zona(cityId) {
-  return String(cityId ?? "").split("-").map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(" ") || "Santiago";
+function parsearCine(html, sede, dia, limpiarTitulo) {
+  const $ = cheerio.load(html);
+  const out = [];
+
+  $(".movie-block").each((_, block) => {
+    const titulo = $(block).find(".movie-title").first().text().trim();
+    if (!titulo) return;
+    const poster = $(block).find("img.movie-poster").attr("src") || null;
+
+    $(block).find(".time-pill").each((__, pill) => {
+      const hora = ($(pill).attr("data-time") || "").match(/(\d{1,2}):(\d{2})/);
+      if (!hora) return;
+
+      // El x-show trae {"time","language","format"} de esta función.
+      let idioma = "S/I", formato = "2D";
+      const xshow = $(pill).attr("x-show") || "";
+      const dec = xshow.replace(/&#34;|&quot;/g, '"');
+      const mLang = dec.match(/"language"\s*:\s*"([^"]+)"/);
+      const mFmt = dec.match(/"format"\s*:\s*"([^"]+)"/);
+      if (mLang) idioma = normIdiomaVac(mLang[1]);
+      if (mFmt) formato = mFmt[1].toUpperCase().includes("3D") ? "3D" : "2D";
+
+      out.push({
+        cineId: `cinepolis-${sede.slug}`,
+        titulo: limpiarTitulo(titulo),
+        duracion: 0,
+        clasificacion: "S/I",
+        genero: null,
+        poster,
+        sala: null,
+        formato,
+        atributos: [],
+        idioma,
+        inicio: `${dia}T${hora[1].padStart(2, "0")}:${hora[2]}:00${offsetChile(dia)}`,
+        url: null,
+      });
+    });
+  });
+  return out;
 }
 
-function idioma(v) {
+function normIdiomaVac(v) {
   const s = String(v ?? "").toUpperCase();
-  if (/DOBLAD|SPA|ESP/.test(s)) return "DOB";
-  if (/SUBTITUL|SUB|ORIGINAL|ENG/.test(s)) return "SUB";
+  if (/DOB|ESP|SPA|CAST/.test(s)) return "DOB";
+  if (/SUB|VOSE|ORIG/.test(s)) return "SUB";
   return "S/I";
 }
 
-async function waitFor(cond, ms, nombre, obligatorio = true) {
-  const hasta = Date.now() + ms;
-  while (Date.now() < hasta) {
-    if (cond()) return true;
-    await new Promise(r => setTimeout(r, 400));
-  }
-  if (obligatorio) throw new Error(`Timeout esperando ${nombre} (${ms}ms). La intercepción es intermitente; reintenta.`);
-  return false;
+/* --- helpers de fecha (duplicados mínimos para que el módulo sea autónomo) --- */
+const TZ = "America/Santiago";
+function fechaChile() { return new Date().toLocaleDateString("en-CA", { timeZone: TZ }); }
+function sumarDias(f, n) {
+  const d = new Date(`${f}T12:00:00Z`);
+  d.setUTCDate(d.getUTCDate() + n);
+  return d.toISOString().slice(0, 10);
+}
+function offsetChile(fecha) {
+  const d = new Date(`${fecha}T12:00:00Z`);
+  const local = new Date(d.toLocaleString("en-US", { timeZone: TZ }));
+  const utc = new Date(d.toLocaleString("en-US", { timeZone: "UTC" }));
+  const h = Math.round((local - utc) / 3600000);
+  return `${h < 0 ? "-" : "+"}${String(Math.abs(h)).padStart(2, "0")}:00`;
 }
