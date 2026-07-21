@@ -24,6 +24,7 @@
     --axis-h:calc(100% - 0px);
     --gutter:clamp(14px,4vw,32px);
     --track:44px;
+    --poster-w:86px;   /* 72px póster + 14px gap: desplaza el eje para alinear con las pistas */
   }
   *{box-sizing:border-box;margin:0;padding:0}
   html{-webkit-text-size-adjust:100%}
@@ -109,6 +110,18 @@
   .chip:hover{border-color:var(--hueso-35);color:var(--hueso)}
   .chip[aria-pressed="true"]{background:var(--hueso);color:var(--tinta);border-color:var(--hueso);font-weight:600}
   .chip:focus-visible,.pelicula:focus-visible,.hora:focus-visible{outline:2px solid var(--menta);outline-offset:2px}
+  .grupo-cines{flex-direction:column;align-items:stretch;gap:10px;width:100%}
+  .cines-head{margin-bottom:2px}
+  .chip-todos{font-weight:600}
+  .cadena-grupo{display:flex;flex-direction:column;gap:5px}
+  .cadena-label{
+    font-family:"IBM Plex Mono",monospace;font-size:10px;font-weight:600;
+    letter-spacing:.1em;text-transform:uppercase;color:var(--menta);
+    opacity:.85;
+  }
+  .cadena-cines{display:flex;flex-wrap:wrap;gap:5px}
+  .chip-cine{font-size:12.5px;padding:4px 10px}
+
 
   /* ---------- Regla horaria (el eje compartido) ---------- */
   body.buscando .regla-sticky{ display:none; }
@@ -120,7 +133,7 @@
   }
   .regla{
     position:relative;height:26px;
-    margin-left:var(--track);
+    margin-left:calc(var(--poster-w) + var(--track));
     border-bottom:1px solid var(--hueso-14);
   }
   .tick{
@@ -149,6 +162,22 @@
     background:transparent;border:0;border-bottom:1px solid var(--hueso-14);
     color:inherit;font:inherit;cursor:pointer;
     padding:18px 0 16px;
+  }
+  .pelicula{
+    display:flex;gap:14px;align-items:stretch;
+  }
+  .poster{
+    flex-shrink:0;width:72px;height:104px;object-fit:cover;
+    border-radius:8px;background:var(--tinta-2);
+    border:1px solid var(--hueso-14);
+  }
+  .poster-vacio{
+    display:flex;align-items:center;justify-content:center;
+    font-size:28px;opacity:.35;
+  }
+  .pelicula-info{flex:1;min-width:0;display:flex;flex-direction:column;}
+  @media (max-width:640px){
+    .poster{width:56px;height:82px;}
   }
   .pelicula:hover .titulo{color:var(--menta)}
   .fila-top{display:flex;align-items:baseline;gap:12px;margin-bottom:10px}
@@ -245,7 +274,7 @@
   .vacio b{display:block;color:var(--hueso);font-family:"Bricolage Grotesque",sans-serif;font-size:22px;margin-bottom:8px}
 
   @media (max-width:640px){
-    :root{--track:0px}
+    :root{--track:0px; --poster-w:70px}
     .cine-marca{display:none}
     .cine-fila{grid-template-columns:1fr}
     .datos{display:none}
@@ -284,7 +313,7 @@ const AXIS_FIN = 26 * 60;   // 02:00 del día siguiente
 const AXIS_SPAN = AXIS_FIN - AXIS_INI;
 
 let DATA = null;
-const estado = { dia:null, q:"", comunas:new Set(), tipos:new Set(), idiomas:new Set(), desdeAhora:true, abierta:null };
+const estado = { dia:null, q:"", cines:new Set(), desdeAhora:true, abierta:null };
 
 /* Normaliza para búsqueda: sin acentos, minúsculas. "Estación"→"estacion" */
 function norm(t){
@@ -338,24 +367,6 @@ function pintarMeta(){
     `<span>Actualizado ${gen.toLocaleTimeString("es-CL",{hour:"2-digit",minute:"2-digit"})}</span>`;
 }
 
-function grupoChips(label, items, set, key){
-  const cont = document.createElement("div");
-  cont.className = "grupo";
-  cont.innerHTML = `<span class="grupo-label">${label}</span>`;
-  items.forEach(([val, txt]) => {
-    const b = document.createElement("button");
-    b.className = "chip";
-    b.textContent = txt;
-    b.setAttribute("aria-pressed", set.has(val));
-    b.onclick = () => {
-      set.has(val) ? set.delete(val) : set.add(val);
-      b.setAttribute("aria-pressed", set.has(val));
-      pintarLista();
-    };
-    cont.appendChild(b);
-  });
-  return cont;
-}
 
 /* Resumen legible de en qué días hay funciones. "Hoy, mañana y sáb 19" */
 function resumenDias(fs){
@@ -414,6 +425,73 @@ function cablearBuscador(){
   });
 }
 
+/* Selector de cines, agrupado por cadena. Reemplaza los filtros de comuna/idioma. */
+function grupoCines(){
+  const cont = document.createElement("div");
+  cont.className = "grupo grupo-cines";
+
+  // Orden de cadenas y agrupación
+  const ordenCadena = ["Cinemark", "Cineplanet", "Cinépolis", "Normandie", "Cineteca", "Cine UC", "El Biógrafo"];
+  const porCadena = {};
+  for (const c of DATA.cines){
+    (porCadena[c.cadena] ??= []).push(c);
+  }
+  const cadenas = Object.keys(porCadena).sort((a,b) => {
+    const ia = ordenCadena.indexOf(a), ib = ordenCadena.indexOf(b);
+    return (ia<0?99:ia) - (ib<0?99:ib) || a.localeCompare(b);
+  });
+
+  // Botón "Todos" que limpia la selección
+  const head = document.createElement("div");
+  head.className = "cines-head";
+  const todos = document.createElement("button");
+  todos.className = "chip chip-todos";
+  todos.textContent = "Todos los cines";
+  todos.setAttribute("aria-pressed", estado.cines.size === 0);
+  todos.onclick = () => { estado.cines.clear(); refrescarCines(cont); pintarLista(); };
+  head.appendChild(todos);
+  cont.appendChild(head);
+
+  for (const cadena of cadenas){
+    const grupo = document.createElement("div");
+    grupo.className = "cadena-grupo";
+    const lbl = document.createElement("div");
+    lbl.className = "cadena-label";
+    lbl.textContent = cadena;
+    grupo.appendChild(lbl);
+
+    const fila = document.createElement("div");
+    fila.className = "cadena-cines";
+    porCadena[cadena]
+      .sort((a,b) => a.nombre.localeCompare(b.nombre,"es"))
+      .forEach(c => {
+        const b = document.createElement("button");
+        b.className = "chip chip-cine";
+        b.dataset.cine = c.id;
+        // Nombre sin el prefijo de cadena repetido (ej "Cinemark Alto..." -> "Alto...")
+        b.textContent = c.nombre.replace(new RegExp("^"+cadena+"\\s*","i"), "").trim() || c.nombre;
+        b.setAttribute("aria-pressed", estado.cines.has(c.id));
+        b.onclick = () => {
+          estado.cines.has(c.id) ? estado.cines.delete(c.id) : estado.cines.add(c.id);
+          refrescarCines(cont);
+          pintarLista();
+        };
+        fila.appendChild(b);
+      });
+    grupo.appendChild(fila);
+    cont.appendChild(grupo);
+  }
+  return cont;
+}
+
+/* Actualiza el estado visual de los chips de cine sin repintar todo. */
+function refrescarCines(cont){
+  cont.querySelector(".chip-todos")?.setAttribute("aria-pressed", estado.cines.size === 0);
+  cont.querySelectorAll(".chip-cine").forEach(b => {
+    b.setAttribute("aria-pressed", estado.cines.has(b.dataset.cine));
+  });
+}
+
 /* Selector de día: única opción activa a la vez. */
 function grupoDias(){
   const cont = document.createElement("div");
@@ -443,10 +521,7 @@ function grupoDias(){
 function pintarFiltros(){
   const cont = document.getElementById("filtros");
   cont.appendChild(grupoDias());
-  const comunas = [...new Set(DATA.cines.map(c => c.comuna))].sort();
-  cont.appendChild(grupoChips("Comuna", comunas.map(c => [c, c]), estado.comunas));
-  cont.appendChild(grupoChips("Cine", [["cadena","Cadenas"],["arte","Cine arte"]], estado.tipos));
-  cont.appendChild(grupoChips("Idioma", [["SUB","Subtitulada"],["DOB","Doblada"]], estado.idiomas));
+  cont.appendChild(grupoCines());
 
   const g = document.createElement("div");
   g.className = "grupo";
@@ -487,9 +562,7 @@ function pasaFiltros(f){
   if (!cine) return false;
   // Con búsqueda activa ignoramos el día: se busca en toda la semana.
   if (!estado.q && (f.dia ?? DATA.fecha) !== estado.dia) return false;
-  if (estado.comunas.size && !estado.comunas.has(cine.comuna)) return false;
-  if (estado.tipos.size && !estado.tipos.has(cine.tipo)) return false;
-  if (estado.idiomas.size && !estado.idiomas.has(f.idioma)) return false;
+  if (estado.cines.size && !estado.cines.has(f.cine)) return false;
   return true;
 }
 
@@ -540,18 +613,24 @@ function pintarLista(){
     const btn = document.createElement("button");
     btn.className = "pelicula";
     btn.setAttribute("aria-expanded", estado.abierta === p.id);
+    const poster = p.poster
+      ? `<img class="poster" src="${p.poster}" alt="" loading="lazy" onerror="this.style.display='none'">`
+      : `<div class="poster poster-vacio" aria-hidden="true">\uD83C\uDFAC</div>`;
     btn.innerHTML = `
-      <div class="fila-top">
-        <span class="titulo">${resaltar(p.titulo, estado.q)}</span>
-        <span class="datos">${p.duracion ? p.duracion + " min" : ""}${p.clasificacion && p.clasificacion !== "S/I" ? " · " + p.clasificacion : ""}</span>
-      </div>
-      <div class="sub">
-        ${buscando ? resumenDias(p.fs)
-          : (prox ? `Próxima <b>${hhmm(prox.min)}</b> en ${DATA.cineIdx[prox.cine].nombre}`
-                  : `<span class="pasada">Sin funciones por delante</span>`)}
-        · ${p.fs.length} ${p.fs.length === 1 ? "función" : "funciones"}
-      </div>
-      ${buscando ? "" : '<div class="pista"></div>'}`;
+      ${poster}
+      <div class="pelicula-info">
+        <div class="fila-top">
+          <span class="titulo">${resaltar(p.titulo, estado.q)}</span>
+          <span class="datos">${p.duracion ? p.duracion + " min" : ""}${p.clasificacion && p.clasificacion !== "S/I" ? " · " + p.clasificacion : ""}</span>
+        </div>
+        <div class="sub">
+          ${buscando ? resumenDias(p.fs)
+            : (prox ? `Próxima <b>${hhmm(prox.min)}</b> en ${DATA.cineIdx[prox.cine].nombre}`
+                    : `<span class="pasada">Sin funciones por delante</span>`)}
+          · ${p.fs.length} ${p.fs.length === 1 ? "función" : "funciones"}
+        </div>
+        ${buscando ? "" : '<div class="pista"></div>'}
+      </div>`;
 
     if (!buscando){
       const pista = btn.querySelector(".pista");
