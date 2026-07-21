@@ -36,7 +36,6 @@ const CINES = [
 
   { id: "normandie",         nombre: "Cine Arte Normandie", cadena: "Normandie", tipo: "arte", comuna: "Santiago Centro" },
   { id: "cineteca-nacional", nombre: "Cineteca Nacional",   cadena: "Cineteca",  tipo: "arte", comuna: "Santiago Centro" },
-  { id: "cine-uc",           nombre: "Cine UC",             cadena: "Cine UC",     tipo: "arte", comuna: "Santiago Centro" },
   { id: "el-biografo",       nombre: "El Biógrafo",         cadena: "El Biógrafo", tipo: "arte", comuna: "Santiago Centro" },
 ];
 
@@ -251,6 +250,7 @@ async function cineplanet() {
             clasificacion: p.ratingDescription && p.ratingDescription !== "TBC" ? p.ratingDescription : "S/I",
             genero: p.genre || null,
             poster: p.posterUrl || null,
+            sinopsis: p.synopsis || null,
             sala: null,                             // la API no expone el número de sala
             formato: formatoCineplanet(s.formats),
             atributos: [],
@@ -471,6 +471,12 @@ async function elbiografo(cine) {
     const meta = $(el).find(".movie-meta-bar").first().text();      // "2026 · 111 min · España · Drama"
     const dur = meta.match(/(\d+)\s*min/);
     const genero = meta.split("·").pop()?.trim() || "Cine arte";
+    // La sinopsis es el primer <p> largo que no sea el meta-bar.
+    let sinopsis = null;
+    $(el).find("p").each((__, p) => {
+      const t = $(p).text().trim();
+      if (!sinopsis && t.length > 60 && !/·.*min/.test(t)) sinopsis = t;
+    });
 
     for (const h of horas) {
       out.push({
@@ -485,6 +491,7 @@ async function elbiografo(cine) {
         formato: "2D",
         atributos: [],
         idioma: idiomaBiografo(version),
+        sinopsis,
         inicio: `${hoy}T${h[1].padStart(2,"0")}:${h[2]}:00${offsetChile(hoy)}`,
         url: "https://elbiografo.cl/cartelera/",
       });
@@ -623,12 +630,13 @@ async function main() {
       porPeli.set(id, {
         id, titulo: f.titulo, duracion: f.duracion || 0,
         clasificacion: f.clasificacion, genero: f.genero,
-        poster: f.poster, funciones: [],
+        poster: f.poster, sinopsis: f.sinopsis || null, funciones: [],
       });
     }
     const p = porPeli.get(id);
     if (!p.duracion && f.duracion) p.duracion = f.duracion;
     if (!p.poster && f.poster) p.poster = f.poster;
+    if (!p.sinopsis && f.sinopsis) p.sinopsis = f.sinopsis;
     if (p.clasificacion === "S/I" && f.clasificacion !== "S/I") p.clasificacion = f.clasificacion;
 
     p.funciones.push({
