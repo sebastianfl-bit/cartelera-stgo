@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-27T13:33:12.559Z",
+  "generado": "2026-07-27T17:36:47.729Z",
   "fecha": "2026-07-27",
   "dias": [
     "2026-07-27",
@@ -225,18 +225,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-27",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-27T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-07-27",
           "sala": null,
@@ -246,15 +234,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-27",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T12:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-07-27",
           "sala": null,
@@ -262,27 +241,6 @@
           "idioma": "SUB",
           "inicio": "2026-07-27T12:10:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-27",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-27T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-27",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -294,18 +252,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-27",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-27T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-07-27",
           "sala": null,
@@ -313,39 +259,6 @@
           "idioma": "SUB",
           "inicio": "2026-07-27T12:55:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-27",
-          "sala": "Sala 8",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-27T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-07-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-27",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-27T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -375,15 +288,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-27",
-          "sala": "Sala 14",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-07-27",
           "sala": null,
@@ -391,27 +295,6 @@
           "idioma": "SUB",
           "inicio": "2026-07-27T13:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-27",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-27T13:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-07-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T13:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -695,6 +578,15 @@
           "idioma": "SUB",
           "inicio": "2026-07-27T15:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-07-27T15:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
@@ -1324,6 +1216,15 @@
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
+          "inicio": "2026-07-27T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
           "inicio": "2026-07-27T19:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
@@ -2532,6 +2433,15 @@
           "url": "https://www.flow.cl/btn.php?token=anexynr"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-07-28T15:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
           "dia": "2026-07-28",
           "sala": null,
@@ -3163,6 +3073,15 @@
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-07-28T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
           "dia": "2026-07-28",
           "sala": null,
@@ -3616,15 +3535,6 @@
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-28T21:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
-        },
-        {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-07-28",
           "sala": null,
@@ -3750,15 +3660,6 @@
           "sala": null,
           "formato": "PRIME",
           "idioma": "SUB",
-          "inicio": "2026-07-28T21:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
           "inicio": "2026-07-28T21:30:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
@@ -7349,27 +7250,6 @@
       "sinopsis": "Los juguetes están de vuelta. Esta vez, Buzz Lightyear, Woody, Jessie y el resto de la pandilla se enfrentan a un nuevo reto cuando conocen a Lilypad, una nueva tablet que llega con sus propias ideas disruptivas sobre lo que es mejor para Bonnie. ¿Volverá a ser lo mismo la hora de jugar?",
       "funciones": [
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T12:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-27",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-27T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-07-27",
           "sala": null,
@@ -7377,36 +7257,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-27T12:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-27",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-27",
-          "sala": "Sala 13",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-27",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-27T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -7418,15 +7268,6 @@
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-07-27",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T13:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-quilin",
           "dia": "2026-07-27",
           "sala": null,
@@ -7434,15 +7275,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-27T13:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-07-27",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T13:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-alto-las-condes",
@@ -9272,15 +9104,6 @@
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-28T21:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
           "cine": "cinemark-alto-las-condes",
           "dia": "2026-07-28",
           "sala": "Sala 10",
@@ -9607,15 +9430,6 @@
       "sinopsis": "Tras el éxito mundial en taquilla de la comedia más divertida de 2024, Mi Villano Favorito 4, Illumination expande su universo animado con un nuevo capítulo en la franquicia animada global más grande de la historia: Minions & Monstruos. Esta es la historia desenfrenada, ridícula y totalmente real de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, perdieron todo, desataron monstruos sobre el mundo y luego unieron fuerzas para intentar salvar al planeta del caos que ellos mismos crearon. Minions & Monstruos es dirigida por Pierre Coffin, nominado al Premio de la Academia® y director de las tres primeras películas de Mi Villano Favorito, y la primera película de los Minions. Coffin también ha dado voz a los Minions desde su debut en 2010. La película es escrita por Brian Lynch (Minions, La vida secreta de tus mascotas) y Pierre Coffin, y es producida por Chris Meledandri, fundador y director ejecutivo de Illumination, nominado al Premio de la Academia®, y por Bill Ryan (productor ejecutivo de Super Mario Bros. La película). El productor ejecutivo es Brian Lynch. Más de diez años después de su creación, los Minions se han convertido en los personajes animados más icónicos de su generación. Reconocidos y queridos a nivel mundial por fanáticos de todas las edades, han impulsado a Mi Villano Favorito y Minions de Illumination a una taquilla global de más de 5.6 mil millones de dólares..",
       "funciones": [
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-27",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-07-27",
           "sala": null,
@@ -9625,24 +9439,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-27",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-27",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-07-27",
           "sala": null,
@@ -9650,15 +9446,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-27T12:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T12:35:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -9688,15 +9475,6 @@
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-07-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T13:15:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-07-27",
           "sala": null,
@@ -9704,18 +9482,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-27T13:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-27T13:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-la-dehesa",
@@ -11538,54 +11304,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-27",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-27",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-27T13:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-07-27",
           "sala": null,
@@ -11593,33 +11311,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-27T13:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-07-27",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T13:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T13:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-07-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T13:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-tobalaba",
@@ -12787,15 +12478,6 @@
           "idioma": "S/I",
           "inicio": "2026-07-28T21:10:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-28T21:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/moana"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -14155,6 +13837,15 @@
           "url": "https://www.cineplanet.cl/pelicula/obsesion"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-07-27T22:25:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/obsesion"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-07-27",
           "sala": null,
@@ -14477,27 +14168,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015221.jpg",
       "sinopsis": "Surgieron como una leyenda urbana en foros de internet: un espacio infinito de oficinas vacías al que podrías caer si, por accidente, “te sales de la realidad”. Un lugar sin reglas claras, sin salida evidente, donde el tiempo y la lógica dejan de funcionar. Lo que empezó como creepypasta evolucionó en un fenómeno global impulsado por videos virales, narrativas de analog horror y comunidades enteras obsesionadas con sus niveles, criaturas y ocultas teorías. Esta edición incorpora 15 minutos de material inédito para convocar a los fanáticos que buscan repetir la experiencia en pantalla grande.",
       "funciones": [
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-27T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/backrooms-everything-must-go-edition/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-27T12:45:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/backrooms-everything-must-go-edition/compra-entradas/entradas"
-        },
         {
           "cine": "cinemark-mallplaza-vespucio",
           "dia": "2026-07-27",
@@ -14953,18 +14623,6 @@
             "DBOX"
           ],
           "idioma": "S/I",
-          "inicio": "2026-07-27T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-27",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
           "inicio": "2026-07-27T15:00:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
         },
@@ -15192,6 +14850,15 @@
           "idioma": "S/I",
           "inicio": "2026-07-28T19:50:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/evil-dead-en-llamas/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-28T21:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/evil-dead-en-llamas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -15565,15 +15232,6 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-07-28T21:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-dia-de-la-revelacion"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-28T21:45:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/el-dia-de-la-revelacion"
         },
         {
@@ -16070,6 +15728,15 @@
           "url": "https://www.cineplanet.cl/pelicula/backrooms-versin-extendida"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-07-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-07-28T21:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/backrooms-versin-extendida"
+        },
+        {
           "cine": "cineplanet-cp-quilin",
           "dia": "2026-07-28",
           "sala": null,
@@ -16089,15 +15756,6 @@
         },
         {
           "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-28T21:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/backrooms-versin-extendida"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
           "dia": "2026-07-28",
           "sala": null,
           "formato": "2D",
@@ -16384,7 +16042,7 @@
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
-          "inicio": "2026-07-28T22:00:00-04:00",
+          "inicio": "2026-07-28T21:05:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/scary-movie"
         },
         {
@@ -16395,15 +16053,6 @@
           "idioma": "S/I",
           "inicio": "2026-07-28T22:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/scary-movie/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-07-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-28T22:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/scary-movie"
         }
       ]
     },
