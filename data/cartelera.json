@@ -1,5 +1,5 @@
 {
-  "generado": "2026-07-30T12:24:29.016Z",
+  "generado": "2026-07-30T17:16:29.334Z",
   "fecha": "2026-07-30",
   "dias": [
     "2026-07-30",
@@ -189,15 +189,6 @@
       "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter es ahora un adulto que vive completamente solo, habiéndose borrado voluntariamente de las vidas y recuerdos de aquellos a quienes ama. Lucha contra el crimen en un Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad -un Spider-Man de tiempo completo- pero a medida que las exigencias sobre él se intensifican, la presión desata una sorprendente evolución física que amenaza su existencia, aun cuando un nuevo y extraño patrón de crímenes da lugar a una de las amenazas más poderosas que jamás haya enfrentado.",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-07-30",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T10:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-07-30",
           "sala": null,
@@ -205,33 +196,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-30T10:40:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-30",
-          "sala": "Sala 10",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-07-30",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-07-30",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -250,30 +214,6 @@
           "idioma": "SUB",
           "inicio": "2026-07-30T11:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-30",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-30",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-casa-costanera",
@@ -294,36 +234,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-30",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-07-30",
-          "sala": "Sala Cinemark Portal La Dehesa - 4",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-07-30",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-07-30",
           "sala": null,
@@ -340,79 +250,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-30T11:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-30",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-07-30",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-30",
-          "sala": "Sala 10",
-          "formato": "XD",
-          "atributos": [
-            "XD",
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-07-30",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-07-30",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-30",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-07-30",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -451,78 +288,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-30",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-30",
-          "sala": "Sala 14",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-07-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-30T12:15:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-07-30",
-          "sala": "Sala Cinemark Portal La Dehesa - 5",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-07-30",
-          "sala": "Sala 3",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-07-30",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-30T12:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-07-30",
           "sala": null,
@@ -530,48 +295,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-30T12:20:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-30",
-          "sala": "Sala 8",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-30",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-30",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-30",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -617,87 +340,6 @@
           "idioma": "SUB",
           "inicio": "2026-07-30T12:45:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-30",
-          "sala": "Sala 12",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-07-30",
-          "sala": "Sala 7",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-07-30",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-07-30",
-          "sala": "Sala Cinemark Portal La Dehesa - 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-07-30",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-30",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-30",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-30",
-          "sala": "Sala 4",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-independencia",
@@ -13605,18 +13247,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-30",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-07-30",
           "sala": null,
@@ -13635,24 +13265,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-07-30",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
-          "inicio": "2026-07-30T12:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-30",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-07-30",
           "sala": null,
@@ -13669,18 +13281,6 @@
           "idioma": "SUB",
           "inicio": "2026-07-30T12:50:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-30",
-          "sala": "Sala 11",
-          "formato": "IMAX",
-          "atributos": [
-            "IMAX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -16248,15 +15848,6 @@
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-01",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-01T17:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-01",
           "sala": null,
@@ -17355,15 +16946,6 @@
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-02",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-02T17:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-02",
           "sala": null,
@@ -17398,15 +16980,6 @@
           "atributos": [
             "DBOX"
           ],
-          "idioma": "S/I",
-          "inicio": "2026-08-02T17:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-08-02",
-          "sala": "Sala 3",
-          "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-08-02T17:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
@@ -17978,15 +17551,6 @@
       "sinopsis": "Los juguetes están de vuelta. Esta vez, Buzz Lightyear, Woody, Jessie y el resto de la pandilla se enfrentan a un nuevo reto cuando conocen a Lilypad, una nueva tablet que llega con sus propias ideas disruptivas sobre lo que es mejor para Bonnie. ¿Volverá a ser lo mismo la hora de jugar?",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-07-30",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T10:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-07-30",
           "sala": null,
@@ -17994,36 +17558,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-30T11:10:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-30",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:25:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-07-30",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:45:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-07-30",
-          "sala": "Sala Cinemark Portal La Dehesa - 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -18035,42 +17569,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-07-30",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-07-30",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-07-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-30T12:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-30",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-07-30",
           "sala": null,
@@ -18080,15 +17578,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-07-30",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-07-30",
           "sala": null,
@@ -18096,15 +17585,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-30T12:50:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-30",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-independencia",
@@ -20359,15 +19839,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-07-30",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:15:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-07-30",
           "sala": null,
@@ -20384,27 +19855,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-30T11:50:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-30",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-07-30",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -20425,24 +19875,6 @@
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
         },
         {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-07-30",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-07-30",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-quilin",
           "dia": "2026-07-30",
           "sala": null,
@@ -20450,15 +19882,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-30T13:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-07-30",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -22038,63 +21461,6 @@
       "sinopsis": "Moana (Catherine Lagaʻaia) responde al llamado del Océano y, por primera vez, se aventura más allá del arrecife de su isla de Motunui junto al infame semidiós Maui (Dwayne Johnson) en un viaje inolvidable para restaurar la prosperidad de su pueblo.",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-07-30",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-07-30",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-07-30",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-07-30",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-07-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-30T12:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-07-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-30T12:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-07-30",
           "sala": null,
@@ -22102,15 +21468,6 @@
           "idioma": "DOB",
           "inicio": "2026-07-30T12:30:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-07-30",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-07-30T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-alameda",
@@ -23485,6 +22842,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "el-biografo",
+          "dia": "2026-07-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-07-30T15:30:00-04:00",
+          "url": "https://elbiografo.cl/cartelera/"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-07-30",
           "sala": null,
@@ -24441,26 +23807,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-02T17:00:00-04:00",
           "url": "https://cinetecanacional.gob.cl/eventos/poirot-ultimo-testigo/"
-        }
-      ]
-    },
-    {
-      "id": "amarga-navidad",
-      "titulo": "Amarga Navidad",
-      "duracion": 111,
-      "clasificacion": "+14",
-      "genero": "Drama",
-      "poster": "https://elbiografo.cl/wp-content/uploads/2026/05/Amarga-Navidad.jpg",
-      "sinopsis": "Elsa es una directora de publicidad cuya madre muere durante un largo puente del mes de diciembre. Encuentra refugio en el trabajo, aunque es más bien una huida hacia adelante. Trabaja sin parar y, sin darse cuenta, no se concede el tiempo necesario para guardar el duelo por la ausencia materna. Hasta que una crisis de pánico la obliga a detenerse e imponerse un descanso. Su pareja, Bonifacio, es su tabla de salvación en esos momentos de crisis. Elsa decide viajar a la isla de Lanzarote acompañada por su amiga Patricia, que también necesita alejarse de Madrid, mientras que Bonifacio se queda en la ciudad.",
-      "funciones": [
-        {
-          "cine": "el-biografo",
-          "dia": "2026-07-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-07-30T15:30:00-04:00",
-          "url": "https://elbiografo.cl/cartelera/"
         }
       ]
     }
