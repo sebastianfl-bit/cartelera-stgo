@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-03T13:33:33.747Z",
+  "generado": "2026-08-03T17:46:31.899Z",
   "fecha": "2026-08-03",
   "dias": [
     "2026-08-03",
@@ -216,18 +216,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T11:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-03",
           "sala": null,
@@ -255,39 +243,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T11:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-03",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-03",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-03",
           "sala": null,
@@ -306,27 +261,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-03",
-          "sala": "Sala 2",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T12:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-03",
           "sala": null,
@@ -334,39 +268,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-03T12:20:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-03",
-          "sala": "Sala 8",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-03",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-03",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -394,75 +295,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-03T12:45:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-03",
-          "sala": "Sala 12",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-03",
-          "sala": "Sala 7",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-08-03",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-03",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-03",
-          "sala": "Sala 4",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-independencia",
@@ -537,15 +369,6 @@
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-03",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-08-03",
           "sala": null,
@@ -553,27 +376,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-03T13:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-03",
-          "sala": "Sala Cinemark Portal La Dehesa - 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-03",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -592,24 +394,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-03T13:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-08-03",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-03",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-alameda",
@@ -825,18 +609,6 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T14:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-08-03",
           "sala": null,
@@ -937,18 +709,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-03T14:50:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T15:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-tobalaba",
@@ -1132,15 +892,6 @@
           "cine": "cinemark-portal-nunoa",
           "dia": "2026-08-03",
           "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T15:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 9",
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-08-03T15:40:00-04:00",
@@ -1337,9 +1088,6 @@
           "dia": "2026-08-03",
           "sala": "Sala 7",
           "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
           "idioma": "S/I",
           "inicio": "2026-08-03T16:10:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
@@ -1768,18 +1516,6 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T17:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-la-dehesa",
           "dia": "2026-08-03",
           "sala": "Sala Cinemark Portal La Dehesa - 4",
@@ -1899,18 +1635,6 @@
           "dia": "2026-08-03",
           "sala": "Sala 7",
           "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T18:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
           "idioma": "S/I",
           "inicio": "2026-08-03T18:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
@@ -2117,15 +1841,6 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T18:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-mallplaza-norte",
           "dia": "2026-08-03",
           "sala": "Sala 6",
@@ -2280,18 +1995,6 @@
           "dia": "2026-08-03",
           "sala": "Sala 2",
           "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T19:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
           "idioma": "S/I",
           "inicio": "2026-08-03T19:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
@@ -2699,18 +2402,6 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T21:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-mallplaza-tobalaba",
           "dia": "2026-08-03",
           "sala": "Sala 2",
@@ -2868,18 +2559,6 @@
           "dia": "2026-08-03",
           "sala": "Sala 7",
           "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T21:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
           "idioma": "S/I",
           "inicio": "2026-08-03T21:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
@@ -3087,15 +2766,6 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T22:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-mallplaza-norte",
           "dia": "2026-08-03",
           "sala": "Sala 6",
@@ -3255,18 +2925,6 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-03",
-          "sala": "Sala Cinemark Portal La Dehesa - 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T22:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-portal-nunoa",
           "dia": "2026-08-03",
           "sala": "Sala 2",
@@ -3280,9 +2938,6 @@
           "dia": "2026-08-03",
           "sala": "Sala 7",
           "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
           "idioma": "S/I",
           "inicio": "2026-08-03T22:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
@@ -3378,18 +3033,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-04",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-04T11:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-04",
           "sala": null,
@@ -3415,18 +3058,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-04T11:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-04",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-04T11:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-alto-las-condes",
@@ -3496,15 +3127,6 @@
           "atributos": [
             "XD"
           ],
-          "idioma": "S/I",
-          "inicio": "2026-08-04T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-04",
-          "sala": "Sala 9",
-          "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-08-04T12:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
@@ -3978,22 +3600,22 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-portal-nunoa",
+          "cine": "cinemark-la-dehesa",
           "dia": "2026-08-04",
-          "sala": "Sala 1",
+          "sala": "Sala Cinemark Portal La Dehesa - 4",
           "formato": "3D",
+          "atributos": [
+            "PREMIER"
+          ],
           "idioma": "S/I",
           "inicio": "2026-08-04T14:40:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
+          "cine": "cinemark-portal-nunoa",
           "dia": "2026-08-04",
-          "sala": "Sala 6",
+          "sala": "Sala 1",
           "formato": "3D",
-          "atributos": [
-            "DBOX"
-          ],
           "idioma": "S/I",
           "inicio": "2026-08-04T14:40:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
@@ -4062,18 +3684,6 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-04",
-          "sala": "Sala Cinemark Portal La Dehesa - 4",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-04T14:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-mallplaza-vespucio",
           "dia": "2026-08-04",
           "sala": "Sala 2",
@@ -4108,18 +3718,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-04T14:50:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-04",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-04T15:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-tobalaba",
@@ -4231,6 +3829,18 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-la-dehesa",
+          "dia": "2026-08-04",
+          "sala": "Sala Cinemark Portal La Dehesa - 5",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-04T15:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-08-04",
           "sala": "Sala 14",
@@ -4270,18 +3880,6 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-04",
-          "sala": "Sala Cinemark Portal La Dehesa - 5",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-04T15:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-mid-mall-maipu",
           "dia": "2026-08-04",
           "sala": "Sala 6",
@@ -4303,15 +3901,6 @@
           "cine": "cinemark-portal-nunoa",
           "dia": "2026-08-04",
           "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-04T15:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-04",
-          "sala": "Sala 9",
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-08-04T15:40:00-04:00",
@@ -4414,6 +4003,18 @@
           ],
           "idioma": "S/I",
           "inicio": "2026-08-04T15:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-la-dehesa",
+          "dia": "2026-08-04",
+          "sala": "Sala Cinemark Portal La Dehesa - 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-04T16:00:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
@@ -4929,30 +4530,6 @@
         {
           "cine": "cinemark-mallplaza-vespucio",
           "dia": "2026-08-04",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-04T17:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-04",
-          "sala": "Sala Cinemark Portal La Dehesa - 4",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-04T18:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-04",
           "sala": "Sala 2",
           "formato": "2D",
           "idioma": "S/I",
@@ -4991,6 +4568,18 @@
           "dia": "2026-08-04",
           "sala": "Sala 4",
           "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-04T18:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-la-dehesa",
+          "dia": "2026-08-04",
+          "sala": "Sala Cinemark Portal La Dehesa - 4",
+          "formato": "3D",
+          "atributos": [
+            "PREMIER"
+          ],
           "idioma": "S/I",
           "inicio": "2026-08-04T18:10:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
@@ -5058,18 +4647,6 @@
           "dia": "2026-08-04",
           "sala": "Sala 7",
           "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-04T18:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-04",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
           "idioma": "S/I",
           "inicio": "2026-08-04T18:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
@@ -5162,18 +4739,6 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-04",
-          "sala": "Sala Cinemark Portal La Dehesa - 5",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-04T18:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-mid-mall-maipu",
           "dia": "2026-08-04",
           "sala": "Sala 6",
@@ -5258,18 +4823,21 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-portal-nunoa",
+          "cine": "cinemark-la-dehesa",
           "dia": "2026-08-04",
-          "sala": "Sala 4",
+          "sala": "Sala Cinemark Portal La Dehesa - 5",
           "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
           "idioma": "S/I",
           "inicio": "2026-08-04T18:50:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
+          "cine": "cinemark-portal-nunoa",
           "dia": "2026-08-04",
-          "sala": "Sala 9",
+          "sala": "Sala 4",
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-08-04T18:50:00-04:00",
@@ -5837,18 +5405,6 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-04",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-04T21:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-mallplaza-tobalaba",
           "dia": "2026-08-04",
           "sala": "Sala 2",
@@ -6006,18 +5562,6 @@
           "dia": "2026-08-04",
           "sala": "Sala 7",
           "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-04T21:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-04",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
           "idioma": "S/I",
           "inicio": "2026-08-04T21:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
@@ -6210,15 +5754,6 @@
           "cine": "cinemark-portal-nunoa",
           "dia": "2026-08-04",
           "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-04T22:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-04",
-          "sala": "Sala 9",
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-08-04T22:00:00-04:00",
@@ -6477,18 +6012,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T11:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-05",
           "sala": null,
@@ -6514,18 +6037,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-05T11:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T11:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-alto-las-condes",
@@ -6595,15 +6106,6 @@
           "atributos": [
             "XD"
           ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 9",
-          "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-08-05T12:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
@@ -7092,18 +6594,6 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T14:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-08-05",
           "sala": null,
@@ -7195,18 +6685,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-05T14:50:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T15:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-tobalaba",
@@ -7390,15 +6868,6 @@
           "cine": "cinemark-portal-nunoa",
           "dia": "2026-08-05",
           "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T15:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 9",
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-08-05T15:40:00-04:00",
@@ -8014,18 +7483,6 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T17:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-la-dehesa",
           "dia": "2026-08-05",
           "sala": "Sala Cinemark Portal La Dehesa - 4",
@@ -8145,18 +7602,6 @@
           "dia": "2026-08-05",
           "sala": "Sala 7",
           "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T18:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
           "idioma": "S/I",
           "inicio": "2026-08-05T18:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
@@ -8357,15 +7802,6 @@
           "cine": "cinemark-portal-nunoa",
           "dia": "2026-08-05",
           "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T18:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 9",
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-08-05T18:50:00-04:00",
@@ -8942,18 +8378,6 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T21:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-mallplaza-tobalaba",
           "dia": "2026-08-05",
           "sala": "Sala 2",
@@ -9111,18 +8535,6 @@
           "dia": "2026-08-05",
           "sala": "Sala 7",
           "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T21:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
           "idioma": "S/I",
           "inicio": "2026-08-05T21:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
@@ -9330,15 +8742,6 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T22:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-mallplaza-norte",
           "dia": "2026-08-05",
           "sala": "Sala 6",
@@ -9498,18 +8901,6 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-05",
-          "sala": "Sala Cinemark Portal La Dehesa - 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T22:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-portal-nunoa",
           "dia": "2026-08-05",
           "sala": "Sala 2",
@@ -9638,15 +9029,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-03",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-03",
           "sala": null,
@@ -9663,30 +9045,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-03T12:50:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-03",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 11",
-          "formato": "IMAX",
-          "atributos": [
-            "IMAX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -9707,15 +9065,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-03",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
           "dia": "2026-08-03",
           "sala": null,
@@ -9734,15 +9083,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-03",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-08-03",
           "sala": null,
@@ -9750,18 +9090,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-03T13:30:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-03",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-plaza-egana",
@@ -11081,6 +10409,18 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
         },
         {
+          "cine": "cinemark-la-dehesa",
+          "dia": "2026-08-04",
+          "sala": "Sala Cinemark Portal La Dehesa - 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-04T17:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-08-04",
           "sala": "Sala 11",
@@ -11448,6 +10788,18 @@
           "idioma": "SUB",
           "inicio": "2026-08-04T20:45:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-la-dehesa",
+          "dia": "2026-08-04",
+          "sala": "Sala Cinemark Portal La Dehesa - 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-04T20:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-vespucio",
@@ -12844,15 +12196,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-03",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-03",
           "sala": null,
@@ -12860,33 +12203,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-03T12:25:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-08-03",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-03",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-03",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-independencia",
@@ -12916,15 +12232,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-03",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-08-03",
           "sala": null,
@@ -12943,18 +12250,6 @@
           ],
           "idioma": "S/I",
           "inicio": "2026-08-03T14:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T14:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
@@ -13019,6 +12314,18 @@
           "idioma": "DOB",
           "inicio": "2026-08-03T14:45:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-03",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-03T14:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-alto-las-condes",
@@ -13454,6 +12761,18 @@
           "idioma": "DOB",
           "inicio": "2026-08-04T13:50:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cinemark-la-dehesa",
+          "dia": "2026-08-04",
+          "sala": "Sala Cinemark Portal La Dehesa - 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-04T14:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-vespucio",
@@ -14445,15 +13764,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-03",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T12:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-03",
           "sala": null,
@@ -14463,15 +13773,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-03",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-03",
           "sala": null,
@@ -14479,24 +13780,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-03T13:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-03",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-03",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -15527,27 +14810,6 @@
       "sinopsis": "Moana (Catherine Lagaʻaia) responde al llamado del Océano y, por primera vez, se aventura más allá del arrecife de su isla de Motunui junto al infame semidiós Maui (Dwayne Johnson) en un viaje inolvidable para restaurar la prosperidad de su pueblo.",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-03",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-03T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-03",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-08-03",
           "sala": null,
@@ -15555,15 +14817,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-03T13:10:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/moana"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-03",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-03T13:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
@@ -17078,7 +16331,7 @@
         {
           "cine": "cineteca-nacional",
           "dia": "2026-08-05",
-          "sala": "Sala de cine",
+          "sala": null,
           "formato": "2D",
           "idioma": "SUB",
           "inicio": "2026-08-05T20:00:00-04:00",
