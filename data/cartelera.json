@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-05T12:48:24.122Z",
+  "generado": "2026-08-05T17:21:44.688Z",
   "fecha": "2026-08-05",
   "dias": [
     "2026-08-05",
@@ -207,18 +207,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T11:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-05",
           "sala": null,
@@ -246,27 +234,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-05",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-05",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-05",
           "sala": null,
@@ -283,18 +250,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-05T12:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-05",
-          "sala": "Sala 2",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-plaza-egana",
@@ -304,48 +259,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-05T12:20:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-05",
-          "sala": "Sala 8",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-05",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-05",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -373,72 +286,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-05T12:45:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-05",
-          "sala": "Sala 12",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-05",
-          "sala": "Sala 7",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-08-05",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-05",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-05",
-          "sala": "Sala 4",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-independencia",
@@ -511,15 +358,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-05T13:15:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-05",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T13:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -3333,6 +3171,24 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T13:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T13:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-06",
           "sala": null,
@@ -3378,6 +3234,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T13:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-06",
           "sala": null,
@@ -3385,6 +3250,33 @@
           "idioma": "DOB",
           "inicio": "2026-08-06T13:45:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T14:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-plaza-egana",
@@ -3405,6 +3297,24 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T14:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T14:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-08-06",
           "sala": null,
@@ -3430,6 +3340,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-06T14:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T14:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -3450,6 +3369,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T15:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-06",
           "sala": null,
@@ -3468,6 +3396,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T15:15:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-06",
           "sala": null,
@@ -3475,6 +3412,24 @@
           "idioma": "SUB",
           "inicio": "2026-08-06T15:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T15:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T15:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -3513,6 +3468,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T15:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-08-06",
           "sala": null,
@@ -3520,6 +3484,24 @@
           "idioma": "SUB",
           "inicio": "2026-08-06T15:40:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T16:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T16:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -3558,6 +3540,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T16:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-08-06",
           "sala": null,
@@ -3574,6 +3565,24 @@
           "idioma": "DOB",
           "inicio": "2026-08-06T16:10:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T16:15:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T16:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -3594,6 +3603,24 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-06",
           "sala": null,
@@ -3603,6 +3630,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T17:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-06",
           "sala": null,
@@ -3610,6 +3646,24 @@
           "idioma": "DOB",
           "inicio": "2026-08-06T17:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T17:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T17:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -3628,6 +3682,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-06T17:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T17:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
@@ -3657,6 +3720,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T18:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-06",
           "sala": null,
@@ -3664,6 +3736,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-06T18:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T18:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-plaza-egana",
@@ -3684,6 +3765,24 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T18:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T18:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-06",
           "sala": null,
@@ -3702,6 +3801,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T18:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-06",
           "sala": null,
@@ -3709,6 +3817,15 @@
           "idioma": "DOB",
           "inicio": "2026-08-06T18:40:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T18:45:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -3736,6 +3853,24 @@
           "idioma": "SUB",
           "inicio": "2026-08-06T18:50:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -3792,6 +3927,33 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T19:45:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T20:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T20:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
           "dia": "2026-08-06",
           "sala": null,
@@ -3799,6 +3961,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-06T20:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -3810,6 +3981,24 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T20:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T20:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-06",
           "sala": null,
@@ -3817,6 +4006,15 @@
           "idioma": "DOB",
           "inicio": "2026-08-06T20:35:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T20:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -3855,6 +4053,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T21:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-06",
           "sala": null,
@@ -3862,6 +4069,24 @@
           "idioma": "DOB",
           "inicio": "2026-08-06T21:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T21:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T21:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -3880,6 +4105,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-06T21:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T21:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
@@ -3916,6 +4150,24 @@
           "idioma": "SUB",
           "inicio": "2026-08-06T21:45:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -3963,6 +4215,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T22:15:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-06",
           "sala": null,
@@ -4015,6 +4276,15 @@
           "idioma": "DOB",
           "inicio": "2026-08-06T22:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T23:15:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -4089,6 +4359,24 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T13:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T13:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-07",
           "sala": null,
@@ -4125,6 +4413,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T13:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-07",
           "sala": null,
@@ -4143,6 +4440,33 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-07T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T14:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-07",
           "sala": null,
@@ -4159,6 +4483,24 @@
           "idioma": "DOB",
           "inicio": "2026-08-07T14:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-07T14:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T14:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
@@ -4188,6 +4530,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T14:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-07",
           "sala": null,
@@ -4204,6 +4555,15 @@
           "idioma": "DOB",
           "inicio": "2026-08-07T14:50:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T15:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -4224,6 +4584,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-07T15:15:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-07",
           "sala": null,
@@ -4231,6 +4600,24 @@
           "idioma": "SUB",
           "inicio": "2026-08-07T15:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T15:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T15:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -4269,6 +4656,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T15:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-08-07",
           "sala": null,
@@ -4276,6 +4672,24 @@
           "idioma": "SUB",
           "inicio": "2026-08-07T15:40:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T16:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T16:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -4305,6 +4719,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T16:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-08-07",
           "sala": null,
@@ -4321,6 +4744,24 @@
           "idioma": "DOB",
           "inicio": "2026-08-07T16:10:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-07T16:15:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T16:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -4341,6 +4782,24 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-07T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-07",
           "sala": null,
@@ -4348,6 +4807,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-07T17:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T17:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -4368,6 +4836,24 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-07T17:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T17:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-07",
           "sala": null,
@@ -4384,6 +4870,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-07T17:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T17:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
@@ -4413,6 +4908,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T18:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-07",
           "sala": null,
@@ -4420,6 +4924,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-07T18:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T18:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-plaza-egana",
@@ -4440,6 +4953,24 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T18:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T18:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-07",
           "sala": null,
@@ -4458,6 +4989,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T18:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-07",
           "sala": null,
@@ -4465,6 +5005,15 @@
           "idioma": "DOB",
           "inicio": "2026-08-07T18:40:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-07T18:45:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -4501,6 +5050,24 @@
           "idioma": "SUB",
           "inicio": "2026-08-07T18:50:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -4557,6 +5124,33 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-07T19:45:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T20:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-07T20:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
           "dia": "2026-08-07",
           "sala": null,
@@ -4564,6 +5158,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-07T20:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -4584,6 +5187,24 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-07T20:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T20:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-07",
           "sala": null,
@@ -4591,6 +5212,15 @@
           "idioma": "DOB",
           "inicio": "2026-08-07T20:35:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T20:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -4629,6 +5259,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T21:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-07",
           "sala": null,
@@ -4636,6 +5275,24 @@
           "idioma": "DOB",
           "inicio": "2026-08-07T21:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T21:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T21:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -4654,6 +5311,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-07T21:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T21:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
@@ -4681,6 +5347,24 @@
           "idioma": "SUB",
           "inicio": "2026-08-07T21:45:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -4728,6 +5412,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-07T22:15:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-07",
           "sala": null,
@@ -4780,6 +5473,15 @@
           "idioma": "DOB",
           "inicio": "2026-08-07T22:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-07T23:15:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
@@ -4935,6 +5637,24 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T12:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T12:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-08",
           "sala": null,
@@ -4951,6 +5671,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-08T12:50:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T13:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -4998,6 +5727,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T13:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-08",
           "sala": null,
@@ -5005,6 +5743,24 @@
           "idioma": "DOB",
           "inicio": "2026-08-08T13:45:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T14:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-plaza-egana",
@@ -5023,6 +5779,15 @@
           "idioma": "DOB",
           "inicio": "2026-08-08T14:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-08T14:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
@@ -5052,6 +5817,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T14:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-08",
           "sala": null,
@@ -5068,6 +5842,15 @@
           "idioma": "DOB",
           "inicio": "2026-08-08T14:50:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T15:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -5097,6 +5880,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T15:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-08",
           "sala": null,
@@ -5133,6 +5925,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T15:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-08-08",
           "sala": null,
@@ -5140,6 +5941,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-08T15:40:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T16:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -5169,6 +5979,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T16:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-08-08",
           "sala": null,
@@ -5185,6 +6004,15 @@
           "idioma": "DOB",
           "inicio": "2026-08-08T16:10:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T16:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -5205,6 +6033,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-08",
           "sala": null,
@@ -5212,6 +6049,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-08T17:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T17:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -5232,6 +6078,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-08T17:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-08",
           "sala": null,
@@ -5248,6 +6103,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-08T17:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T17:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
@@ -5277,6 +6141,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T18:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-08",
           "sala": null,
@@ -5284,6 +6157,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-08T18:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T18:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-plaza-egana",
@@ -5304,6 +6186,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T18:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-08",
           "sala": null,
@@ -5320,6 +6211,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-08T18:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T18:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -5376,6 +6276,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-08",
           "sala": null,
@@ -5430,6 +6339,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T20:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
           "dia": "2026-08-08",
           "sala": null,
@@ -5437,6 +6355,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-08T20:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -5448,6 +6375,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-08T20:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-08",
           "sala": null,
@@ -5455,6 +6391,15 @@
           "idioma": "DOB",
           "inicio": "2026-08-08T20:35:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T20:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -5493,6 +6438,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T21:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-08",
           "sala": null,
@@ -5500,6 +6454,15 @@
           "idioma": "DOB",
           "inicio": "2026-08-08T21:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T21:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -5518,6 +6481,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-08T21:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T21:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
@@ -5545,6 +6517,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-08T21:45:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -5684,15 +6665,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-05",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-05",
           "sala": null,
@@ -5711,30 +6683,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-05",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 11",
-          "formato": "IMAX",
-          "atributos": [
-            "IMAX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-05",
           "sala": null,
@@ -5751,15 +6699,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-05T13:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-05",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T13:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
@@ -6728,6 +7667,18 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-06",
+          "sala": "Sala 11",
+          "formato": "IMAX",
+          "atributos": [
+            "IMAX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-06T10:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-06",
           "sala": null,
@@ -6782,6 +7733,24 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T13:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T13:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-06",
           "sala": null,
@@ -6800,6 +7769,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T13:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-06",
           "sala": null,
@@ -6816,6 +7794,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-06T14:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T14:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-casa-costanera",
@@ -6846,6 +7833,15 @@
           "idioma": "S/I",
           "inicio": "2026-08-06T14:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T14:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -6902,6 +7898,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T16:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-06",
           "sala": null,
@@ -6938,6 +7943,24 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T17:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T17:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-06",
           "sala": null,
@@ -6945,6 +7968,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-06T17:20:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T17:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -6995,6 +8027,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T18:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-06",
           "sala": null,
@@ -7022,6 +8063,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
           "dia": "2026-08-06",
           "sala": null,
@@ -7038,6 +8088,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-06T20:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
@@ -7094,6 +8153,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T20:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-06",
           "sala": null,
@@ -7101,6 +8169,24 @@
           "idioma": "SUB",
           "inicio": "2026-08-06T21:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T21:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T21:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -7151,6 +8237,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T21:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-06",
           "sala": null,
@@ -7167,6 +8262,18 @@
           "idioma": "SUB",
           "inicio": "2026-08-07T10:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-07",
+          "sala": "Sala 11",
+          "formato": "IMAX",
+          "atributos": [
+            "IMAX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-07T10:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-plaza-egana",
@@ -7223,6 +8330,24 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T13:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-07T13:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-07",
           "sala": null,
@@ -7241,6 +8366,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T13:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-07",
           "sala": null,
@@ -7257,6 +8391,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-07T14:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T14:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-casa-costanera",
@@ -7287,6 +8430,15 @@
           "idioma": "S/I",
           "inicio": "2026-08-07T14:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T14:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -7343,6 +8495,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T16:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-07",
           "sala": null,
@@ -7379,6 +8540,24 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-07T17:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T17:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-07",
           "sala": null,
@@ -7386,6 +8565,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-07T17:20:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T17:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -7436,6 +8624,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T18:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-07",
           "sala": null,
@@ -7463,6 +8660,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
           "dia": "2026-08-07",
           "sala": null,
@@ -7479,6 +8685,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-07T20:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
@@ -7544,6 +8759,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T20:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-07",
           "sala": null,
@@ -7551,6 +8775,24 @@
           "idioma": "SUB",
           "inicio": "2026-08-07T21:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T21:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-07T21:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -7599,6 +8841,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-07T21:45:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T21:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -7712,6 +8963,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T13:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-08",
           "sala": null,
@@ -7739,6 +8999,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T13:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-08",
           "sala": null,
@@ -7755,6 +9024,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-08T14:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T14:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-casa-costanera",
@@ -7841,6 +9119,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T16:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-08",
           "sala": null,
@@ -7877,6 +9164,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T17:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-08",
           "sala": null,
@@ -7884,6 +9180,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-08T17:20:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T17:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -7961,6 +9266,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
           "dia": "2026-08-08",
           "sala": null,
@@ -7977,6 +9291,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-08T20:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
@@ -8042,6 +9365,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T20:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-08",
           "sala": null,
@@ -8049,6 +9381,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-08T21:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T21:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -8106,6 +9447,530 @@
           "idioma": "SUB",
           "inicio": "2026-08-08T21:50:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        }
+      ]
+    },
+    {
+      "id": "minions-&-monstruos",
+      "titulo": "Minions & Monstruos",
+      "duracion": 90,
+      "clasificacion": "TE",
+      "genero": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015081.jpg",
+      "sinopsis": "Tras el éxito mundial en taquilla de la comedia más divertida de 2024, Mi Villano Favorito 4, Illumination expande su universo animado con un nuevo capítulo en la franquicia animada global más grande de la historia: Minions & Monstruos. Esta es la historia desenfrenada, ridícula y totalmente real de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, perdieron todo, desataron monstruos sobre el mundo y luego unieron fuerzas para intentar salvar al planeta del caos que ellos mismos crearon. Minions & Monstruos es dirigida por Pierre Coffin, nominado al Premio de la Academia® y director de las tres primeras películas de Mi Villano Favorito, y la primera película de los Minions. Coffin también ha dado voz a los Minions desde su debut en 2010. La película es escrita por Brian Lynch (Minions, La vida secreta de tus mascotas) y Pierre Coffin, y es producida por Chris Meledandri, fundador y director ejecutivo de Illumination, nominado al Premio de la Academia®, y por Bill Ryan (productor ejecutivo de Super Mario Bros. La película). El productor ejecutivo es Brian Lynch. Más de diez años después de su creación, los Minions se han convertido en los personajes animados más icónicos de su generación. Reconocidos y queridos a nivel mundial por fanáticos de todas las edades, han impulsado a Mi Villano Favorito y Minions de Illumination a una taquilla global de más de 5.6 mil millones de dólares..",
+      "funciones": [
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T11:10:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T11:30:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T11:50:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T12:10:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T13:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T13:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T13:20:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T13:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T13:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T13:30:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T13:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-05",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-05T14:15:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-05",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-05T14:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-08-05",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-05T14:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T14:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-08-05",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-05T15:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-08-05",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-05T15:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-08-05",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-05T15:25:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T15:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T15:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T16:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T16:35:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-05",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-05T16:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T16:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-05",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-05T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-08-05",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-05T17:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T17:20:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T17:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T17:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T17:50:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-05",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-05T18:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-05",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-05T19:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T19:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-05",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-05T19:45:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-05",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-05T21:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T12:10:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T13:10:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-06T13:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T14:30:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T17:50:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T17:55:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T12:10:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T13:10:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T14:30:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T17:50:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T18:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T11:45:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T12:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T13:10:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T14:30:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T17:50:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T17:55:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         }
       ]
     },
@@ -8616,521 +10481,6 @@
       ]
     },
     {
-      "id": "minions-&-monstruos",
-      "titulo": "Minions & Monstruos",
-      "duracion": 90,
-      "clasificacion": "TE",
-      "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015081.jpg",
-      "sinopsis": "Tras el éxito mundial en taquilla de la comedia más divertida de 2024, Mi Villano Favorito 4, Illumination expande su universo animado con un nuevo capítulo en la franquicia animada global más grande de la historia: Minions & Monstruos. Esta es la historia desenfrenada, ridícula y totalmente real de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, perdieron todo, desataron monstruos sobre el mundo y luego unieron fuerzas para intentar salvar al planeta del caos que ellos mismos crearon. Minions & Monstruos es dirigida por Pierre Coffin, nominado al Premio de la Academia® y director de las tres primeras películas de Mi Villano Favorito, y la primera película de los Minions. Coffin también ha dado voz a los Minions desde su debut en 2010. La película es escrita por Brian Lynch (Minions, La vida secreta de tus mascotas) y Pierre Coffin, y es producida por Chris Meledandri, fundador y director ejecutivo de Illumination, nominado al Premio de la Academia®, y por Bill Ryan (productor ejecutivo de Super Mario Bros. La película). El productor ejecutivo es Brian Lynch. Más de diez años después de su creación, los Minions se han convertido en los personajes animados más icónicos de su generación. Reconocidos y queridos a nivel mundial por fanáticos de todas las edades, han impulsado a Mi Villano Favorito y Minions de Illumination a una taquilla global de más de 5.6 mil millones de dólares..",
-      "funciones": [
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T11:10:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T11:30:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T11:50:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-05",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T12:10:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-05",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T13:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-05",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-05",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T13:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T13:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T13:20:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T13:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T13:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T13:30:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T13:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-05",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T14:15:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T14:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-05",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T14:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T14:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-05",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T15:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-08-05",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T15:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-05",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T15:25:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T15:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T15:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T16:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T16:35:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-05",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T16:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T16:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-05",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T17:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T17:20:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T17:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T17:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T17:50:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-05",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T18:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-05",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T19:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T19:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T19:45:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-05",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-05T21:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/minions-monstruos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-06",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-06T12:10:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-08-06",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-06T13:10:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-06",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-06T14:30:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-06",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-06T17:50:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-08-06",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-06T17:55:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-07",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-07T12:10:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-08-07",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-07T13:10:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-07",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-07T14:30:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-07",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-07T17:50:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-08-07",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-07T18:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-08",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-08T11:45:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-08-08",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-08T13:10:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-08",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-08T14:30:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-08",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-08T17:50:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-08-08",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-08T17:55:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        }
-      ]
-    },
-    {
       "id": "toy-story-5",
       "titulo": "Toy Story 5",
       "duracion": 102,
@@ -9139,42 +10489,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00014964.jpg",
       "sinopsis": "Los juguetes están de vuelta. Esta vez, Buzz Lightyear, Woody, Jessie y el resto de la pandilla se enfrentan a un nuevo reto cuando conocen a Lilypad, una nueva tablet que llega con sus propias ideas disruptivas sobre lo que es mejor para Bonnie. ¿Volverá a ser lo mismo la hora de jugar?",
       "funciones": [
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-05",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-08-05",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-05",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-05",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
         {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-05",
@@ -9516,6 +10830,141 @@
           "idioma": "DOB",
           "inicio": "2026-08-05T21:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-06T13:05:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T13:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T14:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T15:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T17:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-06T17:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T13:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T14:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T15:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T17:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T12:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T13:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T14:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T15:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T17:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         }
       ]
     },
@@ -9528,27 +10977,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00014890.jpg",
       "sinopsis": "Moana (Catherine Lagaʻaia) responde al llamado del Océano y, por primera vez, se aventura más allá del arrecife de su isla de Motunui junto al infame semidiós Maui (Dwayne Johnson) en un viaje inolvidable para restaurar la prosperidad de su pueblo.",
       "funciones": [
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-05",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-05",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-05T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
         {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-08-05",
@@ -9950,7 +11378,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-07T16:50:00-04:00"
+          "inicio": "2026-08-07T16:50:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=iksedbu"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -10005,6 +11434,125 @@
           "idioma": "SUB",
           "inicio": "2026-08-08T21:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        }
+      ]
+    },
+    {
+      "id": "impacto-mortal",
+      "titulo": "Impacto Mortal",
+      "duracion": 106,
+      "clasificacion": "+14",
+      "genero": "THRILLER",
+      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001848?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "sinopsis": "Un vuelo de Los Ángeles a Shanghái sufre una falla catastrófica y termina en un aterrizaje forzoso en medio del océano. Los sobrevivientes quedan atrapados entre los restos del avión, mientras una manada de tiburones, atraída por el caos, comienza a rodearlos. Con el tiempo en contra y el fuselaje hundiéndose, deberán enfrentarse a sus peores miedos y tomar una decisión imposible: arriesgarlo todo en el mar… o morir dentro del avión",
+      "funciones": [
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T19:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/impacto-mortal"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T19:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/impacto-mortal"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T21:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/impacto-mortal"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-06T21:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/impacto-mortal"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T19:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/impacto-mortal"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T19:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/impacto-mortal"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T21:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/impacto-mortal"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-07T21:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/impacto-mortal"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T19:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/impacto-mortal"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T19:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/impacto-mortal"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T21:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/impacto-mortal"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-08T21:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/impacto-mortal"
         }
       ]
     },
@@ -10084,6 +11632,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T23:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/obsesion"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-07",
           "sala": null,
@@ -10091,6 +11648,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-07T19:55:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-07T23:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/obsesion"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -10261,6 +11827,71 @@
       ]
     },
     {
+      "id": "el-dia-d-bajo-presion",
+      "titulo": "El Dia D: Bajo Presion",
+      "duracion": 100,
+      "clasificacion": "+14",
+      "genero": "CIENCIA FICCION",
+      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001859?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "sinopsis": "En las tensas 72 horas previas al Día D, con el destino del mundo pendiendo de un hilo, Bajo presión sigue al general Dwight D. Eisenhower y al capitán James Stagg mientras enfrentan una decisión imposible: lanzar la invasión marítima más grande y peligrosa de la historia o arriesgarse a perder la guerra por completo.",
+      "funciones": [
+        {
+          "cine": "normandie",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T17:00:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=wbqokvn"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-06T21:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-dia-d-bajo-presion"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-06T21:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-dia-d-bajo-presion"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-06T23:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-dia-d-bajo-presion"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-07",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-07T21:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-dia-d-bajo-presion"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-08T21:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-dia-d-bajo-presion"
+        }
+      ]
+    },
+    {
       "id": "mil-pedazos",
       "titulo": "Mil pedazos",
       "duracion": 90,
@@ -10393,6 +12024,35 @@
       ]
     },
     {
+      "id": "diamanti",
+      "titulo": "Diamanti",
+      "duracion": 129,
+      "clasificacion": "S/I",
+      "genero": "DRAMA",
+      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001876?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "sinopsis": "Un director convoca a sus actrices favoritas, con las que ha trabajado y a las que ha amado. Quiere hacer una película sobre mujeres, pero no revela gran cosa: las observa, toma ejemplo, se inspira, hasta que su imaginación las catapulta a otra época, a un pasado donde el ruido de las máquinas de coser llena un lugar de trabajo dirigido y poblado por mujeres, donde los hombres tienen pequeños papeles marginales y el cine puede contarse desde otro punto de vista: el del vestuario.",
+      "funciones": [
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-06",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-06T16:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/diamanti"
+        },
+        {
+          "cine": "normandie",
+          "dia": "2026-08-08",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-08T18:05:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=ke7b3eae889542100f1881635faffd3a2f8dbf70"
+        }
+      ]
+    },
+    {
       "id": "evil-dead-en-llamas",
       "titulo": "Evil Dead: en Llamas",
       "duracion": 110,
@@ -10465,26 +12125,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-06T15:00:00-04:00"
-        }
-      ]
-    },
-    {
-      "id": "el-dia-d-bajo-presion",
-      "titulo": "El día D: Bajo presión",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "sinopsis": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-08-06",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-06T17:00:00-04:00"
+          "inicio": "2026-08-06T15:00:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=r4a73f5626183e894b0c1f3469418b44a35f5758"
         }
       ]
     },
@@ -10503,7 +12145,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-06T19:00:00-04:00"
+          "inicio": "2026-08-06T19:00:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=csd3xbv"
         }
       ]
     },
@@ -10522,7 +12165,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-07T15:00:00-04:00"
+          "inicio": "2026-08-07T15:00:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=lef89f33c76e6a51b64514db005fe90f6b8bfd1f"
         }
       ]
     },
@@ -10541,7 +12185,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-07T19:30:00-04:00"
+          "inicio": "2026-08-07T19:30:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=kw5awqk"
         }
       ]
     },
@@ -10565,25 +12210,6 @@
       ]
     },
     {
-      "id": "diamanti",
-      "titulo": "Diamanti",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "sinopsis": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-08-08",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-08T18:05:00-04:00"
-        }
-      ]
-    },
-    {
       "id": "leviticus-ritual-de-sangre",
       "titulo": "Leviticus: Ritual de sangre",
       "duracion": 0,
@@ -10598,7 +12224,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-08T20:30:00-04:00"
+          "inicio": "2026-08-08T20:30:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=de067653b7c72b9857833903314b43a6803ff421"
         }
       ]
     },
