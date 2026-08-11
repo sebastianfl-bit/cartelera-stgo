@@ -1,11 +1,14 @@
 {
-  "generado": "2026-08-11T11:37:45.919Z",
+  "generado": "2026-08-11T16:48:52.428Z",
   "fecha": "2026-08-11",
   "dias": [
     "2026-08-11",
     "2026-08-12",
     "2026-08-13",
     "2026-08-14"
+  ],
+  "fallidos": [
+    "Cine Arte Normandie"
   ],
   "cines": [
     {
@@ -216,27 +219,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-11",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-11T11:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-11",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-11T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-11",
           "sala": null,
@@ -264,42 +246,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-11",
-          "sala": "Sala 2",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-11T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-11",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-11T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-11",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-11T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-11",
           "sala": null,
@@ -307,15 +253,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-11T12:20:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-11",
-          "sala": "Sala 14",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-11T12:25:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -325,57 +262,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-11T12:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-11",
-          "sala": "Sala 8",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-11T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-11",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-11T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-08-11",
-          "sala": "Sala 3",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-11T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-11",
-          "sala": "Sala 4",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-08-11T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-11",
-          "sala": "Sala 12",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-08-11T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -6134,18 +6020,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-11",
-          "sala": "Sala 11",
-          "formato": "IMAX",
-          "atributos": [
-            "IMAX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-11T10:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-11",
           "sala": null,
@@ -7397,15 +7271,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "normandie",
-          "dia": "2026-08-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-12T15:00:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=khnkf1c"
-        },
-        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-12",
           "sala": null,
@@ -8290,24 +8155,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-11",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-11T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-08-11",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-11T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-08-11",
           "sala": null,
@@ -9039,15 +8886,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-11",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-11T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-mallplaza-norte",
           "dia": "2026-08-11",
           "sala": "Sala 5",
@@ -9709,7 +9547,7 @@
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
-          "inicio": "2026-08-11T22:05:00-04:00",
+          "inicio": "2026-08-11T22:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/impacto-mortal"
         },
         {
@@ -10679,15 +10517,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
-          "cine": "normandie",
-          "dia": "2026-08-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-12T18:10:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=yclccoj"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-12",
           "sala": null,
@@ -10926,185 +10755,6 @@
       ]
     },
     {
-      "id": "diamanti",
-      "titulo": "Diamanti",
-      "duracion": 135,
-      "clasificacion": "+14",
-      "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015248.jpg",
-      "sinopsis": "Un director convoca a sus actrices favoritas, con las que ha trabajado y a las que ha amado. Quiere hacer una película sobre mujeres, pero no revela gran cosa: las observa, toma ejemplo, se inspira, hasta que su imaginación las catapulta a otra época, a un pasado donde el ruido de las máquinas de coser llena un lugar de trabajo dirigido y poblado por mujeres, donde los hombres tienen pequeños papeles marginales y el cine puede contarse desde otro punto de vista: el del vestuario.",
-      "funciones": [
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-11",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-11T14:40:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-11",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-11T15:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "normandie",
-          "dia": "2026-08-11",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-11T15:00:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=fa2fcd6310665a36d23f194cbc81ccabbf1a4bfb"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-08-11",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-11T15:35:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-11",
-          "sala": "Sala Cinemark Portal La Dehesa - 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-11T16:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/diamanti/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-11",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-11T16:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/diamanti"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-11",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-11T16:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/diamanti"
-        },
-        {
-          "cine": "el-biografo",
-          "dia": "2026-08-11",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-11T18:00:00-04:00",
-          "url": "https://elbiografo.cl/cartelera/"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-11",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-11T18:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/diamanti/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-11",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-11T21:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/diamanti"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-12T14:40:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-12T15:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-08-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-12T15:35:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-12",
-          "sala": "Sala Cinemark Portal La Dehesa - 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-12T16:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/diamanti/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-12T16:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/diamanti"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-12T16:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/diamanti"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-12",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-12T18:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/diamanti/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-12T21:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/diamanti"
-        }
-      ]
-    },
-    {
       "id": "la-naturaleza-de-las-cosas-invisibles",
       "titulo": "La Naturaleza de las Cosas Invisibles",
       "duracion": 91,
@@ -11286,6 +10936,176 @@
           "idioma": "SUB",
           "inicio": "2026-08-12T22:35:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        }
+      ]
+    },
+    {
+      "id": "diamanti",
+      "titulo": "Diamanti",
+      "duracion": 135,
+      "clasificacion": "+14",
+      "genero": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015248.jpg",
+      "sinopsis": "Un director convoca a sus actrices favoritas, con las que ha trabajado y a las que ha amado. Quiere hacer una película sobre mujeres, pero no revela gran cosa: las observa, toma ejemplo, se inspira, hasta que su imaginación las catapulta a otra época, a un pasado donde el ruido de las máquinas de coser llena un lugar de trabajo dirigido y poblado por mujeres, donde los hombres tienen pequeños papeles marginales y el cine puede contarse desde otro punto de vista: el del vestuario.",
+      "funciones": [
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-11",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-11T14:40:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-11",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-11T15:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-08-11",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-11T15:35:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-la-dehesa",
+          "dia": "2026-08-11",
+          "sala": "Sala Cinemark Portal La Dehesa - 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-11T16:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/diamanti/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-11",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-11T16:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/diamanti"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-11",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-11T16:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/diamanti"
+        },
+        {
+          "cine": "el-biografo",
+          "dia": "2026-08-11",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-11T18:00:00-04:00",
+          "url": "https://elbiografo.cl/cartelera/"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-08-11",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-11T18:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/diamanti/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-11",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-11T21:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/diamanti"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-12",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-12T14:40:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-12",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-12T15:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-08-12",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-12T15:35:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-la-dehesa",
+          "dia": "2026-08-12",
+          "sala": "Sala Cinemark Portal La Dehesa - 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-12T16:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/diamanti/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-12",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-12T16:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/diamanti"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-12",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-12T16:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/diamanti"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-08-12",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-12T18:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/diamanti/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-12",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-12T21:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/diamanti"
         }
       ]
     },
@@ -11620,15 +11440,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-11T14:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/obsesion"
-        },
-        {
-          "cine": "normandie",
-          "dia": "2026-08-11",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-11T17:30:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=r15af9445685c7dc04f43fd8c7488d501da730e3"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -11966,46 +11777,6 @@
           "idioma": "S/I",
           "inicio": "2026-08-14T19:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        }
-      ]
-    },
-    {
-      "id": "the-doors",
-      "titulo": "The Doors",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "sinopsis": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-08-11",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-11T19:40:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=mfhsdde"
-        }
-      ]
-    },
-    {
-      "id": "el-hombre-elefante",
-      "titulo": "El hombre Elefante",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "sinopsis": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-08-12",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-12T20:05:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=qc4dae705bf68ce8d0c7acf6266f3f455b0e02dc"
         }
       ]
     },
