@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-13T11:40:00.746Z",
+  "generado": "2026-08-13T16:46:19.765Z",
   "fecha": "2026-08-13",
   "dias": [
     "2026-08-13",
@@ -234,36 +234,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-13",
-          "sala": "Sala 2",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-13T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-13",
-          "sala": "Sala 14",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-13T12:25:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-13",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-13T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-13",
           "sala": null,
@@ -271,27 +241,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-13T12:35:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-13",
-          "sala": "Sala 8",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-13T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-13",
-          "sala": "Sala 12",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-08-13T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-gran-avenida",
@@ -498,7 +447,7 @@
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-13",
           "sala": null,
-          "formato": "3D",
+          "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-13T14:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
@@ -1213,7 +1162,7 @@
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-13",
           "sala": null,
-          "formato": "3D",
+          "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-13T17:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
@@ -1943,7 +1892,7 @@
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-13",
           "sala": null,
-          "formato": "3D",
+          "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-13T20:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
@@ -2967,7 +2916,7 @@
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-14",
           "sala": null,
-          "formato": "3D",
+          "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-14T14:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
@@ -4382,7 +4331,7 @@
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-14",
           "sala": null,
-          "formato": "3D",
+          "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-14T20:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
@@ -5581,7 +5530,7 @@
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-15",
           "sala": null,
-          "formato": "3D",
+          "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-15T14:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
@@ -6296,7 +6245,7 @@
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-15",
           "sala": null,
-          "formato": "3D",
+          "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-15T17:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
@@ -7053,7 +7002,7 @@
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-15",
           "sala": null,
-          "formato": "3D",
+          "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-15T20:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
@@ -8318,7 +8267,7 @@
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-16",
           "sala": null,
-          "formato": "3D",
+          "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-16T14:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
@@ -9003,7 +8952,7 @@
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-16",
           "sala": null,
-          "formato": "3D",
+          "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-16T17:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
@@ -9793,7 +9742,7 @@
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-16",
           "sala": null,
-          "formato": "3D",
+          "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-16T20:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
@@ -10498,12 +10447,15 @@
       "sinopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-norte",
+          "cine": "cinemark-mallplaza-vespucio",
           "dia": "2026-08-13",
-          "sala": "Sala 8",
-          "formato": "2D",
+          "sala": "Sala 11",
+          "formato": "IMAX",
+          "atributos": [
+            "IMAX"
+          ],
           "idioma": "S/I",
-          "inicio": "2026-08-13T12:20:00-04:00",
+          "inicio": "2026-08-13T12:50:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
         },
         {
@@ -10664,6 +10616,18 @@
           "idioma": "DOB",
           "inicio": "2026-08-13T15:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-13",
+          "sala": "Sala 11",
+          "formato": "IMAX",
+          "atributos": [
+            "IMAX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-13T15:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
@@ -11269,6 +11233,18 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-14",
+          "sala": "Sala 11",
+          "formato": "IMAX",
+          "atributos": [
+            "IMAX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-14T12:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-14",
           "sala": null,
@@ -11398,6 +11374,18 @@
           ],
           "idioma": "S/I",
           "inicio": "2026-08-14T15:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-14",
+          "sala": "Sala 11",
+          "formato": "IMAX",
+          "atributos": [
+            "IMAX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-14T15:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
         },
         {
@@ -12025,6 +12013,18 @@
           "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-15",
+          "sala": "Sala 11",
+          "formato": "IMAX",
+          "atributos": [
+            "IMAX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-15T12:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-08-15",
           "sala": null,
@@ -12191,6 +12191,18 @@
           "idioma": "DOB",
           "inicio": "2026-08-15T15:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-15",
+          "sala": "Sala 11",
+          "formato": "IMAX",
+          "atributos": [
+            "IMAX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-15T15:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-alto-las-condes",
@@ -12808,6 +12820,18 @@
           "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-16",
+          "sala": "Sala 11",
+          "formato": "IMAX",
+          "atributos": [
+            "IMAX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-16T12:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-08-16",
           "sala": null,
@@ -12964,6 +12988,18 @@
           ],
           "idioma": "S/I",
           "inicio": "2026-08-16T15:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-16",
+          "sala": "Sala 11",
+          "formato": "IMAX",
+          "atributos": [
+            "IMAX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-16T15:20:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
         },
         {
@@ -16667,15 +16703,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-13",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-13T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-13",
           "sala": null,
@@ -19501,15 +19528,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-13",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-13T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-08-13",
           "sala": "Sala 3",
@@ -21367,18 +21385,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015081.jpg",
       "sinopsis": "Tras el éxito mundial en taquilla de la comedia más divertida de 2024, Mi Villano Favorito 4, Illumination expande su universo animado con un nuevo capítulo en la franquicia animada global más grande de la historia: Minions & Monstruos. Esta es la historia desenfrenada, ridícula y totalmente real de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, perdieron todo, desataron monstruos sobre el mundo y luego unieron fuerzas para intentar salvar al planeta del caos que ellos mismos crearon. Minions & Monstruos es dirigida por Pierre Coffin, nominado al Premio de la Academia® y director de las tres primeras películas de Mi Villano Favorito, y la primera película de los Minions. Coffin también ha dado voz a los Minions desde su debut en 2010. La película es escrita por Brian Lynch (Minions, La vida secreta de tus mascotas) y Pierre Coffin, y es producida por Chris Meledandri, fundador y director ejecutivo de Illumination, nominado al Premio de la Academia®, y por Bill Ryan (productor ejecutivo de Super Mario Bros. La película). El productor ejecutivo es Brian Lynch. Más de diez años después de su creación, los Minions se han convertido en los personajes animados más icónicos de su generación. Reconocidos y queridos a nivel mundial por fanáticos de todas las edades, han impulsado a Mi Villano Favorito y Minions de Illumination a una taquilla global de más de 5.6 mil millones de dólares..",
       "funciones": [
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-13",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-13T12:45:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
         {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-13",
@@ -23343,7 +23349,7 @@
       "id": "calle-malaga",
       "titulo": "Calle Málaga",
       "duracion": 117,
-      "clasificacion": "S/I",
+      "clasificacion": "TE+7",
       "genero": null,
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015231.jpg",
       "sinopsis": "Una mujer mayor en Tánger lucha por conservar su hogar cuando su hija decide venderlo. En su empeño por mantener sus pertenencias y su vida allí, encuentra nuevas ilusiones y reencuentra el amor.",
@@ -23377,6 +23383,15 @@
           "idioma": "S/I",
           "inicio": "2026-08-13T17:50:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/calle-malaga/compra-entradas/entradas"
+        },
+        {
+          "cine": "el-biografo",
+          "dia": "2026-08-13",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-13T18:00:00-04:00",
+          "url": "https://elbiografo.cl/cartelera/"
         },
         {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
@@ -25016,26 +25031,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-15T18:00:00-04:00",
           "url": "https://cinetecanacional.gob.cl/eventos/la-grazia/"
-        }
-      ]
-    },
-    {
-      "id": "diamanti",
-      "titulo": "Diamanti",
-      "duracion": 129,
-      "clasificacion": "+14",
-      "genero": "Drama. Intriga",
-      "poster": "https://elbiografo.cl/wp-content/uploads/2026/07/Diamanti.jpg",
-      "sinopsis": "Un director convoca a sus actrices favoritas, con las que ha trabajado y a las que ha amado. Quiere hacer una película sobre mujeres, pero no revela gran cosa: las observa, toma ejemplo, se inspira, hasta que su imaginación las catapulta a otra época, a un pasado donde el ruido de las máquinas de coser llena un lugar de trabajo dirigido y poblado por mujeres, donde los hombres tienen pequeños papeles marginales y el cine puede contarse desde otro punto de vista: el del vestuario.",
-      "funciones": [
-        {
-          "cine": "el-biografo",
-          "dia": "2026-08-13",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-13T18:00:00-04:00",
-          "url": "https://elbiografo.cl/cartelera/"
         }
       ]
     }
