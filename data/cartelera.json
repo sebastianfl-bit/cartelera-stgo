@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-14T11:37:54.662Z",
+  "generado": "2026-08-14T16:41:34.901Z",
   "fecha": "2026-08-14",
   "dias": [
     "2026-08-14",
@@ -243,36 +243,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-14",
-          "sala": "Sala 2",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-14T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-14",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-14T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-14",
-          "sala": "Sala 14",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-14T12:25:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-14",
           "sala": null,
@@ -280,48 +250,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-14T12:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-14",
-          "sala": "Sala 8",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-14T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-14",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-14T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-14",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-14T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-14",
-          "sala": "Sala 12",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-08-14T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-gran-avenida",
@@ -2154,6 +2082,15 @@
           "dia": "2026-08-14",
           "sala": "Sala 10",
           "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-08-14T21:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-14",
+          "sala": "Sala 13",
+          "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-08-14T21:00:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
@@ -4816,6 +4753,15 @@
           "dia": "2026-08-15",
           "sala": "Sala 10",
           "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-08-15T21:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-15",
+          "sala": "Sala 13",
+          "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-08-15T21:00:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
@@ -7561,6 +7507,15 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-16",
+          "sala": "Sala 13",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-16T21:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-16",
           "sala": null,
@@ -9802,6 +9757,15 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-17",
+          "sala": "Sala 13",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-17T21:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-17",
           "sala": null,
@@ -10218,24 +10182,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015266.jpg",
       "sinopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
       "funciones": [
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-14",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-14T12:05:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-14",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-14T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
         {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-14",
@@ -16358,15 +16304,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-14",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-14T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-alto-las-condes",
           "dia": "2026-08-14",
           "sala": "Sala 7",
@@ -19056,15 +18993,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00014963.jpg",
       "sinopsis": "Los juguetes están de vuelta. Esta vez, Buzz Lightyear, Woody, Jessie y el resto de la pandilla se enfrentan a un nuevo reto cuando conocen a Lilypad, una nueva tablet que llega con sus propias ideas disruptivas sobre lo que es mejor para Bonnie. ¿Volverá a ser lo mismo la hora de jugar?",
       "funciones": [
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-14",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-14T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
         {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-08-14",
@@ -21864,6 +21792,15 @@
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-08-14T18:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/rapido-y-furioso-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-08-14",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-14T18:50:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/rapido-y-furioso-2001/compra-entradas/entradas"
         },
         {
