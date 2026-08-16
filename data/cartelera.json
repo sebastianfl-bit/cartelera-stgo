@@ -1,11 +1,14 @@
 {
-  "generado": "2026-08-16T11:12:10.062Z",
+  "generado": "2026-08-16T16:14:28.365Z",
   "fecha": "2026-08-16",
   "dias": [
     "2026-08-16",
     "2026-08-17",
     "2026-08-18",
     "2026-08-19"
+  ],
+  "fallidos": [
+    "Cine Arte Normandie"
   ],
   "cines": [
     {
@@ -198,15 +201,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-16",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-08-16",
           "sala": null,
@@ -252,15 +246,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-16",
-          "sala": "Sala 4",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-16",
           "sala": null,
@@ -277,58 +262,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-16T11:25:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-16",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-08-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-16",
-          "sala": "Sala 10",
-          "formato": "XD",
-          "atributos": [
-            "XD",
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-16",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-08-16",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -349,39 +282,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-16",
-          "sala": "Sala Cinemark Portal La Dehesa - 5",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-16",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-16",
-          "sala": "Sala 7",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-16",
           "sala": null,
@@ -398,24 +298,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-16T11:50:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-16",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-16",
-          "sala": "Sala 14",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -11589,15 +11471,6 @@
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
-          "cine": "normandie",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T17:10:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=c2isfkm"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-17",
           "sala": null,
@@ -13540,24 +13413,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015266.jpg",
       "sinopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
       "funciones": [
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-16",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-16",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
         {
           "cine": "cinemark-mallplaza-tobalaba",
           "dia": "2026-08-16",
@@ -16591,27 +16446,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-16",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-16",
-          "sala": "Sala Cinemark Portal La Dehesa - 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-08-16",
           "sala": null,
@@ -16646,24 +16480,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-16T11:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T12:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -19238,7 +19054,7 @@
       "duracion": 102,
       "clasificacion": "TE",
       "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00014963.jpg",
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00014964.jpg",
       "sinopsis": "Los juguetes están de vuelta. Esta vez, Buzz Lightyear, Woody, Jessie y el resto de la pandilla se enfrentan a un nuevo reto cuando conocen a Lilypad, una nueva tablet que llega con sus propias ideas disruptivas sobre lo que es mejor para Bonnie. ¿Volverá a ser lo mismo la hora de jugar?",
       "funciones": [
         {
@@ -19251,18 +19067,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-16",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-16",
           "sala": null,
@@ -19270,51 +19074,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-16T11:10:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-16",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-08-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-16",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-08-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -21073,15 +20832,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T11:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-16",
           "sala": null,
@@ -22423,15 +22173,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-16T12:05:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-08-16",
           "sala": null,
@@ -22851,15 +22592,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "normandie",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-18T15:00:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=gy9lfwc"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-18",
           "sala": null,
@@ -23140,152 +22872,6 @@
       ]
     },
     {
-      "id": "la-invitacion",
-      "titulo": "La invitación",
-      "duracion": 106,
-      "clasificacion": "+14",
-      "genero": null,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_SX250.jpg",
-      "sinopsis": "Joe y Angela están en una situación de pareja muy delicada y esta noche podría ser cuando todo se termine de derrumbar. Sus vecinos de arriba llegan para cenar y todo lo que puede salir mal, sale aún peor.",
-      "funciones": [
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-16T14:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "el-biografo",
-          "dia": "2026-08-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-16T15:30:00-04:00",
-          "url": "https://elbiografo.cl/cartelera/"
-        },
-        {
-          "cine": "normandie",
-          "dia": "2026-08-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-16T17:10:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=iksedbu"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-08-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-16T19:45:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "el-biografo",
-          "dia": "2026-08-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-16T20:15:00-04:00",
-          "url": "https://elbiografo.cl/cartelera/"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-16T22:15:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T14:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T19:45:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T22:10:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-18T14:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-18T19:45:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-18T22:10:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-19T14:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-19T19:45:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-19T22:10:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        }
-      ]
-    },
-    {
       "id": "el-dia-d-bajo-presion",
       "titulo": "El Dia D: Bajo Presion",
       "duracion": 100,
@@ -23423,67 +23009,103 @@
       ]
     },
     {
-      "id": "obsesion",
-      "titulo": "Obsesion",
-      "duracion": 109,
+      "id": "la-invitacion",
+      "titulo": "La invitación",
+      "duracion": 106,
       "clasificacion": "+14",
-      "genero": "TERROR",
-      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001814?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "sinopsis": "Después de romper el Sauce del deseo para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pidió, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.",
+      "genero": null,
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_SX250.jpg",
+      "sinopsis": "Joe y Angela están en una situación de pareja muy delicada y esta noche podría ser cuando todo se termine de derrumbar. Sus vecinos de arriba llegan para cenar y todo lo que puede salir mal, sale aún peor.",
       "funciones": [
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-16T14:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "el-biografo",
+          "dia": "2026-08-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-16T15:30:00-04:00",
+          "url": "https://elbiografo.cl/cartelera/"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-08-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-16T19:45:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "el-biografo",
+          "dia": "2026-08-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-16T20:15:00-04:00",
+          "url": "https://elbiografo.cl/cartelera/"
+        },
         {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-16",
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-16T14:25:00-04:00",
+          "inicio": "2026-08-16T22:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-16T22:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/obsesion"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-16T22:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/obsesion"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
+          "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-17",
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
           "inicio": "2026-08-17T14:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-17T19:45:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-17T22:10:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-17",
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-18",
           "sala": null,
           "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-17T22:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/obsesion"
+          "idioma": "SUB",
+          "inicio": "2026-08-18T14:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-17",
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-08-18",
           "sala": null,
           "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-17T22:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/obsesion"
+          "idioma": "SUB",
+          "inicio": "2026-08-18T19:45:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -23491,26 +23113,26 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-18T14:20:00-04:00",
+          "inicio": "2026-08-18T22:10:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-18",
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-19",
           "sala": null,
           "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-18T22:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/obsesion"
+          "idioma": "SUB",
+          "inicio": "2026-08-19T14:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-18",
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-08-19",
           "sala": null,
           "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-18T22:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/obsesion"
+          "idioma": "SUB",
+          "inicio": "2026-08-19T19:45:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -23518,35 +23140,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-19T14:20:00-04:00",
+          "inicio": "2026-08-19T22:10:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "normandie",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-19T15:00:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=rac18fccbfe9d91451d38f4f88bacfb667cad680"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-19T22:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/obsesion"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-19T22:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/obsesion"
         }
       ]
     },
@@ -23785,6 +23380,125 @@
           "idioma": "DOB",
           "inicio": "2026-08-19T22:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/impacto-mortal"
+        }
+      ]
+    },
+    {
+      "id": "obsesion",
+      "titulo": "Obsesion",
+      "duracion": 109,
+      "clasificacion": "+14",
+      "genero": "TERROR",
+      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001814?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "sinopsis": "Después de romper el Sauce del deseo para conquistar el corazón de la chica que le gusta, un romántico empedernido consigue exactamente lo que pidió, pero pronto descubre que algunos deseos tienen un precio oscuro y siniestro.",
+      "funciones": [
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-16T14:25:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-16T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/obsesion"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-16T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/obsesion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-17T14:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-17T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/obsesion"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-17T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/obsesion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-18T14:20:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/obsesion"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/obsesion"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-19T14:20:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/obsesion"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/obsesion"
         }
       ]
     },
@@ -24079,166 +23793,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-16T11:20:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        }
-      ]
-    },
-    {
-      "id": "la-misteriosa-mirada-del-flamenco",
-      "titulo": "La misteriosa mirada del flamenco",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "sinopsis": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-08-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-16T15:00:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=abe39eb884cedab40ba06edb91949c8a2ee898f6"
-        }
-      ]
-    },
-    {
-      "id": "el-silencio-de-los-inocentes",
-      "titulo": "El silencio de los inocentes",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "sinopsis": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-08-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-16T19:20:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=e4ncjyy"
-        }
-      ]
-    },
-    {
-      "id": "la-fiesta-inolvidable",
-      "titulo": "La fiesta inolvidable",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "sinopsis": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T15:00:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=6mkgsna"
-        }
-      ]
-    },
-    {
-      "id": "the-rocky-horror-picture-show",
-      "titulo": "The Rocky horror picture show",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "sinopsis": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T20:10:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=ad8orho"
-        }
-      ]
-    },
-    {
-      "id": "la-sociedad-de-los-poetas-muertos",
-      "titulo": "La sociedad de los poetas muertos",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "sinopsis": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-18T17:10:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=z91d4d689bad7f05b44121b96e2dcde9ce99d718"
-        }
-      ]
-    },
-    {
-      "id": "el-desprecio",
-      "titulo": "El desprecio",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "sinopsis": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-18T19:40:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=uvpdsnc"
-        }
-      ]
-    },
-    {
-      "id": "backrooms-–-version-extendida",
-      "titulo": "Backrooms – Versión extendida",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "sinopsis": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-19T17:10:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=t0983b08ed84061c5bcf7d9bd14f7e18c5f3e7b4"
-        }
-      ]
-    },
-    {
-      "id": "psicosis",
-      "titulo": "Psicosis",
-      "duracion": 0,
-      "clasificacion": "S/I",
-      "genero": "Cine arte",
-      "poster": null,
-      "sinopsis": null,
-      "funciones": [
-        {
-          "cine": "normandie",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-19T19:45:00-04:00",
-          "url": "https://www.flow.cl/btn.php?token=mffqv6g"
         }
       ]
     },
