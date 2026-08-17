@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-17T11:17:34.033Z",
+  "generado": "2026-08-17T16:17:23.733Z",
   "fecha": "2026-08-17",
   "dias": [
     "2026-08-17",
@@ -3204,6 +3204,15 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T14:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-18",
           "sala": null,
@@ -3950,6 +3959,15 @@
           "dia": "2026-08-18",
           "sala": null,
           "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T18:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "XTREME",
           "idioma": "DOB",
           "inicio": "2026-08-18T18:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
@@ -4714,6 +4732,15 @@
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
+          "inicio": "2026-08-18T21:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "SUB",
           "inicio": "2026-08-18T21:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
@@ -5679,6 +5706,15 @@
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T14:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-19",
           "sala": null,
@@ -6425,6 +6461,15 @@
           "dia": "2026-08-19",
           "sala": null,
           "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T18:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "XTREME",
           "idioma": "DOB",
           "inicio": "2026-08-19T18:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
@@ -7213,6 +7258,15 @@
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
+          "inicio": "2026-08-19T21:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "SUB",
           "inicio": "2026-08-19T21:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
@@ -8402,6 +8456,15 @@
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-17T21:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinemark-la-dehesa",
           "dia": "2026-08-17",
           "sala": "Sala Cinemark Portal La Dehesa - 3",
@@ -9163,7 +9226,7 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-18T22:00:00-04:00",
+          "inicio": "2026-08-18T21:50:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
@@ -9925,7 +9988,7 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-19T22:00:00-04:00",
+          "inicio": "2026-08-19T21:50:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
@@ -10038,15 +10101,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015266.jpg",
       "sinopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
       "funciones": [
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-17",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-17T12:05:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
         {
           "cine": "cinemark-mallplaza-norte",
           "dia": "2026-08-17",
@@ -13074,6 +13128,15 @@
           "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T13:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
+        },
+        {
           "cine": "cinemark-la-dehesa",
           "dia": "2026-08-18",
           "sala": "Sala Cinemark Portal La Dehesa - 1",
@@ -13194,6 +13257,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T14:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-08-18",
           "sala": "Sala 2",
@@ -13264,6 +13336,15 @@
           "idioma": "DOB",
           "inicio": "2026-08-18T15:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T15:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
         },
         {
           "cine": "cineplanet-cp-quilin",
@@ -13441,6 +13522,15 @@
           "idioma": "DOB",
           "inicio": "2026-08-18T17:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T17:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
         },
         {
           "cine": "cineplanet-cp-quilin",
@@ -13701,6 +13791,15 @@
           "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T13:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
+        },
+        {
           "cine": "cinemark-la-dehesa",
           "dia": "2026-08-19",
           "sala": "Sala Cinemark Portal La Dehesa - 1",
@@ -13821,6 +13920,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T14:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
+        },
+        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-08-19",
           "sala": "Sala 2",
@@ -13891,6 +13999,15 @@
           "idioma": "DOB",
           "inicio": "2026-08-19T15:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T15:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
         },
         {
           "cine": "cineplanet-cp-quilin",
@@ -14068,6 +14185,15 @@
           "idioma": "DOB",
           "inicio": "2026-08-19T17:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T17:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
         },
         {
           "cine": "cineplanet-cp-quilin",
@@ -15157,6 +15283,15 @@
           "url": "https://www.cineplanet.cl/pelicula/engendro"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T16:25:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/engendro"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-18",
           "sala": null,
@@ -15238,6 +15373,15 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-18T20:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/engendro"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T20:50:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/engendro"
         },
         {
@@ -15334,6 +15478,15 @@
           "url": "https://www.cineplanet.cl/pelicula/engendro"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T16:25:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/engendro"
+        },
+        {
           "cine": "cinemark-portal-nunoa",
           "dia": "2026-08-19",
           "sala": "Sala 5",
@@ -15415,6 +15568,15 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-19T20:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/engendro"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T20:50:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/engendro"
         },
         {
@@ -15920,6 +16082,386 @@
       ]
     },
     {
+      "id": "rapido-y-furioso-25-aniversario",
+      "titulo": "Rapido y Furioso 25 Aniversario",
+      "duracion": 106,
+      "clasificacion": "+14",
+      "genero": "ACCION",
+      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001884?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "sinopsis": "Estrenada originalmente en 2001, Rápido y Furioso gira en torno a Dominic Toretto (Vin Diesel), quien conduce por las calles de Los Ángeles como si fueran suyas. En lo que respecta a Letty (Michelle Rodríguez) y al resto de su pandilla, así es. Dom pasa sus días trabajando en autos de carreras de alto\r\nrendimiento; la marca y el modelo importan menos que la inyección de combustible controlada por computadora que los hace volar. Por las noches, Dom maneja su propio cohete terrestre, ganando hasta 10, 000 dólares por carrera cuando alguien se atreve a retarlo. Las carreras son un espectáculo callejero, una reunión tribal y un campo de batalla, impulsadas por la adrenalina, la tensión sexual y la velocidad pura y descontrolada. Multitudes abarrotan calles que de otra manera estarían desoladas para animar, abuchear y sentirse parte de algo. Dominic se abre paso con aire de estrella de rock por este ambiente de forajidos de alto octanaje, presidiendo el rugido hambriento de los motores, todos listos para poner a prueba los límites. Brian (Paul Walker) está convencido, lleno de ambición y listo para ponerlos a prueba. Se enorgullece de su astucia callejera, pero para esta multitud no es más que un novato. Busca la aprobación de Dominic al volante de su propio auto deportivo potenciado con Óxido Nitroso (NOS).\r\nTras un encuentro explosivo con el despiadado Johnny Tran (Rick Yune), Dominic decide que Brian es de confianza. A Mia, la hermana de Dominic (Jordana Brewster), también le gusta lo que ve. El problema es que no saben que Brian es policía. Brian está en una misión de encubrimiento total, investigando una serie de espectaculares robos de camiones de carga. La policía y el FBI necesitan que esto se detenga antes de que los camioneros tomen el asunto en sus propias manos. El dinero fluye libremente en el mundo de las carreras callejeras y los policías saben que parte de ese dinero es sucio. Tanto Dominic como Johnny son sospechosos. A medida que la rivalidad entre las pandillas de Dominic y Johnny Tran se intensifica hasta alcanzar niveles cada vez más peligrosos, los lazos de Brian con Dom y Mia se hacen más fuertes. Siente una auténtica afinidad con Dominic, y la atracción entre él y Mia es demasiado fuerte como para negarla. Pero sigue siendo policía y, a medida que se intensifica la presión para resolver el caso de los robos, Brian debe decidir a quién le debe lealtad y cuáles son realmente sus límites.\r\n",
+      "funciones": [
+        {
+          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-17T17:30:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-17T17:45:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-17T17:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-17T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-17T19:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-17T19:15:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-17T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-17T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-17T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-17T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-17T21:55:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-17T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-17T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T15:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-18T17:30:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T17:45:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T17:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-18T19:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-18T19:15:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-18T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-18T21:55:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-18T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-18T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T15:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-19T17:30:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T17:45:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T17:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-19T19:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-19T19:15:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-19T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-19T21:55:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-19T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-19T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
+        }
+      ]
+    },
+    {
       "id": "minions-&-monstruos",
       "titulo": "Minions & Monstruos",
       "duracion": 90,
@@ -16305,350 +16847,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-19T18:05:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        }
-      ]
-    },
-    {
-      "id": "rapido-y-furioso-25-aniversario",
-      "titulo": "Rapido y Furioso 25 Aniversario",
-      "duracion": 106,
-      "clasificacion": "+14",
-      "genero": "ACCION",
-      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001884?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "sinopsis": "Estrenada originalmente en 2001, Rápido y Furioso gira en torno a Dominic Toretto (Vin Diesel), quien conduce por las calles de Los Ángeles como si fueran suyas. En lo que respecta a Letty (Michelle Rodríguez) y al resto de su pandilla, así es. Dom pasa sus días trabajando en autos de carreras de alto\r\nrendimiento; la marca y el modelo importan menos que la inyección de combustible controlada por computadora que los hace volar. Por las noches, Dom maneja su propio cohete terrestre, ganando hasta 10, 000 dólares por carrera cuando alguien se atreve a retarlo. Las carreras son un espectáculo callejero, una reunión tribal y un campo de batalla, impulsadas por la adrenalina, la tensión sexual y la velocidad pura y descontrolada. Multitudes abarrotan calles que de otra manera estarían desoladas para animar, abuchear y sentirse parte de algo. Dominic se abre paso con aire de estrella de rock por este ambiente de forajidos de alto octanaje, presidiendo el rugido hambriento de los motores, todos listos para poner a prueba los límites. Brian (Paul Walker) está convencido, lleno de ambición y listo para ponerlos a prueba. Se enorgullece de su astucia callejera, pero para esta multitud no es más que un novato. Busca la aprobación de Dominic al volante de su propio auto deportivo potenciado con Óxido Nitroso (NOS).\r\nTras un encuentro explosivo con el despiadado Johnny Tran (Rick Yune), Dominic decide que Brian es de confianza. A Mia, la hermana de Dominic (Jordana Brewster), también le gusta lo que ve. El problema es que no saben que Brian es policía. Brian está en una misión de encubrimiento total, investigando una serie de espectaculares robos de camiones de carga. La policía y el FBI necesitan que esto se detenga antes de que los camioneros tomen el asunto en sus propias manos. El dinero fluye libremente en el mundo de las carreras callejeras y los policías saben que parte de ese dinero es sucio. Tanto Dominic como Johnny son sospechosos. A medida que la rivalidad entre las pandillas de Dominic y Johnny Tran se intensifica hasta alcanzar niveles cada vez más peligrosos, los lazos de Brian con Dom y Mia se hacen más fuertes. Siente una auténtica afinidad con Dominic, y la atracción entre él y Mia es demasiado fuerte como para negarla. Pero sigue siendo policía y, a medida que se intensifica la presión para resolver el caso de los robos, Brian debe decidir a quién le debe lealtad y cuáles son realmente sus límites.\r\n",
-      "funciones": [
-        {
-          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T17:30:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-17T17:45:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-17T17:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-17T19:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T19:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T19:15:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T19:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-17T19:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-17T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-17T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T21:55:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-17T22:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T22:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-18T15:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-18T17:30:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-18T17:45:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-18T17:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-18T19:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-18T19:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-18T19:15:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-18T19:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-18T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-18T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-18T21:55:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-18T22:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-19T15:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-19T17:30:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-19T17:45:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-19T17:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-19T19:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-19T19:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-19T19:15:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-19T19:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-19T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-19T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-19T21:55:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-19T22:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/rapido-y-furioso-25-aniversario"
         }
       ]
     },
@@ -17155,6 +17353,179 @@
       ]
     },
     {
+      "id": "adolescencia-sexo-y-muerte-en-campamento-miasma",
+      "titulo": "Adolescencia Sexo y Muerte en Campamento Miasma",
+      "duracion": 112,
+      "clasificacion": "+14",
+      "genero": "TERROR",
+      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001889?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "sinopsis": "Una joven y entusiasta directora debe resucitar la franquicia de _Campamento Miasma_ tras años de secuelas mediocres. Pero cuando visita a la protagonista de la película original, una actriz recluida y envuelta en misterio, ambas se sumergen en un mundo empapado de sangre, deseo, miedo y delirio.\r\n",
+      "funciones": [
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-17T12:05:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-17T17:30:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-17T18:25:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/adolescencia-sexo-y-muerte-en-campamento-miasma"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-17T19:30:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-17T22:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/adolescencia-sexo-y-muerte-en-campamento-miasma"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-17T22:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/adolescencia-sexo-y-muerte-en-campamento-miasma"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-18T12:05:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-18T17:30:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-18T18:25:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/adolescencia-sexo-y-muerte-en-campamento-miasma"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-18T19:30:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-18T22:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/adolescencia-sexo-y-muerte-en-campamento-miasma"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-18T22:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/adolescencia-sexo-y-muerte-en-campamento-miasma"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-19T12:05:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-19T17:30:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-19T18:25:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/adolescencia-sexo-y-muerte-en-campamento-miasma"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-19T19:30:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-19T22:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/adolescencia-sexo-y-muerte-en-campamento-miasma"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-19T22:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/adolescencia-sexo-y-muerte-en-campamento-miasma"
+        }
+      ]
+    },
+    {
       "id": "calle-malaga",
       "titulo": "Calle Málaga",
       "duracion": 117,
@@ -17324,143 +17695,6 @@
           "idioma": "S/I",
           "inicio": "2026-08-19T18:40:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/calle-malaga/compra-entradas/entradas"
-        }
-      ]
-    },
-    {
-      "id": "adolescencia-sexo-y-muerte-en-campamento-miasma",
-      "titulo": "Adolescencia Sexo y Muerte en Campamento Miasma",
-      "duracion": 112,
-      "clasificacion": "+14",
-      "genero": "TERROR",
-      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001889?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "sinopsis": "Una joven y entusiasta directora debe resucitar la franquicia de _Campamento Miasma_ tras años de secuelas mediocres. Pero cuando visita a la protagonista de la película original, una actriz recluida y envuelta en misterio, ambas se sumergen en un mundo empapado de sangre, deseo, miedo y delirio.\r\n",
-      "funciones": [
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T12:05:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T17:30:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T18:25:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/adolescencia-sexo-y-muerte-en-campamento-miasma"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T19:30:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T22:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/adolescencia-sexo-y-muerte-en-campamento-miasma"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-17T22:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/adolescencia-sexo-y-muerte-en-campamento-miasma"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-18T12:05:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-18T17:30:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-18T19:30:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-18T22:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/adolescencia-sexo-y-muerte-en-campamento-miasma"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-19T12:05:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-19T17:30:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-19T19:30:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-19T22:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/adolescencia-sexo-y-muerte-en-campamento-miasma"
         }
       ]
     },
