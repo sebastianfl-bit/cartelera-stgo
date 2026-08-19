@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-19T11:16:59.481Z",
+  "generado": "2026-08-19T16:20:46.950Z",
   "fecha": "2026-08-19",
   "dias": [
     "2026-08-19",
@@ -241,18 +241,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-19T12:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-19",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-19T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -7332,24 +7320,6 @@
       "sinopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
       "funciones": [
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-19",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-19T12:05:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-19",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-19T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-mallplaza-vespucio",
           "dia": "2026-08-19",
           "sala": "Sala 11",
@@ -9878,7 +9848,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-22T15:00:00-04:00"
+          "inicio": "2026-08-22T15:00:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=2r8e9ls"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -10820,7 +10791,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-22T18:40:00-04:00"
+          "inicio": "2026-08-22T18:40:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=emdqryb"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -11216,7 +11188,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-21T17:20:00-04:00"
+          "inicio": "2026-08-21T17:20:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=h9322e473639ea708bc0acaeea0f400ff50a57e1"
         }
       ]
     },
@@ -11506,7 +11479,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-20T15:00:00-04:00"
+          "inicio": "2026-08-20T15:00:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=c1vwmay"
         }
       ]
     },
@@ -11525,7 +11499,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-20T16:45:00-04:00"
+          "inicio": "2026-08-20T16:45:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=kw5awqk"
         }
       ]
     },
@@ -11544,7 +11519,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-20T19:30:00-04:00"
+          "inicio": "2026-08-20T19:30:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=ygbsrxa"
         }
       ]
     },
@@ -11563,7 +11539,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-21T15:00:00-04:00"
+          "inicio": "2026-08-21T15:00:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=ukoymom"
         }
       ]
     },
@@ -11582,7 +11559,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-21T19:30:00-04:00"
+          "inicio": "2026-08-21T19:30:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=oipbrf2"
         }
       ]
     },
@@ -11601,7 +11579,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-22T16:45:00-04:00"
+          "inicio": "2026-08-22T16:45:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=kglptsq"
         }
       ]
     },
@@ -11620,7 +11599,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-22T20:45:00-04:00"
+          "inicio": "2026-08-22T20:45:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=s067b2c9091b9719d37afcf0fefc8f3896b8e10a"
         }
       ]
     },
