@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-20T11:19:02.580Z",
+  "generado": "2026-08-20T16:23:47.139Z",
   "fecha": "2026-08-20",
   "dias": [
     "2026-08-20",
@@ -207,18 +207,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-20",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-20T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-20",
           "sala": null,
@@ -235,18 +223,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-20T12:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-20",
-          "sala": "Sala 2",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-20T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -11944,15 +11920,6 @@
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-20T13:05:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
-        },
-        {
           "cine": "cinemark-alto-las-condes",
           "dia": "2026-08-20",
           "sala": "Sala 12",
@@ -16364,6 +16331,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-20T20:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/solo-por-una-noche"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-20",
           "sala": null,
@@ -16491,6 +16467,15 @@
           "idioma": "S/I",
           "inicio": "2026-08-20T22:40:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/solo-por-una-noche/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-20T22:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/solo-por-una-noche"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -19844,24 +19829,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-20T18:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-muerte-de-robin-hood"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-20T19:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-muerte-de-robin-hood"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-08-20",
           "sala": null,
@@ -19931,12 +19898,12 @@
           "url": "https://www.cinemark.cl/pelicula/la-muerte-de-robin-hood/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-costanera",
+          "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-20",
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-20T21:00:00-04:00",
+          "inicio": "2026-08-20T21:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-muerte-de-robin-hood"
         },
         {
@@ -20542,15 +20509,6 @@
           "formato": "2D",
           "idioma": "SUB",
           "inicio": "2026-08-20T16:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/mi-vecino-totoro"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-20T16:30:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/mi-vecino-totoro"
         },
         {
@@ -21160,6 +21118,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-20T19:25:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-20",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-20T20:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/la-negociacion/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
