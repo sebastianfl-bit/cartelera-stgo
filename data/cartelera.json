@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-21T11:17:49.899Z",
+  "generado": "2026-08-21T16:22:05.531Z",
   "fecha": "2026-08-21",
   "dias": [
     "2026-08-21",
@@ -207,18 +207,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-21",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-21T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-21",
           "sala": null,
@@ -235,18 +223,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-21T12:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-21",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-21T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -7003,6 +6979,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T13:25:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-24",
           "sala": null,
@@ -7598,6 +7583,15 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-24T16:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T16:15:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
@@ -15361,6 +15355,1592 @@
       ]
     },
     {
+      "id": "el-final-de-la-calle-oak",
+      "titulo": "El Final de la Calle Oak",
+      "duracion": 99,
+      "clasificacion": "+14",
+      "genero": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015046.jpg",
+      "sinopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
+      "funciones": [
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-21T11:20:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-21",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-21T13:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-21",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-21T13:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-21T13:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-21T13:45:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-21T14:20:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-21",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-21T14:25:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-21",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-21T15:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-21",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-21T15:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-21T15:45:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-21T16:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-21T16:40:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-21T16:50:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-21",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-21T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-21T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-21",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-21T17:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-21T17:55:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-21",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-21T18:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-21T18:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-21T18:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-08-21",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-21T18:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-21T18:55:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-casa-costanera",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-21T19:10:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-21T19:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-21T19:20:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-21T19:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-21T20:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-21",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-21T20:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-21T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-21T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-21",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-21T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-21T20:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-08-21",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-21T20:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-08-21",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-21T20:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-21",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-21T21:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-21T21:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-21T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-21T22:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-21T22:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-21T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-21",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-21T22:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-08-21",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-21T22:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-21",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "DOB",
+          "inicio": "2026-08-21T22:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-22T11:20:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-22",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-22T13:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-22",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-22T13:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-22T13:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-22T13:45:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-22T14:20:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-22",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-22T14:25:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-22",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-22T15:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-22",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-22T15:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-22T15:45:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-22T16:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-22T16:40:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-22T16:50:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-22",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-22T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-22T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-22",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-22T17:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-22T17:55:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-22",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-22T18:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-22T18:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-22T18:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-08-22",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-22T18:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-casa-costanera",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-22T19:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-22T19:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-22T19:20:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-22T19:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-22T20:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-22",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-22T20:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-22T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-22T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-22",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-22T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-22T20:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-08-22",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-22T20:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-08-22",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-22T21:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-22",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-22T21:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-22T21:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-22T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-22T22:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-22T22:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-22T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-22",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-22T22:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-08-22",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-22T22:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-22",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "DOB",
+          "inicio": "2026-08-22T22:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-23T11:20:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-23",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-23T13:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-23",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-23T13:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-23T13:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-23T13:45:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-23T14:20:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-23",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-23T14:25:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-23",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-23T15:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-23",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-23T15:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-23T15:45:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-23T16:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-23T16:40:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-23T16:50:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-23",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-23T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-23T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-23",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-23T17:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-23T17:55:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-23",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-23T18:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-23T18:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-23T18:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-08-23",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-23T18:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-23T18:55:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-casa-costanera",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-23T19:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-23T19:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-23T19:20:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-23T19:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-23T20:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-23",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-23T20:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-23T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-23T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-23",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-23T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-23T20:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-08-23",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-23T20:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-08-23",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-23T21:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-23",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-23T21:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-23T21:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-23T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-23T22:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-23T22:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-23T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-23",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-23T22:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-08-23",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-23T22:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-23",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "DOB",
+          "inicio": "2026-08-23T22:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-24T11:20:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-24",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-24T13:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-24",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-24T13:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T13:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T13:45:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-24T14:20:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-24",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-24T14:25:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-24",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-24T15:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-24",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-24T15:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T15:45:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T16:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-24T16:40:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-24T16:50:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-24",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-24T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T17:15:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-24",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-24T17:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T17:55:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-24",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-24T18:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T18:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-24T18:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-08-24",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-24T18:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-24T18:55:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-casa-costanera",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-24T19:10:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T19:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-24T19:20:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T19:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T20:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-24",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-24T20:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-24",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-24T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-24T20:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-08-24",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-24T20:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-08-24",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-24T21:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-24",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-24T21:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-24T21:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-24T22:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T22:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-24",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-24T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-24",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-24T22:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-08-24",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-24T22:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        }
+      ]
+    },
+    {
       "id": "solo-por-una-noche",
       "titulo": "Sólo por Una Noche",
       "duracion": 102,
@@ -16324,15 +17904,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-23",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-23T19:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/solo-por-una-noche/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-23",
           "sala": null,
@@ -16693,15 +18264,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-24",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-24T19:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/solo-por-una-noche/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-24",
           "sala": null,
@@ -16922,1556 +18484,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-24T22:50:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/solo-por-una-noche"
-        }
-      ]
-    },
-    {
-      "id": "el-final-de-la-calle-oak",
-      "titulo": "El Final de la Calle Oak",
-      "duracion": 99,
-      "clasificacion": "+14",
-      "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015046.jpg",
-      "sinopsis": "Después de que un misterioso fenómeno cósmico arranque Oak Street de su entorno suburbano y transporte a sus habitantes a un lugar desconocido, la familia Platt pronto descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
-      "funciones": [
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-21T11:20:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-21",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-21T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-21",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-21T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-21T13:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-21T13:45:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-21T14:20:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-21",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-21T14:25:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-21",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-21T15:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-21",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-21T15:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-21T15:45:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-21T16:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-21T16:40:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-21T16:50:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-21",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-21T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-21T17:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-21",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-21T17:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-21T17:55:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-21",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-21T18:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-21T18:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-21T18:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-08-21",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-21T18:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-21T18:55:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-casa-costanera",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-21T19:10:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-21T19:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-21T19:20:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-21T19:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-21T20:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-21",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-21T20:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-21T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-21T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-21",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-21T20:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-21T20:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-21",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-21T20:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-21",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-21T21:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-08-21T21:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-21T22:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-21T22:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-21T22:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-21T22:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-21",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-21T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-21",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-21T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-21",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "DOB",
-          "inicio": "2026-08-21T22:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-22T11:20:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-22",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-22T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-22",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-22T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-22T13:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-22T13:45:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-22T14:20:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-22",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-22T14:25:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-22",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-22T15:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-22",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-22T15:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-22T15:45:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-22T16:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-22T16:40:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-22T16:50:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-22",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-22T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-22T17:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-22",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-22T17:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-22T17:55:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-22",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-22T18:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-22T18:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-22T18:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-08-22",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-22T18:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-casa-costanera",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-22T19:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-22T19:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-22T19:20:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-22T19:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-22T20:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-22",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-22T20:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-22T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-22T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-22",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-22T20:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-22T20:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-22",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-22T20:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-22",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-22T21:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-08-22T21:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-22T22:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-22T22:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-22T22:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-22T22:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-22",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-22T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-22",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-22T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-22",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "DOB",
-          "inicio": "2026-08-22T22:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-23T11:20:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-23",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-23T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-23",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-23T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-23T13:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-23T13:45:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-23T14:20:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-23",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-23T14:25:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-23",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-23T15:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-23",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-23T15:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-23T15:45:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-23T16:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-23T16:40:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-23T16:50:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-23",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-23T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-23T17:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-23",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-23T17:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-23T17:55:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-23",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-23T18:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-23T18:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-23T18:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-08-23",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-23T18:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-23T18:55:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-casa-costanera",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-23T19:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-23T19:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-23T19:20:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-23T19:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-23T20:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-23",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-23T20:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-23T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-23T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-23",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-23T20:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-23T20:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-23",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-23T20:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-23",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-23T21:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-08-23T21:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-23T22:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-23T22:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-23T22:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-23T22:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-23",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-23T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-23",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-23T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-23",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "DOB",
-          "inicio": "2026-08-23T22:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-24T11:20:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-24",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-24T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-24",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-24T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-24T13:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-24T13:45:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-24T14:20:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-24",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-24T14:25:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-24",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-24T15:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-24",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-24T15:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-24T15:45:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-24T16:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-24T16:40:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-24T16:50:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-24",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-24T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-24T17:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-24T17:15:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-24",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-24T17:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-24T17:55:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-24",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-24T18:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-24T18:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-24T18:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-08-24",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-24T18:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-24T18:55:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-casa-costanera",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-24T19:10:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-24T19:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-24T19:20:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-24T19:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-24T20:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-24",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-24T20:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-24T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-24T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-24",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-24T20:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-24T20:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-24",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-24T20:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-24",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-24T21:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-08-24T21:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-24T22:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-24T22:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-24T22:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-24",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-24T22:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-24",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-24T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-24",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-24T22:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
         }
       ]
     },
@@ -20841,15 +20853,6 @@
           "url": "https://www.cinemark.cl/pelicula/la-muerte-de-robin-hood/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-21",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-21T20:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-muerte-de-robin-hood/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-21",
           "sala": null,
@@ -21036,15 +21039,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-22",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-22T21:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-muerte-de-robin-hood/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-la-dehesa",
           "dia": "2026-08-22",
           "sala": "Sala Cinemark Portal La Dehesa - 2",
@@ -21222,15 +21216,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-23",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-23T21:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-muerte-de-robin-hood/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-la-dehesa",
           "dia": "2026-08-23",
           "sala": "Sala Cinemark Portal La Dehesa - 2",
@@ -21406,15 +21391,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-24T20:55:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-24",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-24T21:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-muerte-de-robin-hood/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-la-dehesa",
