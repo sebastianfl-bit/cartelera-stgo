@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-24T11:18:51.787Z",
+  "generado": "2026-08-24T16:24:57.251Z",
   "fecha": "2026-08-24",
   "dias": [
     "2026-08-24",
@@ -207,18 +207,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-24",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-24T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-24",
           "sala": null,
@@ -235,18 +223,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-24T12:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-24",
-          "sala": "Sala 2",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-24T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -18117,8 +18093,8 @@
       ]
     },
     {
-      "id": "dia-del-cineclub",
-      "titulo": "Día del cineclub",
+      "id": "dia-del-cineclubismo",
+      "titulo": "Día del cineclubismo",
       "duracion": 0,
       "clasificacion": "S/I",
       "genero": "Cine arte",
