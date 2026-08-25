@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-25T11:19:07.404Z",
+  "generado": "2026-08-25T16:26:08.703Z",
   "fecha": "2026-08-25",
   "dias": [
     "2026-08-25",
@@ -207,18 +207,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-25",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-25T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-25",
           "sala": null,
@@ -235,27 +223,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-25T12:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-25",
-          "sala": "Sala 2",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-25T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-25",
-          "sala": "Sala 7",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-08-25T12:25:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-alto-las-condes",
@@ -11606,15 +11573,6 @@
           "formato": "2D",
           "idioma": "SUB",
           "inicio": "2026-08-27T17:15:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-27T20:50:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
         },
         {
