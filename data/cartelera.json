@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-26T11:20:40.381Z",
+  "generado": "2026-08-26T16:42:16.146Z",
   "fecha": "2026-08-26",
   "dias": [
     "2026-08-26",
@@ -207,30 +207,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-26",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-26T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-26",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-26T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-26",
           "sala": null,
@@ -247,63 +223,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-26T12:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-26",
-          "sala": "Sala 2",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-26T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-26",
-          "sala": "Sala 7",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-08-26T12:25:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-26",
-          "sala": "Sala 8",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-26T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-26",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-26T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-26",
-          "sala": "Sala 7",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-26T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -2173,6 +2092,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T13:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-27",
           "sala": null,
@@ -2272,6 +2200,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T15:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-08-27",
           "sala": null,
@@ -2309,6 +2246,15 @@
         },
         {
           "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T16:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
           "dia": "2026-08-27",
           "sala": null,
           "formato": "2D",
@@ -2416,6 +2362,15 @@
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T18:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-27",
           "sala": null,
@@ -2479,6 +2434,15 @@
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T19:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-27",
           "sala": null,
@@ -2530,6 +2494,15 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-27T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-27T20:30:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
@@ -2585,6 +2558,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-27T21:05:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T21:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cineplanet-cp-alameda",
@@ -2659,6 +2641,15 @@
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T22:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-27",
           "sala": null,
@@ -2693,6 +2684,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-28T12:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T13:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -2785,6 +2785,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T15:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-08-28",
           "sala": null,
@@ -2822,6 +2831,15 @@
         },
         {
           "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T16:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
           "dia": "2026-08-28",
           "sala": null,
           "formato": "2D",
@@ -2929,6 +2947,15 @@
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T18:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-28",
           "sala": null,
@@ -2983,6 +3010,15 @@
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T19:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-28",
           "sala": null,
@@ -3025,6 +3061,15 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-28T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-28T20:30:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
@@ -3082,6 +3127,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T21:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-08-28",
           "sala": null,
@@ -3137,6 +3191,15 @@
         },
         {
           "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T22:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
           "dia": "2026-08-28",
           "sala": null,
           "formato": "2D",
@@ -3596,15 +3659,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015308.jpg",
       "sinopsis": "Gemma, una joven madre que cría a su hija en la casa en la que creció, descubre que puede viajar a The Further, donde posee la capacidad de traer lo que allí vive de vuelta al mundo real.",
       "funciones": [
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-26",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-26T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
-        },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-26",
@@ -4473,6 +4527,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T13:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-27",
           "sala": null,
@@ -4506,6 +4569,15 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-27T15:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T15:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
         },
         {
@@ -4572,6 +4644,15 @@
           "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T18:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
+        },
+        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-08-27",
           "sala": null,
@@ -4635,6 +4716,24 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T20:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-27T21:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
+        },
+        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-08-27",
           "sala": null,
@@ -4689,6 +4788,15 @@
           "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-27T22:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-28",
           "sala": null,
@@ -4696,6 +4804,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-28T12:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T13:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -4731,6 +4848,15 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-28T15:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T15:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
         },
         {
@@ -4797,6 +4923,15 @@
           "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T18:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
+        },
+        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-08-28",
           "sala": null,
@@ -4860,6 +4995,24 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T20:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-28T21:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
+        },
+        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-08-28",
           "sala": null,
@@ -4911,6 +5064,15 @@
           "formato": "PRIME",
           "idioma": "SUB",
           "inicio": "2026-08-28T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-28T22:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
         },
         {
@@ -5654,6 +5816,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-08-27",
           "sala": null,
@@ -5724,6 +5895,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-27T16:45:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T17:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -5816,6 +5996,15 @@
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-27T20:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-27",
           "sala": null,
@@ -5879,6 +6068,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-08-28",
           "sala": null,
@@ -5940,6 +6138,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-28T16:45:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T17:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -6036,6 +6243,15 @@
           "dia": "2026-08-28",
           "sala": null,
           "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-28T20:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
           "idioma": "SUB",
           "inicio": "2026-08-28T20:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
@@ -6790,6 +7006,15 @@
           "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T15:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-27",
           "sala": null,
@@ -6817,6 +7042,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T17:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-27",
           "sala": null,
@@ -6833,6 +7067,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-27T18:45:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T20:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -6868,6 +7111,15 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-27T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T22:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
         },
         {
@@ -6916,6 +7168,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T15:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-28",
           "sala": null,
@@ -6943,6 +7204,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T17:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-28",
           "sala": null,
@@ -6950,6 +7220,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-28T18:45:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T20:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -6994,6 +7273,15 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-28T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T22:20:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
         },
         {
@@ -7094,6 +7382,1243 @@
           "idioma": "DOB",
           "inicio": "2026-08-29T22:40:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        }
+      ]
+    },
+    {
+      "id": "papi-ricky-la-pelicula",
+      "titulo": "Papi Ricky: la Película",
+      "duracion": 104,
+      "clasificacion": "TE +7",
+      "genero": "COMEDIA",
+      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001900?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "sinopsis": "La película retoma la historia de Alicia, quien vuelve a Chile para presentar a su futuro esposo, un joven español hípster y excéntrico que representa la modernidad. Sin embargo, su llegada provoca un\r\nverdadero terremoto familiar: el choque con el conservador Papi Ricky y la irreverente Catrala hará que ambos padres dejen atrás antiguas diferencias para unirse en un objetivo común: impedir la boda de su hija.",
+      "funciones": [
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T13:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T13:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T14:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T14:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T14:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T14:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T15:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T15:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T15:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T16:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T17:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T17:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T18:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T19:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T19:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T19:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T20:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T20:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T20:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T21:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T21:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T21:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T21:45:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T13:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T13:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T13:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T14:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T14:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T14:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T14:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T15:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T15:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T15:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T16:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T17:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T17:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T18:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T19:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T19:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T19:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T19:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T20:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T20:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T20:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T21:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T21:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T21:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T21:45:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T22:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T14:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T19:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T21:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        }
+      ]
+    },
+    {
+      "id": "coyote-vs-acme",
+      "titulo": "Coyote Vs Acme",
+      "duracion": 103,
+      "clasificacion": "TE",
+      "genero": "FAMILIAR",
+      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001852?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "sinopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
+      "funciones": [
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T13:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T13:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T13:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T13:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T14:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T14:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T15:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T16:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T16:15:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T16:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T16:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T16:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T17:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T17:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T17:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T18:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T18:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-27T18:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T18:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-27T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T19:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T20:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-27T20:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-27T20:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T21:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-27T21:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T21:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T22:35:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T13:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T13:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T13:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T13:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T14:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T14:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T15:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T16:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T16:15:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T16:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T16:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T16:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T17:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T17:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T17:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T17:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T18:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T18:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-28T18:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T18:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-28T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T19:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T20:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-28T20:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-28T20:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T21:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-28T21:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T21:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-28T22:35:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T13:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T16:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T18:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-29T20:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
         }
       ]
     },
@@ -7586,476 +9111,6 @@
       ]
     },
     {
-      "id": "papi-ricky-la-pelicula",
-      "titulo": "Papi Ricky: la Película",
-      "duracion": 104,
-      "clasificacion": "TE +7",
-      "genero": "COMEDIA",
-      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001900?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "sinopsis": "La película retoma la historia de Alicia, quien vuelve a Chile para presentar a su futuro esposo, un joven español hípster y excéntrico que representa la modernidad. Sin embargo, su llegada provoca un\r\nverdadero terremoto familiar: el choque con el conservador Papi Ricky y la irreverente Catrala hará que ambos padres dejen atrás antiguas diferencias para unirse en un objetivo común: impedir la boda de su hija.",
-      "funciones": [
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T13:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T13:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T14:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T14:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T14:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T15:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T15:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T17:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T17:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T17:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T17:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T18:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T19:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T19:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T19:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T19:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T20:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T20:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T20:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T21:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T21:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T21:45:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T22:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T13:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T13:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T13:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T14:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T14:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T14:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T15:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T15:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T17:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T17:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T17:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T17:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T18:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T19:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T19:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T19:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T19:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T20:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T20:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T20:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T21:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T21:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T21:45:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T22:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T14:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T17:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T19:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T21:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        }
-      ]
-    },
-    {
       "id": "paw-patrol-la-dino-pelicula",
       "titulo": "Paw Patrol: la Dino Película",
       "duracion": 88,
@@ -8072,15 +9127,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-26T11:50:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-26",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-26T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -8359,6 +9405,15 @@
           "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T13:15:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-27",
           "sala": null,
@@ -8401,6 +9456,15 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-28T13:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T13:15:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
         },
         {
@@ -8510,449 +9574,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-29T16:45:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        }
-      ]
-    },
-    {
-      "id": "coyote-vs-acme",
-      "titulo": "Coyote Vs Acme",
-      "duracion": 103,
-      "clasificacion": "TE",
-      "genero": "FAMILIAR",
-      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001852?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "sinopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
-      "funciones": [
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T13:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T13:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T13:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T14:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T14:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T15:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T16:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T16:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T16:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T16:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T17:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T17:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T18:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T18:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T18:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T19:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-08-27T19:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T20:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-27T20:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T21:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-27T21:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T22:35:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T13:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T13:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T13:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T14:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T14:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T15:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T16:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T16:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T16:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T16:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T17:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T17:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T18:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T18:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T18:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T19:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-08-28T19:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T20:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-28T20:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T21:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-28T21:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-28T22:35:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T16:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T18:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-29T20:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
         }
       ]
     },
@@ -9523,6 +10144,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T13:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-08-27",
           "sala": null,
@@ -9550,6 +10180,24 @@
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T15:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T18:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-27",
           "sala": null,
@@ -9557,6 +10205,15 @@
           "idioma": "DOB",
           "inicio": "2026-08-27T20:35:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T13:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
           "cine": "cineplanet-cp-alameda",
@@ -9583,6 +10240,15 @@
           "formato": "2D",
           "idioma": "SUB",
           "inicio": "2026-08-28T15:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T15:30:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
@@ -9620,6 +10286,332 @@
           "idioma": "DOB",
           "inicio": "2026-08-29T20:35:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        }
+      ]
+    },
+    {
+      "id": "la-guerra-de-los-ultimos",
+      "titulo": "La Guerra de los Últimos",
+      "duracion": 118,
+      "clasificacion": "S/I",
+      "genero": "CIENCIA FICCION",
+      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001869?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "sinopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer. Adaptación de la aclamada novela \"La constelación del perro\", de Peter Heller.",
+      "funciones": [
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T16:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T16:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T16:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "normandie",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-27T17:10:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=illmdhw"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T17:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T18:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T20:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-27T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T21:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T21:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-27T21:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-27T21:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T22:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T16:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T16:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T16:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T17:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T18:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T19:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T20:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-28T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T21:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T21:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-28T21:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-08-28T21:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T22:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T20:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
         }
       ]
     },
@@ -10314,7 +11306,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-28T17:00:00-04:00"
+          "inicio": "2026-08-28T17:00:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=cghnxjf"
         },
         {
           "cine": "cineplanet-cp-quilin",
@@ -10502,260 +11495,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-29T19:00:00-04:00"
-        }
-      ]
-    },
-    {
-      "id": "la-guerra-de-los-ultimos",
-      "titulo": "La Guerra de los Últimos",
-      "duracion": 118,
-      "clasificacion": "S/I",
-      "genero": "CIENCIA FICCION",
-      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001869?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "sinopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer. Adaptación de la aclamada novela \"La constelación del perro\", de Peter Heller.",
-      "funciones": [
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T16:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T16:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "normandie",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-27T17:10:00-04:00"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T17:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T18:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T19:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T20:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-27T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T21:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T21:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-08-27T21:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T22:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-27T22:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T16:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T16:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T17:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T18:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T19:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T20:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-28T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T21:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T21:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-08-28T21:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T22:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-28T22:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T20:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T22:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+          "inicio": "2026-08-29T19:00:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=wa8wn3f"
         }
       ]
     },
@@ -10811,6 +11552,15 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-27T14:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T15:05:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
         },
         {
@@ -11388,6 +12138,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-27T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-muerte-de-robin-hood"
+        },
+        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-28",
           "sala": null,
@@ -11395,6 +12154,15 @@
           "idioma": "SUB",
           "inicio": "2026-08-28T21:25:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-28T22:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-muerte-de-robin-hood"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -11813,122 +12581,6 @@
       ]
     },
     {
-      "id": "tu-corazon-sera-destrozado",
-      "titulo": "Tu Corazón Será Destrozado",
-      "duracion": 135,
-      "clasificacion": "+14",
-      "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015040.jpg",
-      "sinopsis": "Polina llega a un nuevo colegio intentando pasar desapercibida, pero rápidamente se convierte en el blanco de los abusos de sus compañeros. Cuando el chico más temido del colegio interviene, ella acepta un trato inesperado: él fingirá ser su novio para protegerla, pero ella deberá seguir todas sus reglas. Lo que comienza como un acuerdo frío termina convirtiéndose en una relación intensa donde los sentimientos reales comienzan a aparecer… y donde cualquier error puede terminar rompiendo un corazón.",
-      "funciones": [
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-26",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-26T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/tu-corazon-sera-destrozado/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-26",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-26T15:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/tu-corazon-sera-destrozado"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-26",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-26T16:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/tu-corazon-sera-destrozado"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-08-26",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-26T17:00:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-26",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-26T17:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/tu-corazon-sera-destrozado"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-26",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-26T18:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/tu-corazon-sera-destrozado/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-26",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-26T18:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/tu-corazon-sera-destrozado/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-26",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-26T18:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/tu-corazon-sera-destrozado"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-26",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-26T18:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/tu-corazon-sera-destrozado"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-08-26",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-26T21:30:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-08-26",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-26T22:20:00-04:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        }
-      ]
-    },
-    {
       "id": "mi-vecino-totoro-1988---ghibli-fest-2026",
       "titulo": "Mi Vecino Totoro [1988] - Ghibli Fest 2026",
       "duracion": 87,
@@ -12036,6 +12688,110 @@
       ]
     },
     {
+      "id": "tu-corazon-sera-destrozado",
+      "titulo": "Tu Corazón Será Destrozado",
+      "duracion": 135,
+      "clasificacion": "+14",
+      "genero": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015040.jpg",
+      "sinopsis": "Polina llega a un nuevo colegio intentando pasar desapercibida, pero rápidamente se convierte en el blanco de los abusos de sus compañeros. Cuando el chico más temido del colegio interviene, ella acepta un trato inesperado: él fingirá ser su novio para protegerla, pero ella deberá seguir todas sus reglas. Lo que comienza como un acuerdo frío termina convirtiéndose en una relación intensa donde los sentimientos reales comienzan a aparecer… y donde cualquier error puede terminar rompiendo un corazón.",
+      "funciones": [
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-26",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-26T15:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/tu-corazon-sera-destrozado"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-26",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-26T16:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/tu-corazon-sera-destrozado"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-08-26",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-26T17:00:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-26",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-26T17:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/tu-corazon-sera-destrozado"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-26",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-26T18:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/tu-corazon-sera-destrozado/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-26",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-26T18:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/tu-corazon-sera-destrozado/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-26",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-26T18:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/tu-corazon-sera-destrozado"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-26",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-26T18:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/tu-corazon-sera-destrozado"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-08-26",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-26T21:30:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-08-26",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-26T22:20:00-04:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        }
+      ]
+    },
+    {
       "id": "moana",
       "titulo": "Moana",
       "duracion": 115,
@@ -12044,15 +12800,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015171.jpg",
       "sinopsis": "Moana (Catherine Lagaʻaia) responde al llamado del Océano y, por primera vez, se aventura más allá del arrecife de su isla de Motunui junto al infame semidiós Maui (Dwayne Johnson) en un viaje inolvidable para restaurar la prosperidad de su pueblo.",
       "funciones": [
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-26",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-26T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
         {
           "cine": "cinemark-mallplaza-vespucio",
           "dia": "2026-08-26",
@@ -12093,6 +12840,24 @@
           "formato": "2D",
           "idioma": "DOB",
           "inicio": "2026-08-26T16:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/moana"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-27T12:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/moana"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-28T12:50:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/moana"
         },
         {
@@ -12362,7 +13127,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-27T15:00:00-04:00"
+          "inicio": "2026-08-27T15:00:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=ob72550a97000b4b863a6d94fea75fff66598bbf"
         }
       ]
     },
@@ -12381,7 +13147,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-27T19:30:00-04:00"
+          "inicio": "2026-08-27T19:30:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=z6e6157cd7eb7f2294bac0168e47a302face292a"
         }
       ]
     },
@@ -12400,7 +13167,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-28T15:00:00-04:00"
+          "inicio": "2026-08-28T15:00:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=2hwxiro"
         }
       ]
     },
@@ -12419,7 +13187,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-28T19:30:00-04:00"
+          "inicio": "2026-08-28T19:30:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=o980e843ada7364014621719f897e32bc4fbfeaa"
         }
       ]
     },
@@ -12438,7 +13207,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-29T15:00:00-04:00"
+          "inicio": "2026-08-29T15:00:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=voqwp7l"
         }
       ]
     },
@@ -12457,7 +13227,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-29T16:45:00-04:00"
+          "inicio": "2026-08-29T16:45:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=apeyc9b"
         }
       ]
     },
@@ -12476,7 +13247,8 @@
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-08-29T21:10:00-04:00"
+          "inicio": "2026-08-29T21:10:00-04:00",
+          "url": "https://www.flow.cl/btn.php?token=e6378b4bacae1b8ad05f4bbaf2f7c296bef24779"
         }
       ]
     },
