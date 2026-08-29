@@ -1,5 +1,5 @@
 {
-  "generado": "2026-08-29T15:23:10.355Z",
+  "generado": "2026-08-29T19:01:25.025Z",
   "fecha": "2026-08-29",
   "dias": [
     "2026-08-29",
@@ -234,81 +234,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-29",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-29",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-29",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-29",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-08-29",
-          "sala": "Sala 3",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-29",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T12:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-29",
           "sala": null,
@@ -327,15 +252,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-29",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-29",
           "sala": null,
@@ -343,87 +259,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-29T12:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-29",
-          "sala": "Sala 7",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-29",
-          "sala": "Sala 7",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:25:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-29",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-29",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-29",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-29",
-          "sala": "Sala 14",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-29",
-          "sala": "Sala 7",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -435,36 +270,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-08-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-29",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
-        },
-        {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-08-29",
           "sala": null,
@@ -472,27 +277,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-29T13:00:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-29",
-          "sala": "Sala Cinemark Portal La Dehesa - 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -513,18 +297,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-29",
-          "sala": "Sala 2",
-          "formato": "3D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-29",
           "sala": null,
@@ -543,36 +315,6 @@
           "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-08-29",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-29",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-29",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
           "dia": "2026-08-29",
           "sala": null,
@@ -580,39 +322,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-29T14:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-29",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-29",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-29",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-independencia",
@@ -719,8 +428,8 @@
         {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-08-29",
-          "sala": "Sala 4",
-          "formato": "2D",
+          "sala": "Sala 7",
+          "formato": "3D",
           "idioma": "S/I",
           "inicio": "2026-08-29T15:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
@@ -728,8 +437,8 @@
         {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-08-29",
-          "sala": "Sala 7",
-          "formato": "3D",
+          "sala": "Sala 4",
+          "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-08-29T15:30:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
@@ -5897,81 +5606,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T11:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-29",
-          "sala": "Sala Cinemark Portal La Dehesa - 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-08-29",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T12:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T12:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T12:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T12:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-29",
           "sala": null,
@@ -5981,15 +5615,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-29",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-08-29",
           "sala": null,
@@ -5997,60 +5622,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-29T12:45:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-29",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-08-29",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-29",
-          "sala": "Sala 13",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-29",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -6080,33 +5651,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-08-29",
           "sala": null,
@@ -6134,18 +5678,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-29",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-08-29",
           "sala": null,
@@ -6155,15 +5687,6 @@
           "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
         },
         {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-08-29",
           "sala": null,
@@ -6171,27 +5694,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-29T14:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-29",
-          "sala": "Sala Cinemark Portal La Dehesa - 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-08-29",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -9256,24 +8758,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-29",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T11:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-29",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-29",
           "sala": null,
@@ -9290,36 +8774,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-29T12:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T12:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-29",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -9340,42 +8794,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-08-29",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-29",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-29",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
           "dia": "2026-08-29",
           "sala": null,
@@ -9383,15 +8801,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-29T14:10:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-29",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -12231,51 +11640,6 @@
       "sinopsis": "Gemma, una joven madre que cría a su hija en la casa en la que creció, descubre que puede viajar a The Further, donde posee la capacidad de traer lo que allí vive de vuelta al mundo real.",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-29",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T11:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-29",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-29",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-29",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-08-29",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-29",
           "sala": null,
@@ -12285,15 +11649,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-29",
           "sala": null,
@@ -12301,15 +11656,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-29T14:15:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-29",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -12328,33 +11674,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-29T14:40:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-29",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:45:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-29",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-29",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-independencia",
@@ -14492,18 +13811,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-29",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-29",
           "sala": null,
@@ -14522,36 +13829,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-29",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-29",
-          "sala": "Sala 8",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-29",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-08-29",
           "sala": null,
@@ -14559,18 +13836,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-29T14:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/la-odisea"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-29",
-          "sala": "Sala 11",
-          "formato": "IMAX",
-          "atributos": [
-            "IMAX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -14598,18 +13863,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-29T14:10:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-29",
-          "sala": "Sala Cinemark Portal La Dehesa - 5",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -14706,15 +13959,6 @@
           "idioma": "S/I",
           "inicio": "2026-08-29T17:40:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T17:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -16771,27 +16015,6 @@
       "sinopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer. Adaptación de la aclamada novela \"La constelación del perro\", de Peter Heller.",
       "funciones": [
         {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-29",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-guerra-de-los-ultimos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-29",
-          "sala": "Sala Cinemark Portal La Dehesa - 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-guerra-de-los-ultimos/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-08-29",
           "sala": null,
@@ -16799,33 +16022,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-29T12:40:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-29",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-guerra-de-los-ultimos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-29",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-guerra-de-los-ultimos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -16837,15 +16033,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-29",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-guerra-de-los-ultimos/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-08-29",
           "sala": null,
@@ -16853,18 +16040,6 @@
           "idioma": "SUB",
           "inicio": "2026-08-29T14:40:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-29",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T15:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/la-guerra-de-los-ultimos/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-casa-costanera",
@@ -18866,69 +18041,6 @@
           "sala": null,
           "formato": "PRIME",
           "idioma": "DOB",
-          "inicio": "2026-08-29T12:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/juan-gabriel-mi-primer-bellas-artes"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/juan-gabriel-mi-primer-bellas-artes"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/juan-gabriel-mi-primer-bellas-artes"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/juan-gabriel-mi-primer-bellas-artes"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/juan-gabriel-mi-primer-bellas-artes"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/juan-gabriel-mi-primer-bellas-artes"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-29",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T15:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/juan-gabriel-mi-primer-bellas-artes/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
           "inicio": "2026-08-29T15:00:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/juan-gabriel-mi-primer-bellas-artes"
         },
@@ -19748,6 +18860,928 @@
       ]
     },
     {
+      "id": "harry-potter-y-la-piedra-filosofal-2001",
+      "titulo": "Harry Potter y la Piedra Filosofal [2001]",
+      "duracion": 164,
+      "clasificacion": "TE +7",
+      "genero": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015235.jpg",
+      "sinopsis": "El día en que cumple once años, Harry Potter se entera de que es hijo de dos destacados hechiceros, de los que ha heredado poderes mágicos. En la escuela Hogwarts de Magia y Hechicería, donde se educa con otros niños que también tienen poderes especiales, aprenderá todo lo necesario para ser mago.\r\n\r\n",
+      "funciones": [
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-29T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T14:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cinemark-la-dehesa",
+          "dia": "2026-08-29",
+          "sala": "Sala Cinemark Portal La Dehesa - 2",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-29T15:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-08-29",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-29T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-08-29",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-29T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-29",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-29T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-29",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-29T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-29",
+          "sala": "Sala 10",
+          "formato": "XD",
+          "atributos": [
+            "XD",
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-29T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T17:15:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T17:15:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-29T17:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-29",
+          "sala": "Sala 6",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-29T18:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T19:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T20:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-29T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-29T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-08-29",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-29T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-29",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-29T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-29",
+          "sala": "Sala 10",
+          "formato": "XD",
+          "atributos": [
+            "XD",
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-29T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-08-30",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-30T13:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-30",
+          "sala": "Sala 10",
+          "formato": "XD",
+          "atributos": [
+            "XD",
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-30T13:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-30",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-30T13:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-gran-avenida",
+          "dia": "2026-08-30",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-30T14:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-30T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-30T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-30T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-30T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-30T14:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-08-30",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-30T14:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-la-dehesa",
+          "dia": "2026-08-30",
+          "sala": "Sala Cinemark Portal La Dehesa - 2",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-30T15:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-08-30",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-30T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-08-30",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-30T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-30",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-30T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-30",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-30T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-30",
+          "sala": "Sala 10",
+          "formato": "XD",
+          "atributos": [
+            "XD",
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-30T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-30T17:15:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-30T17:15:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-30T17:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-30",
+          "sala": "Sala 6",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-30T18:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-30T19:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-30T20:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-30T20:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-08-30",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-30T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-30",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-30T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-30",
+          "sala": "Sala 10",
+          "formato": "XD",
+          "atributos": [
+            "XD",
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-30T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-08-31",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-31T13:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-31",
+          "sala": "Sala 10",
+          "formato": "XD",
+          "atributos": [
+            "XD",
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-31T13:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-31",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-31T13:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-31",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-31T13:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-31",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-31T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-31",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-31T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-08-31",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-31T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-08-31",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-31T14:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-08-31",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-31T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-08-31",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-31T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-31",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-31T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-08-31",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-31T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-31",
+          "sala": "Sala 10",
+          "formato": "XD",
+          "atributos": [
+            "XD",
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-31T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-31",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-31T17:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-08-31",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-31T17:15:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-31",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-31T17:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-08-31",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-31T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-31",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-31T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-31",
+          "sala": "Sala 10",
+          "formato": "XD",
+          "atributos": [
+            "XD",
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-31T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-08-31",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-08-31T20:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-08-31",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-08-31T20:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-09-01",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-01T13:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-01",
+          "sala": "Sala 10",
+          "formato": "XD",
+          "atributos": [
+            "XD",
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-01T13:10:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-01",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-01T13:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-01",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-01T13:50:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-01",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-01T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-01",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-01T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-01",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-01T14:00:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-09-01",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-01T14:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-09-01",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-01T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-09-01",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-01T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-01",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-01T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-09-01",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-01T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-01",
+          "sala": "Sala 10",
+          "formato": "XD",
+          "atributos": [
+            "XD",
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-01T17:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-01",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-01T17:10:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-01",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-01T17:15:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-01",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-01T17:20:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-09-01",
+          "sala": "Sala 9",
+          "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-01T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-01",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-01T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-01",
+          "sala": "Sala 10",
+          "formato": "XD",
+          "atributos": [
+            "XD",
+            "DBOX"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-01T20:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-01",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-01T20:30:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-01",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-01T20:40:00-04:00",
+          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
+        }
+      ]
+    },
+    {
       "id": "el-final-de-la-calle-oak",
       "titulo": "El Final de la Calle Oak",
       "duracion": 99,
@@ -19764,24 +19798,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-29T11:25:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-final-de-la-calle-oak"
         },
         {
           "cine": "cinepolis-cinepolis-casa-costanera",
@@ -20599,18 +20615,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-29",
-          "sala": "Sala Cinemark Portal La Dehesa - 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T11:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-29",
           "sala": null,
@@ -20618,15 +20622,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-29T11:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-29",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T11:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
@@ -20647,15 +20642,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T12:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-29",
           "sala": null,
@@ -20665,108 +20651,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-08-29",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T12:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T12:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-29",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:45:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-29",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:45:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:05:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:05:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-29",
-          "sala": "Sala Cinemark Portal La Dehesa - 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-29",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-08-29",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-08-29",
           "sala": null,
@@ -20774,15 +20658,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-29T14:30:00-04:00",
           "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-29",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:55:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -21389,833 +21264,6 @@
           "idioma": "S/I",
           "inicio": "2026-09-01T17:05:00-04:00",
           "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        }
-      ]
-    },
-    {
-      "id": "harry-potter-y-la-piedra-filosofal-2001",
-      "titulo": "Harry Potter y la Piedra Filosofal [2001]",
-      "duracion": 164,
-      "clasificacion": "TE +7",
-      "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015235.jpg",
-      "sinopsis": "El día en que cumple once años, Harry Potter se entera de que es hijo de dos destacados hechiceros, de los que ha heredado poderes mágicos. En la escuela Hogwarts de Magia y Hechicería, donde se educa con otros niños que también tienen poderes especiales, aprenderá todo lo necesario para ser mago.\r\n\r\n",
-      "funciones": [
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-29",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-29",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-08-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-08-29",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T14:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-29T14:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T14:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T14:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T14:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-29",
-          "sala": "Sala Cinemark Portal La Dehesa - 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T15:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-29",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-29",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-29",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-29",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T17:15:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T17:15:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-29T17:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-29",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T18:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T19:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T20:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-29T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-29",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T20:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-29",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T20:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-30",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-30T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-30",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-30T13:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-08-30",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-30T14:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-30T14:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-30T14:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-30T14:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-30T14:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-30T14:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-08-30",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-30T14:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-08-30",
-          "sala": "Sala Cinemark Portal La Dehesa - 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-30T15:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-30",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-30T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-30",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-30T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-30",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-30T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-30",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-30T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-30T17:15:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-30T17:15:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-30T17:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-30",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-30T18:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-30T19:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-30T20:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-30T20:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-30",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-30T20:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-30",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-30T20:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-31",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-31T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-31",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-31T13:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-31",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-31T13:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-31",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-31T14:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-31",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-31T14:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-08-31",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-31T14:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-08-31",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-31T14:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-31",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-31T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-31",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-31T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-31",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-31T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-31",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-31T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-31",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-31T17:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-08-31",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-31T17:15:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-31",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-31T17:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-31",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-31T20:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-31",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-31T20:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-31",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-08-31T20:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-31",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-31T20:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-01",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-01T13:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-01",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-01T13:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-01",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-01T13:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-01",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-01T14:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-01",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-01T14:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-01",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-01T14:00:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-01",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-01T14:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-01",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-01T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-01",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-01T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-01",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-01T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-01",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-01T17:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-01",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-01T17:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-01",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-01T17:15:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-01",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-01T17:20:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-01",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-01T20:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-01",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-01T20:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-01",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-01T20:30:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-01",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-01T20:40:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/harry-potter-y-la-piedra-filosofal-2001"
         }
       ]
     },
@@ -22895,51 +21943,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-29T11:30:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-29",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:10:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-08-29",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T12:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-29",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T13:10:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
         },
         {
           "cine": "cineplanet-cp-alameda",
@@ -23997,15 +23000,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-08-29",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/minions-monstruos/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-08-29",
           "sala": null,
@@ -24085,137 +23079,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-01T17:45:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        }
-      ]
-    },
-    {
-      "id": "mi-vecino-totoro-1988---ghibli-fest-2026",
-      "titulo": "Mi Vecino Totoro [1988] - Ghibli Fest 2026",
-      "duracion": 87,
-      "clasificacion": "S/I",
-      "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015252.jpg",
-      "sinopsis": null,
-      "funciones": [
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-29",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-29",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-29T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-29",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T14:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-30",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-30T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-30",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-30T13:00:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-30",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-30T14:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-31",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-31T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-08-31",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-08-31T13:20:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-08-31",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-31T14:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-01",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-01T12:50:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-01",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-01T13:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-01",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-01T14:30:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
         }
       ]
     },
@@ -24422,6 +23285,107 @@
       ]
     },
     {
+      "id": "mi-vecino-totoro-1988---ghibli-fest-2026",
+      "titulo": "Mi Vecino Totoro [1988] - Ghibli Fest 2026",
+      "duracion": 87,
+      "clasificacion": "S/I",
+      "genero": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015252.jpg",
+      "sinopsis": null,
+      "funciones": [
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-30",
+          "sala": "Sala 6",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-30T12:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-08-30",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-30T13:00:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-30",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-30T14:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-08-31",
+          "sala": "Sala 6",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-31T12:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-08-31",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-08-31T13:20:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-08-31",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-08-31T14:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-01",
+          "sala": "Sala 6",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-01T12:50:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-09-01",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-01T13:40:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-01",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-01T14:30:00-04:00",
+          "url": "https://www.cinemark.cl/pelicula/mi-vecino-totoro-1988-ghibli-fest-2026/compra-entradas/entradas"
+        }
+      ]
+    },
+    {
       "id": "moana",
       "titulo": "Moana",
       "duracion": 115,
@@ -24438,27 +23402,6 @@
           "idioma": "DOB",
           "inicio": "2026-08-29T11:40:00-04:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-08-29",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-08-29T12:40:00-04:00",
-          "url": "https://www.cinemark.cl/pelicula/moana/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-08-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-08-29T12:50:00-04:00",
-          "url": "https://www.cineplanet.cl/pelicula/moana"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
