@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-16T15:13:17.352Z",
+  "generado": "2026-09-16T19:13:51.243Z",
   "fecha": "2026-09-16",
   "dias": [
     "2026-09-16",
@@ -198,48 +198,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-16",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T12:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-09-16",
           "sala": null,
@@ -247,60 +205,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-16T13:10:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-16",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 13",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-16",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T13:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T13:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
         },
         {
           "cine": "cinepolis-cinepolis-plaza-egana",
@@ -312,15 +216,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-09-16",
           "sala": null,
@@ -328,60 +223,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-16T13:50:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-16",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-09-16",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-16",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -393,48 +234,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-09-16",
-          "sala": "Sala Cinemark Portal La Dehesa - 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-16",
           "sala": null,
@@ -444,27 +243,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T15:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
           "dia": "2026-09-16",
           "sala": null,
@@ -472,36 +250,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-16T15:00:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T15:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-16",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -531,15 +279,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-16",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-09-16",
           "sala": null,
@@ -547,33 +286,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-16T16:00:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-16",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 13",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -1656,6 +1368,15 @@
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-09-17T20:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-17",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-17T21:00:00-03:00",
           "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
         },
         {
@@ -2966,18 +2687,6 @@
       "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter es ahora un adulto que vive completamente solo, habiéndose borrado voluntariamente de las vidas y recuerdos de aquellos a quienes ama. Lucha contra el crimen en un Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad -un Spider-Man de tiempo completo- pero a medida que las exigencias sobre él se intensifican, la presión desata una sorprendente evolución física que amenaza su existencia, aun cuando un nuevo y extraño patrón de crímenes da lugar a una de las amenazas más poderosas que jamás haya enfrentado.",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T12:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-09-16",
           "sala": null,
@@ -2985,18 +2694,6 @@
           "idioma": "SUB",
           "inicio": "2026-09-16T12:30:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-plaza-egana",
@@ -3008,24 +2705,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T13:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-16",
           "sala": null,
@@ -3035,63 +2714,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-16",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-09-16",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-09-16",
           "sala": null,
@@ -3099,36 +2721,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-16T14:30:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-16",
-          "sala": "Sala 3",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-16",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -3149,28 +2741,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 10",
-          "formato": "XD",
-          "atributos": [
-            "XD",
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T15:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-09-16",
           "sala": null,
@@ -3180,15 +2750,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-16",
           "sala": null,
@@ -3196,30 +2757,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-16T15:10:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-09-16",
-          "sala": "Sala Cinemark Portal La Dehesa - 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -3265,36 +2802,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-16T15:50:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-16",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -3457,19 +2964,6 @@
           "idioma": "SUB",
           "inicio": "2026-09-16T18:00:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 10",
-          "formato": "XD",
-          "atributos": [
-            "XD",
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T18:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -3733,19 +3227,6 @@
           "formato": "3D",
           "atributos": [
             "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T21:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 10",
-          "formato": "XD",
-          "atributos": [
-            "XD",
-            "DBOX"
           ],
           "idioma": "S/I",
           "inicio": "2026-09-16T21:30:00-03:00",
@@ -6678,33 +6159,6 @@
       "sinopsis": "Gemma, una joven madre que cría a su hija en la casa en la que creció, descubre que puede viajar a The Further, donde posee la capacidad de traer lo que allí vive de vuelta al mundo real.",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T13:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:15:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-16",
           "sala": null,
@@ -6712,15 +6166,6 @@
           "idioma": "SUB",
           "inicio": "2026-09-16T14:15:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 14",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -6732,27 +6177,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-16",
-          "sala": "Sala 7",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-09-16",
           "sala": null,
@@ -6760,24 +6184,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-16T14:40:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-16",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -7153,6 +6559,9 @@
           "dia": "2026-09-16",
           "sala": "Sala 7",
           "formato": "2D",
+          "atributos": [
+            "DBOX"
+          ],
           "idioma": "S/I",
           "inicio": "2026-09-16T22:40:00-03:00",
           "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
@@ -8039,60 +7448,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 8",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-09-16",
-          "sala": "Sala Cinemark Portal La Dehesa - 5",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-16",
           "sala": null,
@@ -8109,36 +7464,6 @@
           "idioma": "SUB",
           "inicio": "2026-09-16T14:40:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 11",
-          "formato": "IMAX",
-          "atributos": [
-            "IMAX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T15:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-16T15:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cinepolis-cinepolis-plaza-egana",
@@ -9364,120 +8689,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T12:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hechizo-de-amor-la-magia-continua/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-16T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/hechizo-de-amor-la-magia-continua"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/hechizo-de-amor-la-magia-continua"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/hechizo-de-amor-la-magia-continua"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T13:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/hechizo-de-amor-la-magia-continua"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-16",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hechizo-de-amor-la-magia-continua/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-09-16",
-          "sala": "Sala Cinemark Portal La Dehesa - 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hechizo-de-amor-la-magia-continua/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T13:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/hechizo-de-amor-la-magia-continua"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T13:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/hechizo-de-amor-la-magia-continua"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hechizo-de-amor-la-magia-continua/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/hechizo-de-amor-la-magia-continua"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-16",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hechizo-de-amor-la-magia-continua/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-16",
           "sala": null,
@@ -9512,18 +8723,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-16T15:50:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/hechizo-de-amor-la-magia-continua"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hechizo-de-amor-la-magia-continua/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-independencia",
@@ -10104,7 +9303,7 @@
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
-          "inicio": "2026-09-17T18:20:00-03:00",
+          "inicio": "2026-09-17T18:15:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/hechizo-de-amor-la-magia-continua"
         },
         {
@@ -10653,138 +9852,6 @@
       "sinopsis": "Después de que su jefe multimillonario sea asesinado frente a él, el agente de seguridad Cole Reed es incriminado por el homicidio y queda al borde de la bancarrota e injusticia. Perseguido por fuerzas internacionales, Reed debe limpiar su nombre y descubrir la conspiración detrás del asesinato, en una carrera contra el tiempo con acción intensa en alta mar y entornos corporativos letales.",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-16",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/codigo-venganza/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/codigo-venganza/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/codigo-venganza/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/codigo-venganza/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/codigo-venganza/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-16",
-          "sala": "Sala 7",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/codigo-venganza/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/codigo-venganza/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/codigo-venganza"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-16",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:45:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/codigo-venganza/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-16",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/codigo-venganza/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-09-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/codigo-venganza/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T15:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/codigo-venganza"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T15:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/codigo-venganza"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/codigo-venganza/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-16",
           "sala": null,
@@ -10792,6 +9859,15 @@
           "idioma": "SUB",
           "inicio": "2026-09-16T15:45:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T15:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/codigo-venganza"
         },
         {
           "cine": "cinemark-mallplaza-vespucio",
@@ -10879,6 +9955,15 @@
           "idioma": "S/I",
           "inicio": "2026-09-16T17:40:00-03:00",
           "url": "https://www.cinemark.cl/pelicula/codigo-venganza/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T18:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/codigo-venganza"
         },
         {
           "cine": "cinemark-la-dehesa",
@@ -11052,6 +10137,15 @@
           "url": "https://www.cineplanet.cl/pelicula/codigo-venganza"
         },
         {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-16T20:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/codigo-venganza"
+        },
+        {
           "cine": "cinemark-mallplaza-vespucio",
           "dia": "2026-09-16",
           "sala": "Sala 8",
@@ -11185,6 +10279,15 @@
         },
         {
           "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-16T22:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/codigo-venganza"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
           "dia": "2026-09-16",
           "sala": null,
           "formato": "2D",
@@ -11648,692 +10751,6 @@
       ]
     },
     {
-      "id": "tadeo-el-explorador-y-la-lampara-maravillosa",
-      "titulo": "Tadeo el Explorador y la Lampará Maravillosa",
-      "duracion": 94,
-      "clasificacion": "TE",
-      "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015253.jpg",
-      "sinopsis": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista de un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, lleno de celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde la mítica ciudad perdida de Paititi hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los Cuarenta ladrones. ",
-      "funciones": [
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T12:45:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T12:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T13:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T13:25:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-09-16",
-          "sala": "Sala Cinemark Portal La Dehesa - 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-09-16",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T13:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-16",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-16",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T15:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T15:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T15:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-09-16",
-          "sala": "Sala Cinemark Portal La Dehesa - 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-09-16",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-16",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T16:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T16:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T16:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-16",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T17:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T17:05:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T17:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T17:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T18:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T18:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T18:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T18:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T19:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T19:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-16",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T19:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T20:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T20:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-17T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-17T13:05:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-17T13:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-17T13:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-17",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-17T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-17T14:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-17",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-17T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-17T15:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-17T15:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-17",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-17T16:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-18",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-18T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-18",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-18T14:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-18T15:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-18T15:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-19",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-19T12:05:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-19",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-19T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-19T12:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-19T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-19T13:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-19",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-19T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-19",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-19T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-19",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-19T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-19",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-19T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-19T14:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-19T15:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-19T15:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-19T17:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-19T17:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
-        }
-      ]
-    },
-    {
       "id": "zona-cero",
       "titulo": "Zona Cero",
       "duracion": 123,
@@ -12342,33 +10759,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015162.jpg",
       "sinopsis": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
       "funciones": [
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/zona-cero"
-        },
         {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-16",
@@ -12386,54 +10776,6 @@
           "idioma": "SUB",
           "inicio": "2026-09-16T14:00:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/zona-cero"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/zona-cero"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
@@ -12963,6 +11305,476 @@
       ]
     },
     {
+      "id": "tadeo-el-explorador-y-la-lampara-maravillosa",
+      "titulo": "Tadeo el Explorador y la Lampará Maravillosa",
+      "duracion": 94,
+      "clasificacion": "TE",
+      "genero": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015253.jpg",
+      "sinopsis": "Tadeo y Sara son ahora padres de Olimpia (Oli), una adorable e intrépida niña de dos años. Y Momia no lleva nada bien haber dejado de ser el centro de atención. Mientras están de vacaciones en Londres, Sara sigue la pista de un objeto único: la lámpara maravillosa de Las mil y una noches. Y Momia, lleno de celos, pide un deseo: viajar en el tiempo hasta el momento en que era joven y todos le querían. Tadeo y Sara tienen que unir fuerzas para evitar que Momia cambie el curso de la historia y traer al grupo (Jeff, Belzoni y Ramona incluidos) de vuelta a casa. Esta nueva aventura los llevará a cruzar el Océano Atlántico desde la mítica ciudad perdida de Paititi hasta Grecia, y de allí a lo más profundo de Oriente Medio, hasta la misma cueva de Ali Babá y los Cuarenta ladrones. ",
+      "funciones": [
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T15:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T15:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T15:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-09-16",
+          "sala": "Sala 6",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T16:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-09-16",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T16:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-09-16",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T16:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T16:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T16:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T16:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-09-16",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T17:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-16",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T17:05:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-09-16",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T17:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T17:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T18:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-16",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T18:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T18:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T18:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-09-16",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T19:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T19:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-09-16",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T19:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T20:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T20:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-17T13:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-17T13:05:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-09-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-17T13:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-17T13:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-17",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-17T13:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-17T14:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-17",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-17T14:10:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-09-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-17T15:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-17T15:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-17",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-17T16:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-18",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-18T14:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-18",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-18T14:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-09-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-18T15:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-18T15:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-09-19",
+          "sala": "Sala 6",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-19T12:05:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-09-19",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-19T12:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-19T12:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-09-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-19T13:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-19T13:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-19",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-19T13:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-19",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-19T14:10:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-09-19",
+          "sala": "Sala 6",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-19T14:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-09-19",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-19T14:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-19T14:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-09-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-19T15:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-19T15:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-19T17:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-19T17:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/tadeo-el-explorador-y-la-lampara-maravillosa"
+        }
+      ]
+    },
+    {
       "id": "oasis-don-t-look-back-in-anger",
       "titulo": "Oasis: Don't Look Back In Anger",
       "duracion": 122,
@@ -12971,15 +11783,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015406.jpg",
       "sinopsis": "Vive el meteórico ascenso de Oasis a través de imágenes raras e historias no contadas mientras la banda se reúne para Oasis Live '25, que narra su viaje desde las calles de Manchester hasta el estrellato mundial del rock.",
       "funciones": [
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-16T14:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/oasis-dont-look-back-in-anger"
-        },
         {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-09-16",
@@ -13233,6 +12036,18 @@
           "url": "https://www.cinemark.cl/pelicula/oasis-don-t-look-back-in-anger/compra-entradas/entradas"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-18",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-18T20:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/oasis-don-t-look-back-in-anger/compra-entradas/entradas"
+        },
+        {
           "cine": "cinemark-alto-las-condes",
           "dia": "2026-09-18",
           "sala": "Sala 3",
@@ -13278,6 +12093,18 @@
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-09-19T20:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/oasis-don-t-look-back-in-anger/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-19",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-19T21:00:00-03:00",
           "url": "https://www.cinemark.cl/pelicula/oasis-don-t-look-back-in-anger/compra-entradas/entradas"
         },
         {
@@ -14019,6 +12846,15 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-16",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T22:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-final-de-la-calle-oak/compra-entradas/entradas"
+        },
+        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-09-16",
           "sala": null,
@@ -14482,722 +13318,220 @@
       ]
     },
     {
-      "id": "relajadas-y-muy-peligrosas",
-      "titulo": "Relajadas y Muy Peligrosas",
-      "duracion": 98,
-      "clasificacion": "+14",
+      "id": "transformers-40-aniversario",
+      "titulo": "Transformers: 40 Aniversario",
+      "duracion": 95,
+      "clasificacion": "S/I",
       "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015189.jpg",
-      "sinopsis": "Tres amigas se escapan a un fin de semana de relax total en un spa de lujo... hasta que se les aparece, sin avisar, la amiga más descontrolada del grupo. Entre masajes, tragos y puras malas decisiones, lo que iba a ser una escapada para desconectar se convierte en el caos más divertido del año.",
+      "poster": "https://images.metahub.space/poster/small/tt33219707/img",
+      "sinopsis": "Cuarenta años después de que The Transformers: The Movie le hiciera lo que le hizo a Optimus Prime, la proyección del 40.º aniversario de The Apology Tour trae la película de vuelta a los cines… con cuatro décadas de perspectiva y un muy atrasado “fue culpa nuestra”. Revive el momento en el lugar donde tu mundo cambió para siempre. No se trata de cambiar la historia. Solo de celebrarla, por fin. Porque cuarenta años después, todavía pega como un camión.",
       "funciones": [
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 11",
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-09-17",
+          "sala": null,
           "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/relajadas-y-muy-peligrosas/compra-entradas/entradas"
+          "idioma": "SUB",
+          "inicio": "2026-09-17T12:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-09-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-17T14:10:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-09-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-17T14:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
           "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-09-16",
+          "dia": "2026-09-17",
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
-          "inicio": "2026-09-16T14:10:00-03:00",
+          "inicio": "2026-09-17T15:00:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
-          "dia": "2026-09-16",
+          "dia": "2026-09-17",
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-09-16T14:15:00-03:00",
+          "inicio": "2026-09-17T15:15:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/relajadas-y-muy-peligrosas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/relajadas-y-muy-peligrosas/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-09-16",
+          "dia": "2026-09-17",
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-09-16T16:25:00-03:00",
+          "inicio": "2026-09-17T16:10:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-09-16",
-          "sala": "Sala Cinemark Portal La Dehesa - 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/relajadas-y-muy-peligrosas/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-09-16",
+          "dia": "2026-09-17",
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-09-16T16:50:00-03:00",
+          "inicio": "2026-09-17T17:00:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T17:15:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/relajadas-y-muy-peligrosas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T18:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/relajadas-y-muy-peligrosas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-16T18:35:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T19:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/relajadas-y-muy-peligrosas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-16",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T20:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/relajadas-y-muy-peligrosas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T20:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/relajadas-y-muy-peligrosas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-16T21:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
           "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-09-16",
+          "dia": "2026-09-17",
           "sala": null,
           "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T21:15:00-03:00",
+          "idioma": "SUB",
+          "inicio": "2026-09-17T17:30:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-09-16",
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-09-17",
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-09-16T21:15:00-03:00",
+          "inicio": "2026-09-17T19:35:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-09-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-18T12:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-09-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-18T14:10:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-09-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-18T14:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "dia": "2026-09-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-18T15:15:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-09-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-18T16:10:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
-          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-16T21:40:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T21:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/relajadas-y-muy-peligrosas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-16T22:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-16T22:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/relajadas-y-muy-peligrosas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-casa-costanera",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-16T22:10:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-17T12:40:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-17T12:50:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-09-18",
           "sala": null,
           "formato": "2D",
           "idioma": "SUB",
-          "inicio": "2026-09-18T12:40:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        }
-      ]
-    },
-    {
-      "id": "papi-ricky-la-pelicula",
-      "titulo": "Papi Ricky, la Película",
-      "duracion": 100,
-      "clasificacion": "TE +7",
-      "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015289.jpg",
-      "sinopsis": "La película retoma la historia de Alicia, quien vuelve a Chile para presentar a su futuro esposo, un joven español hípster y excéntrico que representa la modernidad. Sin embargo, su llegada provoca un\r\nverdadero terremoto familiar: el choque con el conservador Papi Ricky y la irreverente Catrala hará que ambos padres dejen atrás antiguas diferencias para unirse en un objetivo común: impedir la boda de su hija.",
-      "funciones": [
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T12:55:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-09-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T13:05:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-16",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T15:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:05:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T16:15:00-03:00",
+          "inicio": "2026-09-18T17:00:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T16:15:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-16",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T16:45:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T18:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T19:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-17T13:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-17T16:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-17T16:45:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-17",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-17T16:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
+          "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-09-18",
           "sala": null,
           "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-18T14:40:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-18",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-18T15:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-18T16:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-18T16:45:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-19T14:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-19T16:45:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-19",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-19T16:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
-        }
-      ]
-    },
-    {
-      "id": "paw-patrol-la-dino-pelicula",
-      "titulo": "Paw Patrol: la Dino Película",
-      "duracion": 88,
-      "clasificacion": "TE",
-      "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015191.jpg",
-      "sinopsis": "Después de que su barco quedara atrapado en una misteriosa tormenta, los cachorros de la Patrulla Canina aterrizan de emergencia en una isla tropical inexplorada llena de dinosaurios. Allí conocen a Rex, un cachorro que lleva años abandonado en la isla y se ha convertido en un experto en todo lo relacionado con los dinosaurios. Cuando el archienemigo de la Patrulla Canina, el alcalde Humdinger, comienza a explotar minas de forma imprudente con la esperanza de saquear los recursos naturales de la isla, provoca sin querer la erupción de un enorme volcán inactivo. Los cachorros de la Patrulla Canina se ven envueltos en una serie de rescates de alto riesgo y a escala de dinosaurio, más grandes que cualquier cosa que hayan hecho antes, ya que deben detener a Humdinger antes de que todo en la isla se extinga.",
-      "funciones": [
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-16",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-16",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:20:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T18:45:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-17",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-17T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-17",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-17T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-17",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-17T16:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-17T17:20:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-17",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-17T19:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-17",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-17T21:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-18",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-18T13:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-18",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-18T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-18",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-18T15:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-18T17:20:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-18",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
+          "idioma": "SUB",
           "inicio": "2026-09-18T17:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
+          "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-18",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-18T19:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-19",
           "sala": null,
           "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-19T12:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-19",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-19T13:15:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-19",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-19T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-19",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-19T16:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+          "idioma": "SUB",
+          "inicio": "2026-09-18T19:40:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-19",
           "sala": null,
           "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-19T17:20:00-03:00",
+          "idioma": "SUB",
+          "inicio": "2026-09-19T14:10:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
+          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-09-19",
-          "sala": "Sala 2",
+          "sala": null,
           "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-19T19:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+          "idioma": "SUB",
+          "inicio": "2026-09-19T15:15:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
           "dia": "2026-09-19",
-          "sala": "Sala 2",
+          "sala": null,
           "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-19T21:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+          "idioma": "SUB",
+          "inicio": "2026-09-19T16:10:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-09-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-19T17:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-09-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-19T17:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-09-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-19T19:40:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         }
       ]
     },
@@ -15210,15 +13544,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015383.jpg",
       "sinopsis": null,
       "funciones": [
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-16",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T16:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/one-piece-la-pelicula-2000/compra-entradas/entradas"
-        },
         {
           "cine": "cinemark-alto-las-condes",
           "dia": "2026-09-16",
@@ -15438,6 +13763,433 @@
       ]
     },
     {
+      "id": "relajadas-y-muy-peligrosas",
+      "titulo": "Relajadas y Muy Peligrosas",
+      "duracion": 98,
+      "clasificacion": "+14",
+      "genero": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015189.jpg",
+      "sinopsis": "Tres amigas se escapan a un fin de semana de relax total en un spa de lujo... hasta que se les aparece, sin avisar, la amiga más descontrolada del grupo. Entre masajes, tragos y puras malas decisiones, lo que iba a ser una escapada para desconectar se convierte en el caos más divertido del año.",
+      "funciones": [
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T14:10:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-16T14:15:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-16T16:25:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-la-dehesa",
+          "dia": "2026-09-16",
+          "sala": "Sala Cinemark Portal La Dehesa - 1",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-16T16:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/relajadas-y-muy-peligrosas/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-16T16:50:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T17:15:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/relajadas-y-muy-peligrosas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-16",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-16T18:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/relajadas-y-muy-peligrosas/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-16T18:35:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-16",
+          "sala": "Sala 1",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T19:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/relajadas-y-muy-peligrosas/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-09-16",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T20:10:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/relajadas-y-muy-peligrosas/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-16",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-16T20:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/relajadas-y-muy-peligrosas/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-16T21:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T21:15:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-16T21:15:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-16T21:40:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-09-16",
+          "sala": "Sala 11",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T21:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/relajadas-y-muy-peligrosas/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-16T22:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-16T22:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/relajadas-y-muy-peligrosas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-casa-costanera",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-16T22:10:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-09-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-17T12:40:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-09-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-17T12:50:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-09-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-18T12:40:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        }
+      ]
+    },
+    {
+      "id": "paw-patrol-la-dino-pelicula",
+      "titulo": "Paw Patrol: la Dino Película",
+      "duracion": 88,
+      "clasificacion": "TE",
+      "genero": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015191.jpg",
+      "sinopsis": "Después de que su barco quedara atrapado en una misteriosa tormenta, los cachorros de la Patrulla Canina aterrizan de emergencia en una isla tropical inexplorada llena de dinosaurios. Allí conocen a Rex, un cachorro que lleva años abandonado en la isla y se ha convertido en un experto en todo lo relacionado con los dinosaurios. Cuando el archienemigo de la Patrulla Canina, el alcalde Humdinger, comienza a explotar minas de forma imprudente con la esperanza de saquear los recursos naturales de la isla, provoca sin querer la erupción de un enorme volcán inactivo. Los cachorros de la Patrulla Canina se ven envueltos en una serie de rescates de alto riesgo y a escala de dinosaurio, más grandes que cualquier cosa que hayan hecho antes, ya que deben detener a Humdinger antes de que todo en la isla se extinga.",
+      "funciones": [
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T14:20:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-16",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T16:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-16",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T18:45:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-17",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-17T14:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-09-17",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-17T14:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-17",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-17T16:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-09-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-17T17:20:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-17",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-17T19:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-17",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-17T21:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-09-18",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-18T13:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-18",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-18T15:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-09-18",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-18T15:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-09-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-18T17:20:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-18",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-18T17:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-18",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-18T19:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-09-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-19T12:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/paw-patrol-la-dino-pelcula"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-09-19",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-19T13:15:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-19",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-19T14:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-19",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-19T16:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-09-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-19T17:20:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-19",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-19T19:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-19",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-19T21:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        }
+      ]
+    },
+    {
       "id": "one-piece-la-pelicula",
       "titulo": "One Piece: la Película",
       "duracion": 57,
@@ -15463,15 +14215,6 @@
           "idioma": "SUB",
           "inicio": "2026-09-16T14:00:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/one-piece-la-pelcula"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -15656,220 +14399,175 @@
       ]
     },
     {
-      "id": "transformers-40-aniversario",
-      "titulo": "Transformers: 40 Aniversario",
-      "duracion": 95,
-      "clasificacion": "S/I",
+      "id": "papi-ricky-la-pelicula",
+      "titulo": "Papi Ricky, la Película",
+      "duracion": 100,
+      "clasificacion": "TE +7",
       "genero": null,
-      "poster": "https://images.metahub.space/poster/small/tt33219707/img",
-      "sinopsis": "Cuarenta años después de que The Transformers: The Movie le hiciera lo que le hizo a Optimus Prime, la proyección del 40.º aniversario de The Apology Tour trae la película de vuelta a los cines… con cuatro décadas de perspectiva y un muy atrasado “fue culpa nuestra”. Revive el momento en el lugar donde tu mundo cambió para siempre. No se trata de cambiar la historia. Solo de celebrarla, por fin. Porque cuarenta años después, todavía pega como un camión.",
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015289.jpg",
+      "sinopsis": "La película retoma la historia de Alicia, quien vuelve a Chile para presentar a su futuro esposo, un joven español hípster y excéntrico que representa la modernidad. Sin embargo, su llegada provoca un\r\nverdadero terremoto familiar: el choque con el conservador Papi Ricky y la irreverente Catrala hará que ambos padres dejen atrás antiguas diferencias para unirse en un objetivo común: impedir la boda de su hija.",
       "funciones": [
         {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-17T12:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-17",
+          "dia": "2026-09-16",
           "sala": null,
           "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-17T14:10:00-03:00",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T12:55:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-09-17",
+          "dia": "2026-09-16",
           "sala": null,
           "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-17T14:30:00-03:00",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T16:15:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinepolis-cinepolis-plaza-egana",
+          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T16:15:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-09-16",
+          "sala": "Sala 6",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T16:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T16:45:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-09-16",
+          "sala": "Sala 6",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T18:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T19:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-17",
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
-          "inicio": "2026-09-17T15:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+          "inicio": "2026-09-17T13:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "cine": "cineplanet-cp-florida",
           "dia": "2026-09-17",
           "sala": null,
           "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-17T15:15:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-17T16:10:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-17T17:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-17T17:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+          "idioma": "DOB",
+          "inicio": "2026-09-17T16:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-17",
           "sala": null,
           "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-17T19:35:00-03:00",
+          "idioma": "DOB",
+          "inicio": "2026-09-17T16:45:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-09-18",
-          "sala": null,
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-09-17",
+          "sala": "Sala 6",
           "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-18T12:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+          "idioma": "S/I",
+          "inicio": "2026-09-17T16:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-18",
           "sala": null,
           "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-18T14:10:00-03:00",
+          "idioma": "DOB",
+          "inicio": "2026-09-18T14:40:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinepolis-cinepolis-parque-arauco",
+          "cine": "cinemark-alto-las-condes",
           "dia": "2026-09-18",
-          "sala": null,
+          "sala": "Sala 6",
           "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-18T14:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+          "idioma": "S/I",
+          "inicio": "2026-09-18T15:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
         },
         {
-          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "cine": "cineplanet-cp-florida",
           "dia": "2026-09-18",
           "sala": null,
           "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-18T15:15:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-09-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-18T16:10:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-09-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-18T17:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-09-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-18T17:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+          "idioma": "DOB",
+          "inicio": "2026-09-18T16:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-18",
           "sala": null,
           "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-18T19:40:00-03:00",
+          "idioma": "DOB",
+          "inicio": "2026-09-18T16:45:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-09-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-19T14:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/papi-ricky-la-pelcula"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-19",
           "sala": null,
           "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-19T14:10:00-03:00",
+          "idioma": "DOB",
+          "inicio": "2026-09-19T16:45:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "cine": "cinemark-alto-las-condes",
           "dia": "2026-09-19",
-          "sala": null,
+          "sala": "Sala 6",
           "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-19T15:15:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-09-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-19T16:10:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-09-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-19T17:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-09-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-19T17:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-19T19:40:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+          "idioma": "S/I",
+          "inicio": "2026-09-19T16:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
         }
       ]
     },
@@ -16034,143 +14732,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-19T20:45:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        }
-      ]
-    },
-    {
-      "id": "toy-story-5",
-      "titulo": "Toy Story 5",
-      "duracion": 102,
-      "clasificacion": "TE",
-      "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00014889.jpg",
-      "sinopsis": "Los juguetes están de vuelta. Esta vez, Buzz Lightyear, Woody, Jessie y el resto de la pandilla se enfrentan a un nuevo reto cuando conocen a Lilypad, una nueva tablet que llega con sus propias ideas disruptivas sobre lo que es mejor para Bonnie. ¿Volverá a ser lo mismo la hora de jugar?",
-      "funciones": [
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T12:20:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T13:05:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T14:15:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T15:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-16",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T21:15:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-17",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-17T12:35:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-17T14:20:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-17",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-17T15:05:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-18T14:20:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-18",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-18T15:05:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-19",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-19T12:35:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-19T12:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-19T14:20:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-19",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-19T15:05:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         }
       ]
     },
@@ -16410,67 +14971,112 @@
       ]
     },
     {
-      "id": "la-guerra-de-los-ultimos",
-      "titulo": "La Guerra de los Últimos",
-      "duracion": 118,
-      "clasificacion": "+14",
+      "id": "toy-story-5",
+      "titulo": "Toy Story 5",
+      "duracion": 102,
+      "clasificacion": "TE",
       "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015192.jpg",
-      "sinopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer. Adaptación de la aclamada novela \"La constelación del perro\", de Peter Heller.",
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00014966.jpg",
+      "sinopsis": "Los juguetes están de vuelta. Esta vez, Buzz Lightyear, Woody, Jessie y el resto de la pandilla se enfrentan a un nuevo reto cuando conocen a Lilypad, una nueva tablet que llega con sus propias ideas disruptivas sobre lo que es mejor para Bonnie. ¿Volverá a ser lo mismo la hora de jugar?",
       "funciones": [
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-16T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-guerra-de-los-ultimos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
+          "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-09-16",
           "sala": null,
           "formato": "2D",
           "idioma": "DOB",
-          "inicio": "2026-09-16T20:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+          "inicio": "2026-09-16T12:20:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-16",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T21:15:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-17",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-17T12:35:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-16",
+          "dia": "2026-09-17",
           "sala": null,
           "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-16T21:15:00-03:00",
+          "idioma": "DOB",
+          "inicio": "2026-09-17T14:20:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-16",
-          "sala": "Sala 3",
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-17",
+          "sala": "Sala 8",
           "formato": "2D",
           "idioma": "S/I",
-          "inicio": "2026-09-16T21:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-guerra-de-los-ultimos/compra-entradas/entradas"
+          "inicio": "2026-09-17T15:05:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-alto-las-condes",
+          "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-18",
-          "sala": "Sala 11",
+          "sala": null,
           "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-18T20:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-guerra-de-los-ultimos/compra-entradas/entradas"
+          "idioma": "DOB",
+          "inicio": "2026-09-18T14:20:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-19",
-          "sala": "Sala 5",
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-18",
+          "sala": "Sala 8",
           "formato": "2D",
           "idioma": "S/I",
-          "inicio": "2026-09-19T21:25:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-guerra-de-los-ultimos/compra-entradas/entradas"
+          "inicio": "2026-09-18T15:05:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-19",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-19T12:35:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-09-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-19T12:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/toy-story-5"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-09-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-19T14:20:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-19",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-19T15:05:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         }
       ]
     },
@@ -16536,6 +15142,62 @@
           "idioma": "DOB",
           "inicio": "2026-09-19T17:25:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        }
+      ]
+    },
+    {
+      "id": "la-guerra-de-los-ultimos",
+      "titulo": "La Guerra de los Últimos",
+      "duracion": 118,
+      "clasificacion": "+14",
+      "genero": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015192.jpg",
+      "sinopsis": "En un mundo postapocalíptico, un virus aniquila a prácticamente toda la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados \"Segadores\". El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer. Adaptación de la aclamada novela \"La constelación del perro\", de Peter Heller.",
+      "funciones": [
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-16T20:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/la-guerra-de-los-ltimos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-09-16",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-16T21:15:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-09-16",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-16T21:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/la-guerra-de-los-ultimos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-09-18",
+          "sala": "Sala 11",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-18T20:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/la-guerra-de-los-ultimos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-09-19",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-19T21:25:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/la-guerra-de-los-ultimos/compra-entradas/entradas"
         }
       ]
     },
@@ -16777,15 +15439,6 @@
       "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001883?referenceScheme=HeadOffice&allowPlaceHolder=true",
       "sinopsis": "*Versión Sing Along* \r\nEl concierto más icónico de México llega a la pantalla grande. A partir del 28 de agosto, con motivo del 10.º aniversario luctuoso de Juan Gabriel, disfruta del histórico primer concierto de Juan Gabriel en el Palacio de Bellas Artes en 1990, una noche que transformó para siempre la música en México. Más de tres décadas después, esta presentación legendaria revive en una nueva reedición especial para cines con imagen y audio restaurados, donde cada interpretación, cada aplauso y cada instante recuperan su esplendor para que nuevas generaciones y admiradores de siempre puedan disfrutar de este acontecimiento con una calidad nunca antes vista. Celebra el legado de Juan Gabriel y revive el espectáculo que marcó un antes y un después en la historia de la música mexicana, ahora como una experiencia cinematográfica única e inolvidable.",
       "funciones": [
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-16",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-16T14:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/juan-gabriel-mi-primer-bellas-artes"
-        },
         {
           "cine": "normandie",
           "dia": "2026-09-16",
