@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-27T15:28:00.214Z",
+  "generado": "2026-09-27T19:25:25.624Z",
   "fecha": "2026-09-27",
   "dias": [
     "2026-09-27",
@@ -234,79 +234,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-27",
-          "sala": "Sala 8",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T12:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 11",
-          "formato": "IMAX",
-          "atributos": [
-            "IMAX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T12:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-27",
-          "sala": "Sala 3",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T12:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-27",
-          "sala": "Sala 7",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T12:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 10",
-          "formato": "XD",
-          "atributos": [
-            "XD",
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T12:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-27",
-          "sala": "Sala 7",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T12:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-09-27",
           "sala": null,
@@ -314,33 +241,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-27T12:50:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "3D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -370,45 +270,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-27",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-27",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "3D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T14:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-27",
           "sala": null,
@@ -416,24 +277,6 @@
           "idioma": "SUB",
           "inicio": "2026-09-27T14:00:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T14:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-27T14:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus"
         },
         {
           "cine": "cinepolis-cinepolis-plaza-egana",
@@ -449,18 +292,9 @@
           "dia": "2026-09-27",
           "sala": null,
           "formato": "2D",
-          "idioma": "DOB",
+          "idioma": "S/I",
           "inicio": "2026-09-27T15:20:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 2",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -481,15 +315,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 7",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-09-27",
           "sala": null,
@@ -497,15 +322,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-27T15:40:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-27",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T16:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -542,18 +358,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-27T16:00:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-09-27",
-          "sala": "Sala Cinemark Portal La Dehesa - 5",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T16:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
@@ -803,15 +607,6 @@
           "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
         },
         {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-09-27T18:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus"
-        },
-        {
           "cine": "cinemark-mallplaza-norte",
           "dia": "2026-09-27",
           "sala": "Sala 2",
@@ -849,6 +644,15 @@
           "idioma": "S/I",
           "inicio": "2026-09-27T18:40:00-03:00",
           "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-27T18:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus"
         },
         {
           "cine": "cineplanet-cp-independencia",
@@ -1255,15 +1059,6 @@
           "idioma": "SUB",
           "inicio": "2026-09-27T21:45:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-27T22:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus"
         },
         {
           "cine": "cinemark-la-dehesa",
@@ -4490,63 +4285,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/resident-evil-noche-cero"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:05:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/resident-evil-noche-cero"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:15:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-09-27",
           "sala": null,
@@ -4556,24 +4294,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-27",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-09-27T13:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/resident-evil-noche-cero"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-27",
           "sala": null,
@@ -4581,84 +4301,6 @@
           "idioma": "SUB",
           "inicio": "2026-09-27T14:10:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 14",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-27",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-27",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-27",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-27",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-09-27",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -4679,57 +4321,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T15:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/resident-evil-noche-cero"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T15:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/resident-evil-noche-cero"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T15:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/resident-evil-noche-cero"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-09-27",
-          "sala": "Sala Cinemark Portal La Dehesa - 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-09-27",
           "sala": null,
@@ -4737,15 +4328,6 @@
           "idioma": "SUB",
           "inicio": "2026-09-27T15:45:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -4764,15 +4346,6 @@
           "idioma": "SUB",
           "inicio": "2026-09-27T16:00:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-27",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T16:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -8584,18 +8157,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-27",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-09-27",
           "sala": null,
@@ -8603,24 +8164,6 @@
           "idioma": "SUB",
           "inicio": "2026-09-27T12:40:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T12:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
@@ -8632,54 +8175,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:35:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-27",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T14:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-09-27",
           "sala": null,
@@ -8687,63 +8182,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-27T14:05:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-27",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-09-27",
-          "sala": "Sala Cinemark Portal La Dehesa - 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-27",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T14:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T14:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
         },
         {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
@@ -8755,15 +8193,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T14:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-27",
           "sala": null,
@@ -8771,15 +8200,6 @@
           "idioma": "SUB",
           "inicio": "2026-09-27T14:45:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T15:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -8791,15 +8211,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
           "dia": "2026-09-27",
           "sala": null,
@@ -8809,15 +8220,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T16:15:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-quilin",
           "dia": "2026-09-27",
           "sala": null,
@@ -8825,18 +8227,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-27T16:20:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T16:25:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-alto-las-condes",
@@ -12053,7 +11443,7 @@
       "duracion": 109,
       "clasificacion": "TE",
       "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015613.jpg",
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015593.jpg",
       "sinopsis": "Vale la pena luchar por la amistad verdadera.\r\nDreamWorks Animation, el estudio que nos trajo los inolvidables vínculos entre un niño y un dragón en Cómo Entrenar A Tu Dragón, entre un ogro y un burro en Shrek, y entre un robot y un gansito en Robot Salvaje, nos presenta ahora una historia deslumbrante y emotiva sobre dos mejores amigas de toda la vida que deben unirse antes de que el tiempo las separe en La Isla Olvidada.\r\nLa nueva película original está escrita y dirigida por Joel Crawford y Januel Mercado, ambos nominados a los Premios de la Academia®, y producida por Mark Swift, también nominado a los Premios de la Academia®, el equipo cinematográfico detrás de Gato con botas: El último deseo.\r\nLa isla olvidada sigue a Jo y Raissa, dos recién graduadas de bachillerato que han sido mejores amigas desde la primaria, pero que ahora están a punto de emprender caminos separados.\r\nMientras celebran su última noche juntas, Jo y Raissa se topan con un misterioso portal que las transporta a la fantástica isla de Nakali, repleta de criaturas mágicas y mitológicas de las que crecieron escuchando historias contadas por sus familias filipinas.\r\nAlgunas de estas figuras se convertirán en amigas, otras en enemigas. Acompañadas por el bienintencionado pero desventurado hombre-perro Raww y una pequeña pero poderosa manada de amigos, Jo y Raissa deben enfrentarse a la temible Manananggal, la criatura más temida de la isla. Cuando descubren que los recuerdos de toda su amistad son el precio a pagar por volver a casa, Jo y Raissa se verán obligadas a encontrar una forma de abandonar la isla antes de olvidarse la una de la otra para siempre.\r\nLa Isla Olvidada, de DreamWorks Animation, es distribuida por Universal Pictures.\r\n",
       "funciones": [
         {
@@ -12120,105 +11510,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T12:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-isla-olvidada"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-27",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-isla-olvidada"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-isla-olvidada"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-isla-olvidada"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-27",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:15:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-isla-olvidada"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-09-27",
           "sala": null,
@@ -12235,15 +11526,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-27T13:15:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -12264,15 +11546,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-isla-olvidada"
-        },
-        {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-09-27",
           "sala": null,
@@ -12280,54 +11553,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-27T13:45:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-09-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-09-27",
-          "sala": "Sala Cinemark Portal La Dehesa - 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T14:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-isla-olvidada"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T14:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-isla-olvidada"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -12339,15 +11564,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T14:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-isla-olvidada"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-09-27",
           "sala": null,
@@ -12355,27 +11571,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-27T14:15:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-27",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:25:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -12396,15 +11591,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T15:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-isla-olvidada"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-27",
           "sala": null,
@@ -12421,51 +11607,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-27T15:00:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:05:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T15:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-isla-olvidada"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -12486,24 +11627,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-27",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-27",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T16:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-09-27",
           "sala": null,
@@ -12513,15 +11636,6 @@
           "url": "https://www.cineplanet.cl/pelicula/la-isla-olvidada"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 12",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T16:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-09-27",
           "sala": null,
@@ -12529,24 +11643,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-27T16:15:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T16:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-09-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T16:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-isla-olvidada/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-independencia",
@@ -15322,7 +14418,7 @@
       "duracion": 103,
       "clasificacion": "TE",
       "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015360.jpg",
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015361.jpg",
       "sinopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
       "funciones": [
         {
@@ -15380,15 +14476,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T11:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-09-27",
           "sala": null,
@@ -15407,45 +14494,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-09-27",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T12:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-09-27",
-          "sala": "Sala Cinemark Portal La Dehesa - 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-09-27",
           "sala": null,
@@ -15455,33 +14503,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-27",
           "sala": null,
@@ -15489,27 +14510,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-27T13:20:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
         },
         {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
@@ -15530,15 +14530,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-27",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-27",
           "sala": null,
@@ -15557,54 +14548,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-27",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-27",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-09-27",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-09-27",
           "sala": null,
@@ -15612,15 +14555,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-27T15:30:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-alameda",
@@ -15675,15 +14609,6 @@
           "idioma": "SUB",
           "inicio": "2026-09-27T16:15:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-27",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T16:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-alto-las-condes",
@@ -15804,6 +14729,15 @@
           "idioma": "DOB",
           "inicio": "2026-09-27T18:25:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-27",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-27T18:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -17518,15 +16452,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
-        },
-        {
           "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
           "dia": "2026-09-27",
           "sala": null,
@@ -17534,63 +16459,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-27T13:30:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T14:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T14:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/spider-man-un-nuevo-dia"
         },
         {
           "cine": "cinepolis-cinepolis-plaza-egana",
@@ -17602,36 +16470,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-09-27",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-27",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-casa-costanera",
           "dia": "2026-09-27",
           "sala": null,
@@ -17641,18 +16479,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-27",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-27",
           "sala": null,
@@ -17660,15 +16486,6 @@
           "idioma": "SUB",
           "inicio": "2026-09-27T15:20:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T16:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -18939,827 +17756,6 @@
       ]
     },
     {
-      "id": "avengers-endgame-bonus-infinity-vision",
-      "titulo": "Avengers Endgame Bonus Infinity Vision",
-      "duracion": 185,
-      "clasificacion": "TE +7",
-      "genero": "ACCION",
-      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001937?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "sinopsis": "El épico final de la Saga del Infinito regresa a las salas de cine como Avengers: Endgame: Bonus el 24 de septiembre de 2026. Después de que unos acontecimientos devastadores acabaran con la mitad de la población mundial, los héroes que quedan luchan por seguir adelante. Finalmente, deben unirse para restablecer el orden y la armonía en el universo y traer de vuelta a sus seres queridos en un dramático enfrentamiento contra Thanos.",
-      "funciones": [
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-27T13:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "3D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-09-27T13:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "3D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T14:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T14:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T15:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T15:35:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "SUB",
-          "inicio": "2026-09-27T16:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-27T16:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "3D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T17:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-09-27T17:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "3D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T17:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T18:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T18:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T19:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "SUB",
-          "inicio": "2026-09-27T20:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-27T20:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T20:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "3D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T21:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-27T21:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-09-27T21:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T22:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "DOB",
-          "inicio": "2026-09-28T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-28T13:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-28T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-09-28T13:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-28T14:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-28T14:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-28T14:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-28T15:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "DOB",
-          "inicio": "2026-09-28T16:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-28T16:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-28T17:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-09-28T17:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-28T17:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-28T18:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-28T18:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-28T19:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "SUB",
-          "inicio": "2026-09-28T20:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-28T20:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-28T20:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-28T21:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-28T21:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-09-28T21:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-28T22:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "DOB",
-          "inicio": "2026-09-29T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-29T13:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-29T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-09-29T13:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-29T14:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-29T14:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-29T14:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-29T15:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "DOB",
-          "inicio": "2026-09-29T16:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-29T16:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-29T17:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-09-29T17:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-29T17:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-29T18:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-29T18:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-29T19:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "SUB",
-          "inicio": "2026-09-29T20:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-29T20:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-29T20:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-29T21:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-09-29T21:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-29T22:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-09-30T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-30T13:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-30T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "DOB",
-          "inicio": "2026-09-30T14:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-30T14:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-30T14:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-30T14:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-30T15:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-30T16:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-09-30T17:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-30T17:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "DOB",
-          "inicio": "2026-09-30T17:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-30T17:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-30T18:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-30T18:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-30T19:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-30T20:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-30T20:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "SUB",
-          "inicio": "2026-09-30T20:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "DOB",
-          "inicio": "2026-09-30T21:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-30T21:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-30T22:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
-        }
-      ]
-    },
-    {
       "id": "la-odisea",
       "titulo": "La Odisea",
       "duracion": 172,
@@ -19796,18 +17792,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-27",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-09-27",
           "sala": null,
@@ -19815,33 +17799,6 @@
           "idioma": "SUB",
           "inicio": "2026-09-27T13:45:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:45:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-27T15:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-odisea"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -20644,6 +18601,764 @@
       ]
     },
     {
+      "id": "avengers-endgame-bonus-infinity-vision",
+      "titulo": "Avengers Endgame Bonus Infinity Vision",
+      "duracion": 185,
+      "clasificacion": "TE +7",
+      "genero": "ACCION",
+      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001937?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "sinopsis": "El épico final de la Saga del Infinito regresa a las salas de cine como Avengers: Endgame: Bonus el 24 de septiembre de 2026. Después de que unos acontecimientos devastadores acabaran con la mitad de la población mundial, los héroes que quedan luchan por seguir adelante. Finalmente, deben unirse para restablecer el orden y la armonía en el universo y traer de vuelta a sus seres queridos en un dramático enfrentamiento contra Thanos.",
+      "funciones": [
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-27T15:35:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-27",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "SUB",
+          "inicio": "2026-09-27T16:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-27T16:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-27",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-09-27T17:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-09-27T17:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-27",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-09-27T17:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-27T18:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-27T18:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-27T19:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-27",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "SUB",
+          "inicio": "2026-09-27T20:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-27T20:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-27T20:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-27",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "DOB",
+          "inicio": "2026-09-27T21:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-27T21:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-27",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-09-27T21:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-27T22:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "DOB",
+          "inicio": "2026-09-28T13:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-28T13:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-28T13:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-09-28T13:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-28T14:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-28T14:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-28T14:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-28T15:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "DOB",
+          "inicio": "2026-09-28T16:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-28T16:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-28T17:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-09-28T17:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-28T17:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-28T18:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-28T18:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-28T19:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "SUB",
+          "inicio": "2026-09-28T20:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-28T20:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-28T20:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-28T21:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-28T21:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-09-28T21:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-28T22:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "DOB",
+          "inicio": "2026-09-29T13:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-29T13:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-29T13:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-09-29T13:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-29T14:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-29T14:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-29T14:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-29T15:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "DOB",
+          "inicio": "2026-09-29T16:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-29T16:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-29T17:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-09-29T17:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-29T17:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-29T18:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-29T18:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-29T19:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "SUB",
+          "inicio": "2026-09-29T20:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-29T20:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-29T20:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-29T21:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-09-29T21:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-29T22:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-09-30T13:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-30T13:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-30T13:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "DOB",
+          "inicio": "2026-09-30T14:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-30T14:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-30T14:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-30T14:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-30T15:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-30T16:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-09-30T17:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-30T17:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "DOB",
+          "inicio": "2026-09-30T17:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-30T17:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-30T18:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-30T18:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-30T19:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-30T20:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-30T20:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "PRIME",
+          "idioma": "SUB",
+          "inicio": "2026-09-30T20:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "DOB",
+          "inicio": "2026-09-30T21:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-30T21:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-09-30T22:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/avengers-endgame-bonus-infinity-vision"
+        }
+      ]
+    },
+    {
       "id": "el-ultimo-gran-golpe",
       "titulo": "El Último Gran Golpe",
       "duracion": 102,
@@ -20653,15 +19368,6 @@
       "sinopsis": "Un poderoso dueño de club nocturno está listo para retirarse del mundo criminal después de años de negocios peligrosos. Pero cuando un violento asalto desencadena una cadena de traiciones, su intento de salir del juego se transforma en una lucha por sobrevivir. Rodeado de enemigos, alianzas frágiles y decisiones imposibles, descubrirá que en este negocio… el último golpe nunca es realmente el último.",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:35:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-ultimo-gran-golpe/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-09-27",
           "sala": null,
@@ -20669,27 +19375,6 @@
           "idioma": "SUB",
           "inicio": "2026-09-27T14:45:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-ultimo-gran-golpe/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T16:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-ultimo-gran-golpe/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
@@ -22043,641 +20728,6 @@
       ]
     },
     {
-      "id": "el-heladero",
-      "titulo": "El Heladero",
-      "duracion": 86,
-      "clasificacion": "S/I",
-      "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015048.jpg",
-      "sinopsis": null,
-      "funciones": [
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:25:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T17:15:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T19:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T19:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-27",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T19:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T20:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T20:25:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T21:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-27",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T22:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T22:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T22:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T22:45:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-28",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-28T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-28",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-28T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-28",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-28T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-28",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-28T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-28",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-28T15:25:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-28",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-28T17:15:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-28",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-28T19:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-28",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-28T19:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-28",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-28T19:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-28",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-28T20:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-28",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-28T20:25:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-28",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-28T21:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-28",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-28T22:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-28",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-28T22:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-28",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-28T22:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-28",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-28T22:45:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-29T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-29",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-29T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-29T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-29T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-29",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-29T15:25:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-29T17:15:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-29T19:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-29T19:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-29",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-29T19:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-29",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-29T20:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-29",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-29T20:25:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-29T21:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-29",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-29T22:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-29T22:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-29",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-29T22:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-29",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-29T22:45:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-30",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-30T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-30",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-30T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-30",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-30T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-30",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-30T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-30",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-30T15:25:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-30",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-30T17:15:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-30",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-30T19:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-30",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-30T19:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-30",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-30T19:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-30",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-30T20:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-30",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-30T20:25:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-09-30",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-30T21:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-30",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-30T22:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-30",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-30T22:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-09-30",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-30T22:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-09-30",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-30T22:45:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
-        }
-      ]
-    },
-    {
       "id": "la-noche-del-demonio-estan-entre-nosotros",
       "titulo": "La Noche del Demonio: Están Entre Nosotros",
       "duracion": 106,
@@ -22686,24 +20736,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015308.jpg",
       "sinopsis": "Gemma, una joven madre que cría a su hija en la casa en la que creció, descubre que puede viajar a The Further, donde posee la capacidad de traer lo que allí vive de vuelta al mundo real.",
       "funciones": [
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:05:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/la-noche-del-demonio-estn-entre-nosotros"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 13",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
-        },
         {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-09-27",
@@ -23289,6 +21321,590 @@
       ]
     },
     {
+      "id": "el-heladero",
+      "titulo": "El Heladero",
+      "duracion": 86,
+      "clasificacion": "S/I",
+      "genero": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015048.jpg",
+      "sinopsis": null,
+      "funciones": [
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-27",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-27T17:15:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-09-27",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-27T19:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-27",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-27T19:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-09-27",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-27T19:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-09-27",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-27T20:10:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-27",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-27T20:25:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-09-27",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-27T21:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-09-27",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-27T22:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-27",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-27T22:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-09-27",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-27T22:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-27",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-27T22:45:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-28",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-28T12:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-28",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-28T13:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-09-28",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-28T13:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-28",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-28T15:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-28",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-28T15:25:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-28",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-28T17:15:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-09-28",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-28T19:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-28",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-28T19:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-09-28",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-28T19:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-09-28",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-28T20:10:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-28",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-28T20:25:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-09-28",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-28T21:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-09-28",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-28T22:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-28",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-28T22:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-09-28",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-28T22:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-28",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-28T22:45:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-29",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-29T12:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-29",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-29T13:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-09-29",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-29T13:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-29",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-29T15:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-29",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-29T15:25:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-29",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-29T17:15:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-09-29",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-29T19:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-29",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-29T19:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-09-29",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-29T19:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-09-29",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-29T20:10:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-29",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-29T20:25:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-09-29",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-29T21:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-09-29",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-29T22:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-29",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-29T22:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-09-29",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-29T22:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-29",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-29T22:45:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-30",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-30T12:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-30",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-30T13:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-09-30",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-30T13:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-30",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-30T15:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-30",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-30T15:25:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-30",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-30T17:15:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-09-30",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-30T19:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-30",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-30T19:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-09-30",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-30T19:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-09-30",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-30T20:10:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-30",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-30T20:25:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-09-30",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-30T21:50:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-09-30",
+          "sala": "Sala 8",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-30T22:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-30",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-30T22:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-09-30",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-30T22:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-09-30",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "atributos": [
+            "PREMIER"
+          ],
+          "idioma": "S/I",
+          "inicio": "2026-09-30T22:45:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-heladero/compra-entradas/entradas"
+        }
+      ]
+    },
+    {
       "id": "la-sombra-del-exorcista",
       "titulo": "La Sombra del Exorcista",
       "duracion": 87,
@@ -23816,15 +22432,6 @@
       "sinopsis": "En un futuro donde Panem está dividido en 12 distritos controlados por el Capitolio, Katniss Everdeen se ofrece como voluntaria para ocupar el lugar de su hermana en los 74° Juegos del Hambre, una competencia televisada en la que solo un participante puede sobrevivir. Allí deberá luchar por su vida mientras desafía las reglas del poder.",
       "funciones": [
         {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T14:15:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/los-juegos-del-hambre-2012"
-        },
-        {
           "cine": "cinemark-mallplaza-vespucio",
           "dia": "2026-09-27",
           "sala": "Sala 8",
@@ -23840,6 +22447,15 @@
           "formato": "2D",
           "idioma": "S/I",
           "inicio": "2026-09-27T20:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/los-juegos-del-hambre-2012/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-27",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-27T21:00:00-03:00",
           "url": "https://www.cinemark.cl/pelicula/los-juegos-del-hambre-2012/compra-entradas/entradas"
         },
         {
@@ -24124,36 +22740,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T12:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/hechizo-de-amor-la-magia-continua"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T13:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/hechizo-de-amor-la-magia-continua"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-09-27",
-          "sala": "Sala Cinemark Portal La Dehesa - 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hechizo-de-amor-la-magia-continua/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-alto-las-condes",
           "dia": "2026-09-27",
           "sala": "Sala 5",
@@ -24388,15 +22974,6 @@
           "idioma": "DOB",
           "inicio": "2026-09-27T11:45:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -24918,125 +23495,6 @@
       ]
     },
     {
-      "id": "zona-cero",
-      "titulo": "Zona Cero",
-      "duracion": 123,
-      "clasificacion": "S/I",
-      "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015162.jpg",
-      "sinopsis": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
-      "funciones": [
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-27",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-27T18:45:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T22:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-28",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-28T17:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-28T18:45:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-28",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-28T22:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-29",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-29T17:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-29",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-29T18:45:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-29",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-29T22:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-09-30",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-30T17:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-09-30",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-09-30T18:45:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-09-30",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-30T22:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
-        }
-      ]
-    },
-    {
       "id": "transformers-40-aniversario",
       "titulo": "Transformers: 40 Aniversario",
       "duracion": 95,
@@ -25156,58 +23614,112 @@
       ]
     },
     {
-      "id": "papi-ricky-la-pelicula",
-      "titulo": "Papi Ricky, la Película",
-      "duracion": 100,
+      "id": "zona-cero",
+      "titulo": "Zona Cero",
+      "duracion": 123,
       "clasificacion": "S/I",
       "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015289.jpg",
-      "sinopsis": "La película retoma la historia de Alicia, quien vuelve a Chile para presentar a su futuro esposo, un joven español hípster y excéntrico que representa la modernidad. Sin embargo, su llegada provoca unverdadero terremoto familiar: el choque con el conservador Papi Ricky y la irreverente Catrala hará que ambos padres dejen atrás antiguas diferencias para unirse en un objetivo común: impedir la boda de su hija.",
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015162.jpg",
+      "sinopsis": "En una conferencia de biotecnología, un virus de mutación rápida se desata y el recinto queda sellado. Con el contagio en expansión y los infectados evolucionando en formas impredecibles, un grupo de sobrevivientes deberá abrirse paso en un encierro donde cada minuto cambia las reglas.",
       "funciones": [
         {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-27",
           "sala": null,
           "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-09-27T11:00:00-03:00",
+          "idioma": "SUB",
+          "inicio": "2026-09-27T18:45:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
+          "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-09-27",
           "sala": "Sala 3",
           "formato": "2D",
           "idioma": "S/I",
-          "inicio": "2026-09-27T15:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
+          "inicio": "2026-09-27T22:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-alto-las-condes",
+          "cine": "cinemark-mallplaza-norte",
           "dia": "2026-09-28",
-          "sala": "Sala 11",
+          "sala": "Sala 4",
           "formato": "2D",
           "idioma": "S/I",
-          "inicio": "2026-09-28T15:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
+          "inicio": "2026-09-28T17:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-alto-las-condes",
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-09-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-28T18:45:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-28",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-28T22:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
           "dia": "2026-09-29",
-          "sala": "Sala 11",
+          "sala": "Sala 4",
           "formato": "2D",
           "idioma": "S/I",
-          "inicio": "2026-09-29T15:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
+          "inicio": "2026-09-29T17:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-09-30",
-          "sala": "Sala 11",
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-09-29",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-29T18:45:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-29",
+          "sala": "Sala 3",
           "formato": "2D",
           "idioma": "S/I",
-          "inicio": "2026-09-30T15:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
+          "inicio": "2026-09-29T22:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-09-30",
+          "sala": "Sala 4",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-30T17:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-09-30",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-09-30T18:45:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-30",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-30T22:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/zona-cero/compra-entradas/entradas"
         }
       ]
     },
@@ -25324,49 +23836,49 @@
       ]
     },
     {
-      "id": "toy-story-5",
-      "titulo": "Toy Story 5",
-      "duracion": 102,
+      "id": "papi-ricky-la-pelicula",
+      "titulo": "Papi Ricky, la Película",
+      "duracion": 100,
       "clasificacion": "S/I",
       "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00014966.jpg",
-      "sinopsis": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015289.jpg",
+      "sinopsis": "La película retoma la historia de Alicia, quien vuelve a Chile para presentar a su futuro esposo, un joven español hípster y excéntrico que representa la modernidad. Sin embargo, su llegada provoca unverdadero terremoto familiar: el choque con el conservador Papi Ricky y la irreverente Catrala hará que ambos padres dejen atrás antiguas diferencias para unirse en un objetivo común: impedir la boda de su hija.",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-oeste",
+          "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-09-27",
-          "sala": "Sala 7",
+          "sala": null,
           "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-09-27T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+          "idioma": "DOB",
+          "inicio": "2026-09-27T11:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
+          "cine": "cinemark-alto-las-condes",
           "dia": "2026-09-28",
-          "sala": "Sala 7",
+          "sala": "Sala 11",
           "formato": "2D",
           "idioma": "S/I",
-          "inicio": "2026-09-28T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+          "inicio": "2026-09-28T15:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
+          "cine": "cinemark-alto-las-condes",
           "dia": "2026-09-29",
-          "sala": "Sala 7",
+          "sala": "Sala 11",
           "formato": "2D",
           "idioma": "S/I",
-          "inicio": "2026-09-29T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+          "inicio": "2026-09-29T15:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
+          "cine": "cinemark-alto-las-condes",
           "dia": "2026-09-30",
-          "sala": "Sala 7",
+          "sala": "Sala 11",
           "formato": "2D",
           "idioma": "S/I",
-          "inicio": "2026-09-30T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+          "inicio": "2026-09-30T15:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/papi-ricky-la-pelicula/compra-entradas/entradas"
         }
       ]
     },
@@ -25414,6 +23926,44 @@
           "idioma": "DOB",
           "inicio": "2026-09-30T13:05:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        }
+      ]
+    },
+    {
+      "id": "toy-story-5",
+      "titulo": "Toy Story 5",
+      "duracion": 102,
+      "clasificacion": "S/I",
+      "genero": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00014966.jpg",
+      "sinopsis": null,
+      "funciones": [
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-28",
+          "sala": "Sala 7",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-28T13:10:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-29",
+          "sala": "Sala 7",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-29T13:10:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-09-30",
+          "sala": "Sala 7",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-09-30T13:10:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/toy-story-5/compra-entradas/entradas"
         }
       ]
     },
