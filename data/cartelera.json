@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-17T13:59:48.911Z",
+  "generado": "2026-10-17T18:03:41.370Z",
   "fecha": "2026-10-17",
   "dias": [
     "2026-10-17",
@@ -189,15 +189,6 @@
       "sinopsis": "Los icónicos luchadores Ryu y Ken vuelven a encontrarse cuando Chun-Li los convoca para el Torneo World Warrior. Pero tras la competencia se esconde una peligrosa conspiración. Para salvar el mundo, deberán enfrentarse no solo a poderosos enemigos, sino también a su pasado y entre ellos mismos... o enfrentar la destrucción total.",
       "funciones": [
         {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-10-17",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T11:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-10-17",
           "sala": null,
@@ -205,27 +196,6 @@
           "idioma": "SUB",
           "inicio": "2026-10-17T11:00:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-17",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T11:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 13",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
@@ -255,39 +225,6 @@
           "url": "https://www.cineplanet.cl/pelicula/street-fighter"
         },
         {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-17",
-          "sala": "Sala 7",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-17",
-          "sala": "Sala 7",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-17",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-10-17",
           "sala": null,
@@ -297,18 +234,6 @@
           "url": "https://www.cineplanet.cl/pelicula/street-fighter"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-17",
-          "sala": "Sala 8",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-la-reina",
           "dia": "2026-10-17",
           "sala": null,
@@ -316,73 +241,6 @@
           "idioma": "SUB",
           "inicio": "2026-10-17T13:15:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-17",
-          "sala": "Sala 11",
-          "formato": "IMAX",
-          "atributos": [
-            "IMAX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 10",
-          "formato": "XD",
-          "atributos": [
-            "XD",
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-10-17",
-          "sala": "Sala Cinemark Portal La Dehesa - 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-17",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-17",
-          "sala": "Sala 3",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-17",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -401,15 +259,6 @@
           "idioma": "SUB",
           "inicio": "2026-10-17T13:30:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-10-17",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-quilin",
@@ -466,18 +315,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-17",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-10-17",
           "sala": null,
@@ -503,15 +340,6 @@
           "idioma": "SUB",
           "inicio": "2026-10-17T14:40:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/street-fighter"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 13",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-paseo-los-trapenses",
@@ -4857,45 +4685,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-17",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T11:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-caida-de-la-ballena/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-10-17",
-          "sala": "Sala Cinemark Portal La Dehesa - 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T11:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-caida-de-la-ballena/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T11:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-caida-de-la-ballena/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-17",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T11:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-caida-de-la-ballena/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-10-17",
           "sala": null,
@@ -4966,57 +4755,6 @@
           "idioma": "SUB",
           "inicio": "2026-10-17T13:20:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-caida-de-la-ballena/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-10-17",
-          "sala": "Sala Cinemark Portal La Dehesa - 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-caida-de-la-ballena/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-17",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-caida-de-la-ballena/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-17",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-caida-de-la-ballena/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-17",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-caida-de-la-ballena/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-alameda",
@@ -7898,48 +7636,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-17",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T11:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-17",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-17",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-10-17",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-10-17",
           "sala": null,
@@ -7958,27 +7654,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-17",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-17",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-10-17",
           "sala": null,
@@ -7986,15 +7661,6 @@
           "idioma": "DOB",
           "inicio": "2026-10-17T13:15:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -8024,45 +7690,6 @@
           "url": "https://www.cineplanet.cl/pelicula/resident-evil-noche-cero"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-17",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-17",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-17",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-10-17",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-10-17",
           "sala": null,
@@ -8070,18 +7697,6 @@
           "idioma": "DOB",
           "inicio": "2026-10-17T14:40:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/resident-evil-noche-cero"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-17",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
@@ -10768,15 +10383,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-17",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T11:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-plaza-egana",
           "dia": "2026-10-17",
           "sala": null,
@@ -10784,27 +10390,6 @@
           "idioma": "DOB",
           "inicio": "2026-10-17T11:45:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-17",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-10-17",
-          "sala": "Sala Cinemark Portal La Dehesa - 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -10825,66 +10410,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 14",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-17",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-17",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-10-17",
-          "sala": "Sala Cinemark Portal La Dehesa - 5",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-17",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-10-17",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-10-17",
           "sala": null,
@@ -10894,18 +10419,6 @@
           "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-17",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-10-17",
           "sala": null,
@@ -10913,15 +10426,6 @@
           "idioma": "DOB",
           "inicio": "2026-10-17T13:40:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-17",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -10931,15 +10435,6 @@
           "idioma": "DOB",
           "inicio": "2026-10-17T14:10:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-17",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-casa-costanera",
@@ -10958,24 +10453,6 @@
           "idioma": "DOB",
           "inicio": "2026-10-17T14:30:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-17",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-17",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -11480,6 +10957,15 @@
           "idioma": "SUB",
           "inicio": "2026-10-18T11:00:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-10-18",
+          "sala": "Sala 7",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-18T11:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-gran-avenida",
@@ -13506,33 +12992,6 @@
       "sinopsis": "¿Puedo entrar a tu corazón?\r\nDel productor James Wan, uno de los arquitectos más influyentes del cine de terror moderno, y Blumhouse Atomic Monster, el estudio detrás de Backrooms y Obsesión, llega un viaje aterrador del director de género Rob Savage, al oscuro mundo de una joven, Bela, que forma una relación con una entidad siniestra en su casa que se parece a su\r\nmadre. La ganadora del Premio de la Academia®, Jessica Chastain (IT: Capítulo 2, Los ojos de Tammy Faye)\r\ninterpreta tanto a la madre de Bela como a la &quot;Madre Siniestra&quot;, una manifestación de la entidad. Jay Duplass (Transparent, Industry) interpreta a Daddo, el padre de Bela, y Arabella Olivia Clark (La empleada, La mano que mece la cuna) es Bela. El reparto incluye a la nominada al SAG Award Dichen Lachman (Severance), al nominado al\r\nEmmy y al Tony Arian Moayed (Succession) y a la leyenda Karen Allen (la saga de Indiana Jones). Madre Siniestra es dirigida por Rob Savage (Host, Boogeyman: Tu miedo es real) con un guion del ganador del WGA Nathan Elston, escritor de la ganadora del Emmy, Succession, basado en la exitosa novela Hay algo malo en casa de Josh Malerman (Bird Box: A Ciegas). La película es producida por James Wan p.g.a. (Las franquicias de Saw, La noche del demonio y El\r\nconjuro) de Blumhouse Atomic Monster, y cuenta con la producción ejecutiva de Michael Clear, Judson Scott, Rob Savage, Josh Malerman y Ryan Lewis.",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-17",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/madre-siniestra/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/madre-siniestra/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-17",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/madre-siniestra/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-10-17",
           "sala": null,
@@ -13540,15 +12999,6 @@
           "idioma": "DOB",
           "inicio": "2026-10-17T12:40:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/madre-siniestra"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-17",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/madre-siniestra/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-independencia",
@@ -13576,24 +13026,6 @@
           "idioma": "DOB",
           "inicio": "2026-10-17T14:20:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/madre-siniestra"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/madre-siniestra/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-17",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/madre-siniestra/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -15590,45 +15022,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-17",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T11:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-17",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T11:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-17",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T11:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-17",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-10-17",
           "sala": null,
@@ -15665,15 +15058,6 @@
           "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:35:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-10-17",
           "sala": null,
@@ -15683,33 +15067,6 @@
           "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
         },
         {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-17",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-17",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-17",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-quilin",
           "dia": "2026-10-17",
           "sala": null,
@@ -15717,18 +15074,6 @@
           "idioma": "DOB",
           "inicio": "2026-10-17T14:10:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-17",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -16711,15 +16056,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-17",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/verity-la-sombra-de-un-engano/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-10-17",
           "sala": null,
@@ -17634,15 +16970,6 @@
           "url": "https://www.cineplanet.cl/pelicula/el-arbol-magico"
         },
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-17",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-arbol-magico/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-10-17",
           "sala": null,
@@ -18488,15 +17815,6 @@
       "sinopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
       "funciones": [
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-17",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T11:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-10-17",
           "sala": null,
@@ -18506,45 +17824,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
         },
         {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-17",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-17",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-17",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-quilin",
           "dia": "2026-10-17",
           "sala": null,
@@ -18552,15 +17831,6 @@
           "idioma": "DOB",
           "inicio": "2026-10-17T13:10:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-17",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -19312,6 +18582,737 @@
       ]
     },
     {
+      "id": "cars-20-anos",
+      "titulo": "Cars: 20 Años",
+      "duracion": 117,
+      "clasificacion": "TE",
+      "genero": "ANIMACION",
+      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001954?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "sinopsis": "Atravesando el país en dirección a California, para competir con dos veteranos por la importante Copa Pistón; “El Rayo” McQueen, un novato auto de carreras, inesperadamente se desvía hacia un pueblo llamado Radiador Springs. Allí conoce a los excéntricos habitantes del lugar. Sally, un llamativo auto deportivo de 2002, Doc Hudson, un Hudson Hornet de 1951 con un misterioso pasado, y Mate, una leal grúa oxidada. Todos ellos le ayudarán a comprender que en la vida hay cosas más importantes que conseguir premios, fama y patrocinadores.",
+      "funciones": [
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T11:10:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T11:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T11:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T12:40:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T12:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T12:50:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-casa-costanera",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T13:20:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T13:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T13:50:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T14:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T14:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T14:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T15:35:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T16:15:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T17:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T17:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T17:35:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T18:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T18:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T18:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T18:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T18:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T11:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T11:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T11:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T12:40:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T12:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T12:50:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-casa-costanera",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T13:20:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T13:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T13:50:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T14:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T14:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T14:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T15:35:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T16:15:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T17:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T17:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T17:35:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T18:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T18:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T18:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T18:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T18:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T12:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T12:50:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T13:50:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T14:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T14:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-casa-costanera",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T14:25:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T14:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T15:10:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T15:35:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T16:15:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T17:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T17:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T17:35:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T18:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T18:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T18:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T18:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T18:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T12:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T12:50:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T13:50:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T14:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T14:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-casa-costanera",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T14:25:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T14:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T15:10:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T15:35:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T16:15:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T17:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T17:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T17:35:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T18:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T18:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T18:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T18:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T18:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        }
+      ]
+    },
+    {
       "id": "cars-2006",
       "titulo": "Cars [2006]",
       "duracion": 116,
@@ -19320,126 +19321,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015696.jpg",
       "sinopsis": null,
       "funciones": [
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-17",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T11:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/cars-2006/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-10-17",
-          "sala": "Sala Cinemark Portal La Dehesa - 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T11:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/cars-2006/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-17",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/cars-2006/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/cars-2006/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-17",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/cars-2006/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-17",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/cars-2006/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-17",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/cars-2006/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-17",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/cars-2006/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-17",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:15:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/cars-2006/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-17",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/cars-2006/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-10-17",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/cars-2006/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-10-17",
-          "sala": "Sala Cinemark Portal La Dehesa - 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/cars-2006/compra-entradas/entradas"
-        },
         {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-10-17",
@@ -20202,737 +20083,6 @@
       ]
     },
     {
-      "id": "cars-20-anos",
-      "titulo": "Cars: 20 Años",
-      "duracion": 117,
-      "clasificacion": "TE",
-      "genero": "ANIMACION",
-      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001954?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "sinopsis": "Atravesando el país en dirección a California, para competir con dos veteranos por la importante Copa Pistón; “El Rayo” McQueen, un novato auto de carreras, inesperadamente se desvía hacia un pueblo llamado Radiador Springs. Allí conoce a los excéntricos habitantes del lugar. Sally, un llamativo auto deportivo de 2002, Doc Hudson, un Hudson Hornet de 1951 con un misterioso pasado, y Mate, una leal grúa oxidada. Todos ellos le ayudarán a comprender que en la vida hay cosas más importantes que conseguir premios, fama y patrocinadores.",
-      "funciones": [
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T11:10:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T11:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T11:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T12:40:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T12:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T12:50:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-casa-costanera",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T13:20:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T13:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T13:50:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T14:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T14:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T14:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T15:35:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T16:15:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T17:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T17:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T17:35:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T18:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T18:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T18:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T18:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T18:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T11:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T11:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T11:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T12:40:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T12:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T12:50:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-casa-costanera",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T13:20:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T13:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T13:50:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T14:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T14:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T14:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T15:35:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T16:15:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T17:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T17:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T17:35:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T18:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T18:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T18:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T18:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T18:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T12:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T12:50:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T13:50:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T14:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T14:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-casa-costanera",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T14:25:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T14:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T15:10:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T15:35:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T16:15:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T17:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T17:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T17:35:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T18:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T18:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T18:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T18:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T18:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T12:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T12:50:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T13:50:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T14:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T14:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-casa-costanera",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T14:25:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-casa-costanera-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T14:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T15:10:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T15:35:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-paseo-los-trapenses",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T16:15:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-paseo-los-trapenses-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T17:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-mall-plaza-los-dominicos",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T17:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T17:35:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T18:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T18:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T18:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T18:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T18:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        }
-      ]
-    },
-    {
       "id": "guardianes-del-museo-2-los-tesoros-de-egipto",
       "titulo": "Guardianes del Museo 2: los Tesoros de Egipto",
       "duracion": 89,
@@ -20960,15 +20110,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
         },
         {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-17",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T12:15:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/guardianes-del-museo-2-los-tesoros-de-egipto/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-10-17",
           "sala": null,
@@ -20987,27 +20128,6 @@
           "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
         },
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-17",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/guardianes-del-museo-2-los-tesoros-de-egipto/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-17",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/guardianes-del-museo-2-los-tesoros-de-egipto/compra-entradas/entradas"
-        },
-        {
           "cine": "cinepolis-cinepolis-parque-arauco",
           "dia": "2026-10-17",
           "sala": null,
@@ -21024,15 +20144,6 @@
           "idioma": "DOB",
           "inicio": "2026-10-17T14:20:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-mall-plaza-los-dominicos-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-17",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:25:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/guardianes-del-museo-2-los-tesoros-de-egipto/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mallplaza-oeste",
@@ -21535,6 +20646,413 @@
       ]
     },
     {
+      "id": "guardianes-del-museo-2",
+      "titulo": "Guardianes del Museo 2:",
+      "duracion": 90,
+      "clasificacion": "TE",
+      "genero": "ANIMACION",
+      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001926?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "sinopsis": "Han pasado dos años desde que se salvó el Hermitage y la Mona Lisa fue robada. Maurice los sueños del ratón de nuevas hazañas, Vincent y Cleopatra han reclutado dos gatitos inquietos que también están anhelando aventuras.",
+      "funciones": [
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T12:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T12:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T13:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T13:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T13:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T14:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T15:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T15:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T15:25:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T16:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T16:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T17:25:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T12:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T12:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T13:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T13:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T13:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T14:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T15:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T15:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T15:25:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T16:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T16:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T17:25:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T13:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T13:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T13:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T14:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T15:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T15:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T15:25:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T16:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T16:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T17:25:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T13:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T13:10:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T13:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T14:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T15:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T15:20:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T15:25:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T16:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T16:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T17:25:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
+        }
+      ]
+    },
+    {
       "id": "la-odisea",
       "titulo": "La Odisea",
       "duracion": 172,
@@ -21551,18 +21069,6 @@
           "idioma": "SUB",
           "inicio": "2026-10-17T12:10:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-17",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-la-reina",
@@ -22004,413 +21510,6 @@
           "idioma": "S/I",
           "inicio": "2026-10-20T21:45:00-03:00",
           "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        }
-      ]
-    },
-    {
-      "id": "guardianes-del-museo-2",
-      "titulo": "Guardianes del Museo 2:",
-      "duracion": 90,
-      "clasificacion": "TE",
-      "genero": "ANIMACION",
-      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001926?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "sinopsis": "Han pasado dos años desde que se salvó el Hermitage y la Mona Lisa fue robada. Maurice los sueños del ratón de nuevas hazañas, Vincent y Cleopatra han reclutado dos gatitos inquietos que también están anhelando aventuras.",
-      "funciones": [
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T12:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T12:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T13:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T14:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T15:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T15:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T15:25:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T16:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T16:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T17:25:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T12:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T12:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T13:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T14:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T15:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T15:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T15:25:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T16:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T16:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T17:25:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T13:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T14:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T15:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T15:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T15:25:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T16:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T16:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T17:25:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T13:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T14:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T15:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T15:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T15:25:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T16:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T16:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T17:25:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/guardianes-del-museo-2"
         }
       ]
     },
@@ -23488,24 +22587,6 @@
           "sala": "Sala 2",
           "formato": "2D",
           "idioma": "S/I",
-          "inicio": "2026-10-17T12:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-17",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
           "inicio": "2026-10-17T16:20:00-03:00",
           "url": "https://www.cinemark.cl/pelicula/avengers-endgame-bonus/compra-entradas/entradas"
         },
@@ -23794,15 +22875,6 @@
       "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter es ahora un adulto que vive completamente solo, habiéndose borrado voluntariamente de las vidas y recuerdos de aquellos a quienes ama. Lucha contra el crimen en un Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad -un Spider-Man de tiempo completo- pero a medida que las exigencias sobre él se intensifican, la presión desata una sorprendente evolución física que amenaza su existencia, aun cuando un nuevo y extraño patrón de crímenes da lugar a una de las amenazas más poderosas que jamás haya enfrentado.",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-10-17",
           "sala": null,
@@ -24083,15 +23155,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015770.jpg",
       "sinopsis": null,
       "funciones": [
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:15:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-exorcista-2000/compra-entradas/entradas"
-        },
         {
           "cine": "cinemark-alto-las-condes",
           "dia": "2026-10-17",
@@ -25580,24 +24643,6 @@
           "sala": "Sala 3",
           "formato": "2D",
           "idioma": "S/I",
-          "inicio": "2026-10-17T11:35:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
           "inicio": "2026-10-17T16:50:00-03:00",
           "url": "https://www.cinemark.cl/pelicula/la-noche-del-demonio-estan-entre-nosotros/compra-entradas/entradas"
         },
@@ -26142,161 +25187,6 @@
       ]
     },
     {
-      "id": "paw-patrol-la-dino-pelicula",
-      "titulo": "Paw Patrol: la Dino Película",
-      "duracion": 88,
-      "clasificacion": "S/I",
-      "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015264.jpg",
-      "sinopsis": "Después de que su barco quedara atrapado en una misteriosa tormenta, los cachorros de la Patrulla Canina aterrizan de emergencia en una isla tropical inexplorada llena de dinosaurios. Allí conocen a Rex, un cachorro que lleva años abandonado en la isla y se ha convertido en un experto en todo lo relacionado con los dinosaurios. Cuando el archienemigo de la Patrulla Canina, el alcalde Humdinger, comienza a explotar minas de forma imprudente con la esperanza de saquear los recursos naturales de la isla, provoca sin querer la erupción de un enorme volcán inactivo.Los cachorros de la Patrulla Canina se ven envueltos en una serie de rescates de alto riesgo y a escala de dinosaurio, más grandes que cualquier cosa que hayan hecho antes, ya que deben detener a Humdinger antes de que todo en la isla se extinga.",
-      "funciones": [
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T14:45:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-17",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T18:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-17",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-17T20:50:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-18",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-18T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T14:45:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-18",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-18T18:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-18",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-18T20:50:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-19",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-19T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T14:45:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-19",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-19T18:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-19",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-19T20:50:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-20",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-20T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T14:45:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-20",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-20T18:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-20",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-20T20:50:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        }
-      ]
-    },
-    {
       "id": "avengers-endgame-bonus-infinity-vision",
       "titulo": "Avengers Endgame Bonus Infinity Vision",
       "duracion": 185,
@@ -26607,6 +25497,152 @@
       ]
     },
     {
+      "id": "paw-patrol-la-dino-pelicula",
+      "titulo": "Paw Patrol: la Dino Película",
+      "duracion": 88,
+      "clasificacion": "S/I",
+      "genero": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015264.jpg",
+      "sinopsis": "Después de que su barco quedara atrapado en una misteriosa tormenta, los cachorros de la Patrulla Canina aterrizan de emergencia en una isla tropical inexplorada llena de dinosaurios. Allí conocen a Rex, un cachorro que lleva años abandonado en la isla y se ha convertido en un experto en todo lo relacionado con los dinosaurios. Cuando el archienemigo de la Patrulla Canina, el alcalde Humdinger, comienza a explotar minas de forma imprudente con la esperanza de saquear los recursos naturales de la isla, provoca sin querer la erupción de un enorme volcán inactivo.Los cachorros de la Patrulla Canina se ven envueltos en una serie de rescates de alto riesgo y a escala de dinosaurio, más grandes que cualquier cosa que hayan hecho antes, ya que deben detener a Humdinger antes de que todo en la isla se extinga.",
+      "funciones": [
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T14:45:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-10-17",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-17T18:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-17",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-17T20:50:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-10-18",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-18T13:10:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T14:45:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-10-18",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-18T18:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-18",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-18T20:50:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-10-19",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-19T13:10:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T14:45:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-10-19",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-19T18:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-19",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-19T20:50:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-10-20",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-20T13:10:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T14:45:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-10-20",
+          "sala": "Sala 2",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-20T18:20:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-20",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-20T20:50:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        }
+      ]
+    },
+    {
       "id": "always-lalisa",
       "titulo": "Always Lalisa",
       "duracion": 100,
@@ -26623,27 +25659,6 @@
           "idioma": "SUB",
           "inicio": "2026-10-17T14:05:00-03:00",
           "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-10-17",
-          "sala": "Sala Cinemark Portal La Dehesa - 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-17T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/always-lalisa/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-17",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-17T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/always-lalisa/compra-entradas/entradas"
         },
         {
           "cine": "cinepolis-cinepolis-parque-arauco",
