@@ -1,5 +1,5 @@
 {
-  "generado": "2026-10-25T14:42:13.123Z",
+  "generado": "2026-10-25T18:37:58.993Z",
   "fecha": "2026-10-25",
   "dias": [
     "2026-10-25",
@@ -189,120 +189,6 @@
       "sinopsis": "Historia inspirada en el villano de DC Comics. Relata el horroroso descenso de un hombre: de ser una estrella en ascenso en Hollywood a convertirse en un monstruo sediento de venganza, en una historia que explora la pérdida de la identidad y la humanidad, el amor corrosivo y el lado oscuro de la ambición científica.",
       "funciones": [
         {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-10-25",
-          "sala": "Sala Cinemark Portal La Dehesa - 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/clayface/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-10-25",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/clayface/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/clayface"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:15:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/clayface"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-25",
-          "sala": "Sala 7",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/clayface/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-25",
-          "sala": "Sala 8",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/clayface/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-25",
-          "sala": "Sala 3",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/clayface/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-25",
-          "sala": "Sala 7",
-          "formato": "XD",
-          "atributos": [
-            "XD"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/clayface/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/clayface"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-25",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/clayface/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-25",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/clayface/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-10-25",
           "sala": null,
@@ -310,43 +196,6 @@
           "idioma": "SUB",
           "inicio": "2026-10-25T14:00:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/clayface"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 10",
-          "formato": "XD",
-          "atributos": [
-            "XD",
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/clayface/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-10-25",
-          "sala": "Sala Cinemark Portal La Dehesa - 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/clayface/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-25",
-          "sala": "Sala 10",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/clayface/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -383,15 +232,6 @@
           "idioma": "DOB",
           "inicio": "2026-10-25T14:40:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/clayface"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-10-25",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/clayface/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -3228,165 +3068,6 @@
       "sinopsis": "Entre los inesperados visitantes se encuentra Burro (Eddie Murphy), un personaje parlanchín y bromista que se une al ogro a regañadientes cuando Shrek emprende un viaje para enfrentarse a Farquaad y recuperar su hogar. Mientras tanto, Farquaad está decidido a convertirse en rey, pero para lograrlo deberá casarse con una princesa. La elegida es Fiona (Cameron Diaz), quien permanece encerrada en una torre custodiada por un dragón que escupe fuego. En lugar de rescatarla él mismo, el cobarde gobernante llega a un acuerdo con Shrek: si el ogro rescata a Fiona, Farquaad le devolverá su pantano. Pero el trato que Shrek acepta a regañadientes pronto se transforma en un cuento de hadas completamente inesperado, donde la amistad, el amor y el heroísmo pueden aparecer en los lugares menos imaginados.",
       "funciones": [
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-25",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/shrek-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-25",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/shrek-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T12:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/shrek-2001"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T12:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/shrek-2001"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-25",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/shrek-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 14",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/shrek-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-25",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/shrek-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "PRIME",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/shrek-2001"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-25",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/shrek-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/shrek-2001"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/shrek-2001"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/shrek-2001"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-10-25",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/shrek-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/shrek-2001"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-25",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/shrek-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-25",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/shrek-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-25",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/shrek-2001/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-10-25",
           "sala": null,
@@ -3430,18 +3111,6 @@
           "idioma": "DOB",
           "inicio": "2026-10-25T14:10:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/shrek-2001"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-25",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/shrek-2001/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-florida",
@@ -3469,24 +3138,6 @@
           "idioma": "DOB",
           "inicio": "2026-10-25T15:20:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/shrek-2001"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-25",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T15:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/shrek-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 14",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T15:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/shrek-2001/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-quilin",
@@ -5540,120 +5191,6 @@
       "sinopsis": "Sigue a un desdichado mensajero encargado de entregar un paquete a un hospital remoto. Pronto se encuentra atrapado en medio de un brote y debe luchar a través de hordas de criaturas mutadas para sobrevivir.",
       "funciones": [
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-25",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T11:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-25",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-10-25",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/resident-evil-noche-cero"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/resident-evil-noche-cero"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-25",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-25",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-25",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-25",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "atributos": [
-            "DBOX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/resident-evil-noche-cero/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-quilin",
           "dia": "2026-10-25",
           "sala": null,
@@ -7321,93 +6858,6 @@
       "sinopsis": "Después de un angustiante accidente aéreo, un oficial de Fuerzas Especiales y su perro de combate quedan varados en lo más profundo de la naturaleza salvaje de Alaska. Juntos, se ven obligados a librar una brutal lucha por la supervivencia frente a las inclemencias del entorno.",
       "funciones": [
         {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-25",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T11:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T12:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-25",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 13",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-10-25",
-          "sala": "Sala Cinemark Portal La Dehesa - 5",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-25",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
-        },
-        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-10-25",
           "sala": null,
@@ -7417,15 +6867,6 @@
           "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
         },
         {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-25",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-10-25",
           "sala": null,
@@ -7433,15 +6874,6 @@
           "idioma": "DOB",
           "inicio": "2026-10-25T14:40:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/el-corazon-de-la-bestia"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-25",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-corazon-de-la-bestia/compra-entradas/entradas"
         },
         {
           "cine": "cineplanet-cp-costanera",
@@ -8904,78 +8336,6 @@
       "sinopsis": "¿Puedo entrar a tu corazón?\r\nDel productor James Wan, uno de los arquitectos más influyentes del cine de terror moderno, y Blumhouse Atomic Monster, el estudio detrás de Backrooms y Obsesión, llega un viaje aterrador del director de género Rob Savage, al oscuro mundo de una joven, Bela, que forma una relación con una entidad siniestra en su casa que se parece a su\r\nmadre. La ganadora del Premio de la Academia®, Jessica Chastain (IT: Capítulo 2, Los ojos de Tammy Faye)\r\ninterpreta tanto a la madre de Bela como a la &quot;Madre Siniestra&quot;, una manifestación de la entidad. Jay Duplass (Transparent, Industry) interpreta a Daddo, el padre de Bela, y Arabella Olivia Clark (La empleada, La mano que mece la cuna) es Bela. El reparto incluye a la nominada al SAG Award Dichen Lachman (Severance), al nominado al\r\nEmmy y al Tony Arian Moayed (Succession) y a la leyenda Karen Allen (la saga de Indiana Jones). Madre Siniestra es dirigida por Rob Savage (Host, Boogeyman: Tu miedo es real) con un guion del ganador del WGA Nathan Elston, escritor de la ganadora del Emmy, Succession, basado en la exitosa novela Hay algo malo en casa de Josh Malerman (Bird Box: A Ciegas). La película es producida por James Wan p.g.a. (Las franquicias de Saw, La noche del demonio y El\r\nconjuro) de Blumhouse Atomic Monster, y cuenta con la producción ejecutiva de Michael Clear, Judson Scott, Rob Savage, Josh Malerman y Ryan Lewis.",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-25",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/madre-siniestra/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-25",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/madre-siniestra/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/madre-siniestra/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-25",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/madre-siniestra/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/madre-siniestra"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-25",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/madre-siniestra/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-25",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/madre-siniestra/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-25",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/madre-siniestra/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-independencia",
           "dia": "2026-10-25",
           "sala": null,
@@ -10331,123 +9691,6 @@
       "sinopsis": "Los icónicos luchadores Ryu y Ken vuelven a encontrarse cuando Chun-Li los convoca para el Torneo World Warrior. Pero tras la competencia se esconde una peligrosa conspiración. Para salvar el mundo, deberán enfrentarse no solo a poderosos enemigos, sino también a su pasado y entre ellos mismos... o enfrentar la destrucción total.",
       "funciones": [
         {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T12:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/street-fighter"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-10-25",
-          "sala": "Sala Cinemark Portal La Dehesa - 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 7",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-25",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-25",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-25",
-          "sala": "Sala 11",
-          "formato": "IMAX",
-          "atributos": [
-            "IMAX"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-25",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/street-fighter"
-        },
-        {
-          "cine": "cinemark-gran-avenida",
-          "dia": "2026-10-25",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-25",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-10-25",
-          "sala": "Sala Cinemark Portal La Dehesa - 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T15:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-25",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T15:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/street-fighter/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-10-25",
           "sala": "Sala 7",
@@ -11668,33 +10911,6 @@
       "sinopsis": "Inspirada en hechos reales, en 1880 un joven fiscal debe procesar a un grupo de personas acusadas de brujería y asesinato en la isla de Chiloé. ",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-25",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/kalkutun-juicio-a-los-brujos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-25",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/kalkutun-juicio-a-los-brujos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-25",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/kalkutun-juicio-a-los-brujos/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-10-25",
           "sala": null,
@@ -11704,15 +10920,6 @@
           "url": "https://www.cineplanet.cl/pelicula/kalkutun-juicio-a-los-brujos"
         },
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/kalkutun-juicio-a-los-brujos/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-10-25",
           "sala": null,
@@ -11720,33 +10927,6 @@
           "idioma": "DOB",
           "inicio": "2026-10-25T15:00:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/kalkutun-juicio-a-los-brujos"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-25",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T15:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/kalkutun-juicio-a-los-brujos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-25",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T15:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/kalkutun-juicio-a-los-brujos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-25",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T15:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/kalkutun-juicio-a-los-brujos/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-mid-mall-maipu",
@@ -12678,36 +11858,6 @@
       "sinopsis": "Un grupo de médicos se interna en la selva amazónica para realizar una misión humanitaria, pero su llegada altera el equilibrio de un territorio donde la naturaleza aún guarda secretos imposibles de controlar. Pronto descubrirán que no están solos: una criatura ancestral, conocida como la Boiúna, emerge para reclamar su dominio. Atrapados entre la selva, el río y un depredador que domina ambos mundos, deberán luchar por sobrevivir en un lugar donde la línea entre cazador y presa desaparece.\r\n",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-25",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T11:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/terror-en-el-amazonas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/terror-en-el-amazonas/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-25",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/terror-en-el-amazonas/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-10-25",
           "sala": null,
@@ -12715,15 +11865,6 @@
           "idioma": "DOB",
           "inicio": "2026-10-25T14:20:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/terror-en-el-amazonas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-25",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/terror-en-el-amazonas/compra-entradas/entradas"
         },
         {
           "cine": "cinemark-alto-las-condes",
@@ -13463,48 +12604,6 @@
       "sinopsis": "Como complemento de la exitosa película La red social, el guion original de Sorkin se basa en los hechos que dieron origen al impactante reportaje del Wall Street Journal, Los archivos de Facebook. La película se inspira en la historia real de cómo Frances Haugen (Madison), una joven ingeniera de Facebook, recluta a Jeff Horwitz (White), un reportero del Wall Street Journal, para emprender un peligroso viaje que termina por revelar los secretos mejor guardados de la red social",
       "funciones": [
         {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-10-25T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/el-poder-de-la-red"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:45:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-poder-de-la-red/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-10-25",
-          "sala": "Sala Cinemark Portal La Dehesa - 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-poder-de-la-red/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-25",
-          "sala": "Sala 12",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/el-poder-de-la-red/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-florida",
           "dia": "2026-10-25",
           "sala": null,
@@ -14196,24 +13295,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015534.jpg",
       "sinopsis": "Grace es una mujer religiosa que vive en una casa antigua mantenida en penumbra porque sus dos hijos,\r\nAnne y Nicholas, padecen una extraña sensibilidad a la luz. Cuando la familia empieza a sospechar que la casa está\r\nembrujada, Grace lucha por proteger a sus hijos a toda costa frente a sucesos extraños y visiones inquietantes.",
       "funciones": [
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-25",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/los-otros-2001/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-25",
-          "sala": "Sala 6",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/los-otros-2001/compra-entradas/entradas"
-        },
         {
           "cine": "cineplanet-cp-alameda",
           "dia": "2026-10-25",
@@ -15341,36 +14422,6 @@
       "sinopsis": "Tras la muerte de su padre, Jay Gardiner se sumerge en la costa central de California en busca de sus restos, pero es tragado por una ballena. Atrapado en su interior con solo una hora de oxígeno restante, Jay se da cuenta de que las lecciones que su padre le enseñó pueden ser la clave para escapar.",
       "funciones": [
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-25",
-          "sala": "Sala 11",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-caida-de-la-ballena/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 9",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-caida-de-la-ballena/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-25",
-          "sala": "Sala 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T15:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-caida-de-la-ballena/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-10-25",
           "sala": null,
@@ -15835,69 +14886,6 @@
       "sinopsis": "Después de que todos los productos fabricados por ACME Corporation le salgan mal a Wile E. Coyote, en su persecución del Correcaminos, contrata a un abogado humano igualmente desafortunado para demandar a la empresa. Cuando el abogado de Wile E. descubre que el intimidante jefe de su antiguo bufete es el director general de ACME, se une a Wile E. para ganar el juicio contra él.",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T11:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-25",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T12:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:20:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/coyote-vs-acme"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-25",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/coyote-vs-acme/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-10-25",
           "sala": null,
@@ -16232,54 +15220,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015447.jpg",
       "sinopsis": null,
       "funciones": [
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/cars-2006/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-25",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/cars-2006/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-25",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/cars-2006/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-25",
-          "sala": "Sala 4",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/cars-2006/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T15:10:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/cars-2006/compra-entradas/entradas"
-        },
         {
           "cine": "cinemark-mallplaza-vespucio",
           "dia": "2026-10-25",
@@ -16619,652 +15559,6 @@
       ]
     },
     {
-      "id": "hybe-cheering-party",
-      "titulo": "Hybe Cheering Party",
-      "duracion": 60,
-      "clasificacion": "S/I",
-      "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015843.jpg",
-      "sinopsis": "¡El entusiasmo por los artistas de HYBE llega a los cines! ¡Canta con tus artistas favoritos de HYBE en 3D! Se acerca una proyección única, tipo juego, en la que los fans podrán corear consignas y agitar sus barras luminosas mientras ven los videos musicales de BTS, SEVENTEEN, TOMORROW X TOGETHER, ENHYPEN, LE SSERAFIM, &TEAM, BOYNEXTDOOR, TWS, ILLIT, KATSEYE, aoen, CORTIS y SANTOS BRAVOS en pantalla grande. ¡Únete a esta celebración inolvidable llena de música variada, la energía apasionada de los fans y una deslumbrante ola de Light Sticks!",
-      "funciones": [
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-25",
-          "sala": "Sala 5",
-          "formato": "3D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-25",
-          "sala": "Sala 2",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "3D",
-          "idioma": "SUB",
-          "inicio": "2026-10-25T13:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "3D",
-          "idioma": "SUB",
-          "inicio": "2026-10-25T13:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-25",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-25",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "3D",
-          "idioma": "SUB",
-          "inicio": "2026-10-25T13:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-26",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-26T20:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-26",
-          "sala": "Sala 8",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-26T20:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-26",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-26T20:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-26",
-          "sala": "Sala 4",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-26T20:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-26",
-          "sala": "Sala 12",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-26T20:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-26",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-26T20:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-10-26",
-          "sala": null,
-          "formato": "3D",
-          "idioma": "SUB",
-          "inicio": "2026-10-26T20:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-26",
-          "sala": null,
-          "formato": "3D",
-          "idioma": "SUB",
-          "inicio": "2026-10-26T20:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-10-26",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-10-26T20:30:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-10-27",
-          "sala": null,
-          "formato": "3D",
-          "idioma": "SUB",
-          "inicio": "2026-10-27T18:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-27",
-          "sala": null,
-          "formato": "3D",
-          "idioma": "SUB",
-          "inicio": "2026-10-27T18:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-10-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-10-27T18:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-27",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-27T18:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-27",
-          "sala": "Sala 8",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-27T18:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-27",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-27T18:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-27",
-          "sala": "Sala 4",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-27T18:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-27",
-          "sala": "Sala 12",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-27T18:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-27",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-27T18:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinepolis-cinepolis-parque-arauco",
-          "dia": "2026-10-28",
-          "sala": null,
-          "formato": "3D",
-          "idioma": "SUB",
-          "inicio": "2026-10-28T13:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-la-reina",
-          "dia": "2026-10-28",
-          "sala": null,
-          "formato": "3D",
-          "idioma": "SUB",
-          "inicio": "2026-10-28T13:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
-        },
-        {
-          "cine": "cinepolis-cinepolis-plaza-egana",
-          "dia": "2026-10-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "SUB",
-          "inicio": "2026-10-28T13:00:00-03:00",
-          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
-        },
-        {
-          "cine": "cinemark-mallplaza-vespucio",
-          "dia": "2026-10-28",
-          "sala": "Sala 8",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-28T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-28",
-          "sala": "Sala 4",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-28T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-28",
-          "sala": "Sala 12",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-28T13:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-portal-nunoa",
-          "dia": "2026-10-28",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-28T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-tobalaba",
-          "dia": "2026-10-28",
-          "sala": "Sala 6",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-28T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mid-mall-maipu",
-          "dia": "2026-10-28",
-          "sala": "Sala 1",
-          "formato": "3D",
-          "idioma": "S/I",
-          "inicio": "2026-10-28T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
-        }
-      ]
-    },
-    {
-      "id": "escuela-de-monstruos",
-      "titulo": "Escuela de Monstruos",
-      "duracion": 81,
-      "clasificacion": "TE",
-      "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015760.jpg",
-      "sinopsis": "La estudiante expulsada Mia y su rata mascota Quentin llegan a la Academia Rotwood, donde es la única humana entre compañeros de clase monstruosos. Con el odio del director Van Vlad hacia los humanos, ella debe formar equipo con monstruos para frustrar sus planes.",
-      "funciones": [
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-25",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-25",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-25",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T15:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T15:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-25",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T16:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-26",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-26T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-26",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-26T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-26",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-26T13:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-26",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-26T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-26",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-26T13:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-26",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-26T14:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-26",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-26T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-26",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-26T16:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-27T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-27T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-27T13:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-27T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-27T13:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-27T14:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-27T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-27",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-27T16:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-28",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-28T12:30:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-alameda",
-          "dia": "2026-10-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-28T13:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-28T13:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-28",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-28T13:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-28T13:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-28T14:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
-        },
-        {
-          "cine": "cinemark-mallplaza-norte",
-          "dia": "2026-10-28",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-28T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-28",
-          "sala": "Sala 3",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-28T16:00:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
-        }
-      ]
-    },
-    {
       "id": "verity-la-sombra-de-un-engano",
       "titulo": "Verity: la Sombra de Un Engaño",
       "duracion": 117,
@@ -17558,6 +15852,541 @@
       ]
     },
     {
+      "id": "hybe-cheering-party",
+      "titulo": "Hybe Cheering Party",
+      "duracion": 60,
+      "clasificacion": "S/I",
+      "genero": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015637.jpg",
+      "sinopsis": "¡El entusiasmo por los artistas de HYBE llega a los cines! ¡Canta con tus artistas favoritos de HYBE en 3D! Se acerca una proyección única, tipo juego, en la que los fans podrán corear consignas y agitar sus barras luminosas mientras ven los videos musicales de BTS, SEVENTEEN, TOMORROW X TOGETHER, ENHYPEN, LE SSERAFIM, &TEAM, BOYNEXTDOOR, TWS, ILLIT, KATSEYE, aoen, CORTIS y SANTOS BRAVOS en pantalla grande. ¡Únete a esta celebración inolvidable llena de música variada, la energía apasionada de los fans y una deslumbrante ola de Light Sticks!",
+      "funciones": [
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-10-25",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "SUB",
+          "inicio": "2026-10-25T13:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-25",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "SUB",
+          "inicio": "2026-10-25T13:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-10-25",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "SUB",
+          "inicio": "2026-10-25T13:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-10-26",
+          "sala": "Sala 1",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-26T20:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-10-26",
+          "sala": "Sala 8",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-26T20:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-10-26",
+          "sala": "Sala 6",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-26T20:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-10-26",
+          "sala": "Sala 4",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-26T20:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-10-26",
+          "sala": "Sala 12",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-26T20:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-10-26",
+          "sala": "Sala 1",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-26T20:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-10-26",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "SUB",
+          "inicio": "2026-10-26T20:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-26",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "SUB",
+          "inicio": "2026-10-26T20:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-10-26",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-10-26T20:30:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-10-27",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "SUB",
+          "inicio": "2026-10-27T18:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-27",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "SUB",
+          "inicio": "2026-10-27T18:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-10-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-10-27T18:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-10-27",
+          "sala": "Sala 1",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-27T18:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-10-27",
+          "sala": "Sala 8",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-27T18:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-10-27",
+          "sala": "Sala 6",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-27T18:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-10-27",
+          "sala": "Sala 4",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-27T18:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-10-27",
+          "sala": "Sala 12",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-27T18:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-10-27",
+          "sala": "Sala 1",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-27T18:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinepolis-cinepolis-parque-arauco",
+          "dia": "2026-10-28",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "SUB",
+          "inicio": "2026-10-28T13:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-parque-arauco-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-la-reina",
+          "dia": "2026-10-28",
+          "sala": null,
+          "formato": "3D",
+          "idioma": "SUB",
+          "inicio": "2026-10-28T13:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-la-reina-santiago-oriente"
+        },
+        {
+          "cine": "cinepolis-cinepolis-plaza-egana",
+          "dia": "2026-10-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "SUB",
+          "inicio": "2026-10-28T13:00:00-03:00",
+          "url": "https://cinepolis.com/cl?cinema=cinepolis-plaza-egana-santiago-oriente"
+        },
+        {
+          "cine": "cinemark-mallplaza-vespucio",
+          "dia": "2026-10-28",
+          "sala": "Sala 8",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-28T13:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-10-28",
+          "sala": "Sala 4",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-28T13:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-10-28",
+          "sala": "Sala 12",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-28T13:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-portal-nunoa",
+          "dia": "2026-10-28",
+          "sala": "Sala 1",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-28T13:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-tobalaba",
+          "dia": "2026-10-28",
+          "sala": "Sala 6",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-28T13:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mid-mall-maipu",
+          "dia": "2026-10-28",
+          "sala": "Sala 1",
+          "formato": "3D",
+          "idioma": "S/I",
+          "inicio": "2026-10-28T13:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/hybe-cheering-party/compra-entradas/entradas"
+        }
+      ]
+    },
+    {
+      "id": "escuela-de-monstruos",
+      "titulo": "Escuela de Monstruos",
+      "duracion": 81,
+      "clasificacion": "TE",
+      "genero": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015760.jpg",
+      "sinopsis": "La estudiante expulsada Mia y su rata mascota Quentin llegan a la Academia Rotwood, donde es la única humana entre compañeros de clase monstruosos. Con el odio del director Van Vlad hacia los humanos, ella debe formar equipo con monstruos para frustrar sus planes.",
+      "funciones": [
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-25",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-25T15:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-25",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-25T15:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-10-25",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-25T16:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-10-26",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-26T12:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-10-26",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-26T13:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-26",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-26T13:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-10-26",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-26T13:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-26",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-26T13:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-26",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-26T14:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-10-26",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-26T14:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-10-26",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-26T16:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-10-27",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-27T12:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-10-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-27T13:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-27T13:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-10-27",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-27T13:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-27T13:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-27T14:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-10-27",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-27T14:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-10-27",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-27T16:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-10-28",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-28T12:30:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-alameda",
+          "dia": "2026-10-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-28T13:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-28T13:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-10-28",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-28T13:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-28T13:40:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-28T14:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/escuela-de-monstruos"
+        },
+        {
+          "cine": "cinemark-mallplaza-norte",
+          "dia": "2026-10-28",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-28T14:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-alto-las-condes",
+          "dia": "2026-10-28",
+          "sala": "Sala 3",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-28T16:00:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/escuela-de-monstruos/compra-entradas/entradas"
+        }
+      ]
+    },
+    {
       "id": "la-odisea",
       "titulo": "La Odisea",
       "duracion": 172,
@@ -17566,30 +16395,6 @@
       "poster": "https://cdn.cinemark.cl/content/posters/HO00015115.jpg",
       "sinopsis": null,
       "funciones": [
-        {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-25",
-          "sala": "Sala 2",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T12:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-la-dehesa",
-          "dia": "2026-10-25",
-          "sala": "Sala Cinemark Portal La Dehesa - 1",
-          "formato": "2D",
-          "atributos": [
-            "PREMIER"
-          ],
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/la-odisea/compra-entradas/entradas"
-        },
         {
           "cine": "cinemark-alto-las-condes",
           "dia": "2026-10-25",
@@ -17866,15 +16671,6 @@
       "sinopsis": "Cuando el joven Elliot consigue el trabajo de sus sueños con la reconocida artista Erika Tracy, se \r\nconvierte en su musa sexual. Pero pronto descubre que quedó atrapado en un mundo de control, \r\nobsesión, traición y, posiblemente, asesinato. ",
       "funciones": [
         {
-          "cine": "cinemark-alto-las-condes",
-          "dia": "2026-10-25",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:20:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/quiero-tu-sexo/compra-entradas/entradas"
-        },
-        {
           "cine": "cinemark-mallplaza-oeste",
           "dia": "2026-10-25",
           "sala": "Sala 1",
@@ -18084,15 +16880,6 @@
       "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter es ahora un adulto que vive completamente solo, habiéndose borrado voluntariamente de las vidas y recuerdos de aquellos a quienes ama. Lucha contra el crimen en un Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad -un Spider-Man de tiempo completo- pero a medida que las exigencias sobre él se intensifican, la presión desata una sorprendente evolución física que amenaza su existencia, aun cuando un nuevo y extraño patrón de crímenes da lugar a una de las amenazas más poderosas que jamás haya enfrentado.",
       "funciones": [
         {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 8",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T13:50:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/spider-man-un-nuevo-dia/compra-entradas/entradas"
-        },
-        {
           "cine": "cineplanet-cp-costanera",
           "dia": "2026-10-25",
           "sala": null,
@@ -18293,179 +17080,6 @@
       ]
     },
     {
-      "id": "cars-20-anos",
-      "titulo": "Cars: 20 Años",
-      "duracion": 117,
-      "clasificacion": "TE",
-      "genero": "ANIMACION",
-      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001954?referenceScheme=HeadOffice&allowPlaceHolder=true",
-      "sinopsis": null,
-      "funciones": [
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T12:10:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T12:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T13:40:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T15:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T15:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-25",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-25T15:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-26",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "DOB",
-          "inicio": "2026-10-26T13:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-26",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-26T15:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-26",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-26T15:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-26",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-26T15:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-27",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "DOB",
-          "inicio": "2026-10-27T13:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-27T15:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-27T15:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-27",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-27T15:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-costanera",
-          "dia": "2026-10-28",
-          "sala": null,
-          "formato": "XTREME",
-          "idioma": "DOB",
-          "inicio": "2026-10-28T13:50:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-florida",
-          "dia": "2026-10-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-28T15:00:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-independencia",
-          "dia": "2026-10-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-28T15:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        },
-        {
-          "cine": "cineplanet-cp-quilin",
-          "dia": "2026-10-28",
-          "sala": null,
-          "formato": "2D",
-          "idioma": "DOB",
-          "inicio": "2026-10-28T15:30:00-03:00",
-          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
-        }
-      ]
-    },
-    {
       "id": "la-busqueda-del-otro",
       "titulo": "La Busqueda del Otro",
       "duracion": 70,
@@ -18617,6 +17231,152 @@
           "idioma": "S/I",
           "inicio": "2026-10-28T22:10:00-03:00",
           "url": "https://www.cinemark.cl/pelicula/la-busqueda-del-otro/compra-entradas/entradas"
+        }
+      ]
+    },
+    {
+      "id": "cars-20-anos",
+      "titulo": "Cars: 20 Años",
+      "duracion": 117,
+      "clasificacion": "TE",
+      "genero": "ANIMACION",
+      "poster": "https://cdn.apis.cineplanet.cl/CDN/media/entity/get/FilmPosterGraphic/HO00001954?referenceScheme=HeadOffice&allowPlaceHolder=true",
+      "sinopsis": null,
+      "funciones": [
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-25",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-25T15:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-25",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-25T15:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-25",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-25T15:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-10-26",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "DOB",
+          "inicio": "2026-10-26T13:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-26",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-26T15:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-26",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-26T15:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-26",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-26T15:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-10-27",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "DOB",
+          "inicio": "2026-10-27T13:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-27T15:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-27T15:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-27",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-27T15:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-costanera",
+          "dia": "2026-10-28",
+          "sala": null,
+          "formato": "XTREME",
+          "idioma": "DOB",
+          "inicio": "2026-10-28T13:50:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-florida",
+          "dia": "2026-10-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-28T15:00:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-independencia",
+          "dia": "2026-10-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-28T15:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
+        },
+        {
+          "cine": "cineplanet-cp-quilin",
+          "dia": "2026-10-28",
+          "sala": null,
+          "formato": "2D",
+          "idioma": "DOB",
+          "inicio": "2026-10-28T15:30:00-03:00",
+          "url": "https://www.cineplanet.cl/pelicula/cars-20-aos"
         }
       ]
     },
@@ -19501,53 +18261,6 @@
       ]
     },
     {
-      "id": "paw-patrol-la-dino-pelicula",
-      "titulo": "Paw Patrol: la Dino Película",
-      "duracion": 88,
-      "clasificacion": "S/I",
-      "genero": null,
-      "poster": "https://cdn.cinemark.cl/content/posters/HO00015191.jpg",
-      "sinopsis": null,
-      "funciones": [
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-25",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-25T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-26",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-26T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-27",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-27T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        },
-        {
-          "cine": "cinemark-mallplaza-oeste",
-          "dia": "2026-10-28",
-          "sala": "Sala 5",
-          "formato": "2D",
-          "idioma": "S/I",
-          "inicio": "2026-10-28T14:40:00-03:00",
-          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
-        }
-      ]
-    },
-    {
       "id": "avengers-endgame-bonus",
       "titulo": "Avengers Endgame Bonus",
       "duracion": 182,
@@ -19638,6 +18351,44 @@
           "idioma": "SUB",
           "inicio": "2026-10-28T21:10:00-03:00",
           "url": "https://www.cineplanet.cl/pelicula/ozzy-black-sabbath-back-to-the-beginning"
+        }
+      ]
+    },
+    {
+      "id": "paw-patrol-la-dino-pelicula",
+      "titulo": "Paw Patrol: la Dino Película",
+      "duracion": 88,
+      "clasificacion": "S/I",
+      "genero": null,
+      "poster": "https://cdn.cinemark.cl/content/posters/HO00015191.jpg",
+      "sinopsis": null,
+      "funciones": [
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-10-26",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-26T14:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-10-27",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-27T14:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
+        },
+        {
+          "cine": "cinemark-mallplaza-oeste",
+          "dia": "2026-10-28",
+          "sala": "Sala 5",
+          "formato": "2D",
+          "idioma": "S/I",
+          "inicio": "2026-10-28T14:40:00-03:00",
+          "url": "https://www.cinemark.cl/pelicula/paw-patrol-la-dino-pelicula/compra-entradas/entradas"
         }
       ]
     },
